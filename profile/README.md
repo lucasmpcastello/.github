@@ -13,7 +13,11 @@
 
 ## NB: **June 8-10** is a holiday, Recesso de **Corpus Christi** 
 
-## Next talk (🔜 **June 16** 🕑) --  **Sergey Burkin**.
+## Next talk (🔜 **June 16** 🕑) --  **Sergey Burkin** -- **[Operads](https://en.wikipedia.org/wiki/Operad)**
+
+[Operads](https://en.wikipedia.org/wiki/Operad) are structures similar to [categories](https://en.wikipedia.org/wiki/Category_(mathematics)). Morphisms in an operad can have any number of inputs and exactly one output. Each operad encodes a type of algebra. Such types include associative algebras, Lie algebras, [BV-algebras](https://en.wikipedia.org/wiki/Batalin–Vilkovisky_formalism) and other structures appearing in mathematics and physics.
+
+We will describe some of the main applications and ideas in operad theory, including recognition principle, [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality), formality of little disks and [deformation quantization](https://en.wikipedia.org/wiki/Wigner–Weyl_transform#Deformation_quantization), [Grothendieck—Teichmuller theory](https://ncatlab.org/nlab/show/Grothendieck-Teichmüller+tower), and theory of [homotopy coherent structures](https://en.wikipedia.org/wiki/Coherency_(homotopy_theory)).
 
 ## where: 
   - **DMAT PUC-Rio**, room **L856** in Leme building (left from main entrance)
@@ -34,7 +38,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - July 7: resume of seminar in 2023.1, and free discussion
 - June 30 - Andrey Soldatenkov - [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory), what is it and how to use it
 - June 23 - Sergey Sergeyev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, and all that
-- June 16 - Sergey Burkin - [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality) - to be confirmed, maybe something else related to categories, [operads](https://en.wikipedia.org/wiki/Operad), [PROPs](https://en.wikipedia.org/wiki/PROP_(category_theory)), PROBs, trees, and some their applications
+- June 16 - Sergey Burkin -  [Operads](https://en.wikipedia.org/wiki/Operad), and applications - [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality), Grothendieck--Teichmüller theory, deformation quantization, and all that
 - June 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
 
 ## past talks
@@ -58,7 +62,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
-## June 30 -- **Andrey Soldatenkov** -- An introduction to [o-minimal structures](https://en.wikipedia.org/wiki/O-minimal_theory)
+## June 30 -- **Andrey Soldatenkov** -- An introduction to [**o-minimal structures**](https://en.wikipedia.org/wiki/O-minimal_theory)
 
 O-minimal structures are collections of subsets in $\mathbb{R}^n$ that have certain finiteness properties
 that make them similar to semialgebraic sets. I will start by recalling the definition of the latter and
@@ -67,7 +71,13 @@ semialgebraic. Then I will try to give an overview of how one can generalize thi
 of an o-minimal structure. I expect that the talk will mostly be informal, since I am not a specialist in
 o-minimal structures and got interested in them because of their recent applications to Hodge theory. 
 
-## June 16 -- **Sergey Burkin**
+## June 23 -- **Sergey Sergeev** -- WKB
+
+## June 16 -- **Sergey Burkin** -- [**Operads**](https://en.wikipedia.org/wiki/Operad)
+
+[Operads](https://en.wikipedia.org/wiki/Operad) are structures similar to [categories](https://en.wikipedia.org/wiki/Category_(mathematics)). Morphisms in an operad can have any number of inputs and exactly one output. Each operad encodes a type of algebra. Such types include associative algebras, Lie algebras, [BV-algebras](https://en.wikipedia.org/wiki/Batalin–Vilkovisky_formalism) and other structures appearing in mathematics and physics.
+
+We will describe some of the main applications and ideas in operad theory, including recognition principle, [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality), formality of little disks and [deformation quantization](https://en.wikipedia.org/wiki/Wigner–Weyl_transform#Deformation_quantization), [Grothendieck—Teichmuller theory](https://ncatlab.org/nlab/show/Grothendieck-Teichmüller+tower), and theory of [homotopy coherent structures](https://en.wikipedia.org/wiki/Coherency_(homotopy_theory)).
 
 ## June 2 (14:00-16:00, L866) -- **Rodrigo Matos** -- Irreducibility of the Bloch and Fermi varieties on periodic media and connections to spectral theory. (an introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics)
 
