@@ -71,7 +71,9 @@ semialgebraic. Then I will try to give an overview of how one can generalize thi
 of an o-minimal structure. I expect that the talk will mostly be informal, since I am not a specialist in
 o-minimal structures and got interested in them because of their recent applications to Hodge theory. 
 
-## June 23 -- **Sergey Sergeev** -- WKB
+## June 23 -- **Sergey Sergeev** -- WKB, Maslov's canonical operator and semi-classical analysis
+
+In many physical problems the small parameter $h$ appears in the PDE and sometimes such a parameter stands with the operator of differentiation, for example $h\partial / \partial x$. One can ask very natural question about asymptotics of the solution for such PDE while $h\to 0$. Traditionally one of the answers on this question is the  WKB approximation (https://en.wikipedia.org/wiki/WKB_approximation), when the solution is presented in the form of fast-oscillating exponential. This method gives the formal asymptotic solution for the PDE. From the other hand it is well known that WKB approximation fails near the so called turning points which means that such form of the solution is not valid. We will present the generalization of the WKB approximation called the Maslov's Canonical Operator which allows to present asymptotics near turning points. This generalization admits the very interesting geometrical interpretation and also involves the Hamiltonian mechanics. As an example we will consider the 1D equation for the wave propagation in crystall and discuss some open questions related to this example.
 
 ## June 16 -- **Sergey Burkin** -- [**Operads**](https://en.wikipedia.org/wiki/Operad)
 
