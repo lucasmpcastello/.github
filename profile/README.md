@@ -11,18 +11,14 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-## NB: **June 8-10** is a holiday, Recesso de **Corpus Christi** 
+## Next talk (🔜 **June 23** 🕑, room **L866**) --  **Sergey Sergeev** -- WKB, Maslov's canonical operator and semi-classical analysis
 
-## Next talk (🔜 **June 16** 🕑) --  **Sergey Burkin** -- **[Operads](https://en.wikipedia.org/wiki/Operad)**
-
-[Operads](https://en.wikipedia.org/wiki/Operad) are structures similar to [categories](https://en.wikipedia.org/wiki/Category_(mathematics)). Morphisms in an operad can have any number of inputs and exactly one output. Each operad encodes a type of algebra. Such types include associative algebras, Lie algebras, [BV-algebras](https://en.wikipedia.org/wiki/Batalin–Vilkovisky_formalism) and other structures appearing in mathematics and physics.
-
-We will describe some of the main applications and ideas in operad theory, including recognition principle, [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality), formality of little disks and [deformation quantization](https://en.wikipedia.org/wiki/Wigner–Weyl_transform#Deformation_quantization), [Grothendieck—Teichmuller theory](https://ncatlab.org/nlab/show/Grothendieck-Teichmüller+tower), and theory of [homotopy coherent structures](https://en.wikipedia.org/wiki/Coherency_(homotopy_theory)).
+In many physical problems the small parameter $h$ appears in the PDE and sometimes such a parameter stands with the operator of differentiation, for example $h\partial / \partial x$. One can ask very natural question about asymptotics of the solution for such PDE while $h\to 0$. Traditionally one of the answers on this question is the [WKB approximation](https://en.wikipedia.org/wiki/WKB_approximation), when the solution is presented in the form of fast-oscillating exponential. This method gives the formal asymptotic solution for the PDE. From the other hand it is well known that WKB approximation fails near the so-called turning points which means that such form of the solution is not valid. We will present the generalization of the WKB approximation called the Maslov's Canonical Operator which allows to present asymptotics near turning points. This generalization admits the very interesting geometrical interpretation and also involves the Hamiltonian mechanics. As an example we will consider the 1D equation for the wave propagation in crystall and discuss some open questions related to this example.
 
 ## where: 
-  - **DMAT PUC-Rio**, room **L856** in Leme building (left from main entrance)
+  - **DMAT PUC-Rio**, room **L866** in Leme building (left from main entrance)
   - take an elevator to 8th floor near the "Bar Nossa Senhora do Carmo" (one with nuns) in front of "Livraria Carga Nobre" bookshop
-  - if room L856 is occupied (e.g. for Masters/PhD defence) we will use room **L866**
+  - if room L856 is occupied (e.g. for Masters/PhD defence or Bulgarian olympiads) we will use room **L866**
  
 ## when:
   - 🕑 Fridays (sexta-feira) from **14:00 to 16:00** (unless stated other time)
@@ -38,11 +34,12 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - July 7: resume of seminar in 2023.1, and free discussion
 - June 30 - Andrey Soldatenkov - [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory), what is it and how to use it
 - June 23 - Sergey Sergeyev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, and all that
-- June 16 - Sergey Burkin -  [Operads](https://en.wikipedia.org/wiki/Operad), and applications - [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality), Grothendieck--Teichmüller theory, deformation quantization, and all that
-- June 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
 
 ## past talks
 
+
+- June 16 - Sergey Burkin -  [Operads](https://en.wikipedia.org/wiki/Operad), and applications - [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality), Grothendieck--Teichmüller theory, deformation quantization, and all that
+- June 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
 - June 2 (14:00) - Rodrigo: introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics
 - June 2 (9:00) - Miguel: [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), and their relation to [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes)
 - May 26 - Antonio - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
