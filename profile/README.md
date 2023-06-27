@@ -32,12 +32,24 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## what's next
 
+- June 30 - Andrey Soldatenkov -- [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory), what is it and how to use it
 - July 7: resume of seminar in 2023.1, and free discussion
-- June 30 - Andrey Soldatenkov - [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory), what is it and how to use it
+
+## and then
+
+- [Alex Junior Gomez Saltachin](https://sites.google.com/pucp.edu.pe/alequisgomez) -- [Torelli's theorem for curves](https://en.wikipedia.org/wiki/Torelli_theorem)
+- Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others
+- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- introduction to [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry)
+- Altan - TBA (exceptional collections or matrix factorizations or quivers, etc)
+- Iulia Gorginian - TBA
+- Arthur Moreira: domino in 3 dimensions
+- Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence) (TBC)
+- Supersymmetry, Nahm's theorem
+- research topics
 
 ## past talks
 
-- June 23 - Sergey Sergeyev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, and all that
+- June 23 - Sergey Sergeev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, and all that
 - June 16 - Sergey Burkin -  [Operads](https://en.wikipedia.org/wiki/Operad), and applications - [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality), Grothendieck--Teichmüller theory, deformation quantization, and all that
 - June 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
 - June 2 (14:00) - Rodrigo: introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics
