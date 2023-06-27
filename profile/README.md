@@ -11,9 +11,10 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-## Next talk (🔜 **June 23** 🕑, room **L866**) --  **Sergey Sergeev** -- WKB, Maslov's canonical operator and semi-classical analysis
+## Next talk (🔜 **June 03** 🕑, room **L866**) --  **Andrey Soldatenkov** -- An introduction to [**o-minimal structures**](https://en.wikipedia.org/wiki/O-minimal_theory)
 
-In many physical problems the small parameter $h$ appears in the PDE and sometimes such a parameter stands with the operator of differentiation, for example $h\partial / \partial x$. One can ask very natural question about asymptotics of the solution for such PDE while $h\to 0$. Traditionally one of the answers on this question is the [WKB approximation](https://en.wikipedia.org/wiki/WKB_approximation), when the solution is presented in the form of fast-oscillating exponential. This method gives the formal asymptotic solution for the PDE. From the other hand it is well known that WKB approximation fails near the so-called turning points which means that such form of the solution is not valid. We will present the generalization of the WKB approximation called the Maslov's Canonical Operator which allows to present asymptotics near turning points. This generalization admits the very interesting geometrical interpretation and also involves the Hamiltonian mechanics. As an example we will consider the 1D equation for the wave propagation in crystall and discuss some open questions related to this example.
+    O-minimal structures are collections of subsets in $\mathbb{R}^n$ that have certain finiteness properties that make them similar to semialgebraic sets. I will start by recalling the definition of the latter and discussing the Tarski--Seidenberg theorem claiming that a linear projection of a semialgebraic set is again semialgebraic. Then I will try to give an overview of how one can generalize this and obtain the notion of an o-minimal structure.
+    I expect that the talk will mostly be informal, since I am not a specialist in o-minimal structures and got interested in them because of their recent applications to Hodge theory. 
 
 ## where: 
   - **DMAT PUC-Rio**, room **L866** in Leme building (left from main entrance)
@@ -33,11 +34,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 - July 7: resume of seminar in 2023.1, and free discussion
 - June 30 - Andrey Soldatenkov - [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory), what is it and how to use it
-- June 23 - Sergey Sergeyev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, and all that
 
 ## past talks
 
-
+- June 23 - Sergey Sergeyev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, and all that
 - June 16 - Sergey Burkin -  [Operads](https://en.wikipedia.org/wiki/Operad), and applications - [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality), Grothendieck--Teichmüller theory, deformation quantization, and all that
 - June 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
 - June 2 (14:00) - Rodrigo: introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics
