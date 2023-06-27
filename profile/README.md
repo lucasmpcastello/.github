@@ -11,9 +11,11 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-## Next talk (🔜 **June 03** 🕑, room **L866**) --  **Andrey Soldatenkov** -- An introduction to [**o-minimal structures**](https://en.wikipedia.org/wiki/O-minimal_theory)
+## Next talk (🔜 **June 30** 🕑, room **L866**) --  **Andrey Soldatenkov** -- An introduction to [**o-minimal structures**](https://en.wikipedia.org/wiki/O-minimal_theory)
 
-O-minimal structures are collections of subsets in $\mathbb{R}^n$ that have certain finiteness properties that make them similar to semialgebraic sets. I will start by recalling the definition of the latter and discussing the Tarski--Seidenberg theorem claiming that a linear projection of a semialgebraic set is again semialgebraic. Then I will try to give an overview of how one can generalize this and obtain the notion of an o-minimal structure.
+O-minimal structures are collections of subsets in $\mathbb{R}^n$ that have certain finiteness properties that make them similar to [semialgebraic sets](https://en.wikipedia.org/wiki/Semialgebraic_set).
+I will start by recalling the definition of the latter and discussing the [Tarski--Seidenberg theorem](https://en.wikipedia.org/wiki/Tarski–Seidenberg_theorem) claiming that a linear projection of a semialgebraic set is again semialgebraic.
+Then I will try to give an overview of how one can generalize this and obtain the notion of an o-minimal structure.
 I expect that the talk will mostly be informal, since I am not a specialist in o-minimal structures and got interested in them because of their recent applications to Hodge theory. 
 
 ## where: 
@@ -73,12 +75,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## June 30 -- **Andrey Soldatenkov** -- An introduction to [**o-minimal structures**](https://en.wikipedia.org/wiki/O-minimal_theory)
 
-O-minimal structures are collections of subsets in $\mathbb{R}^n$ that have certain finiteness properties
-that make them similar to semialgebraic sets. I will start by recalling the definition of the latter and
-discussing the Tarski--Seidenberg theorem claiming that a linear projection of a semialgebraic set is again
-semialgebraic. Then I will try to give an overview of how one can generalize this and obtain the notion
-of an o-minimal structure. I expect that the talk will mostly be informal, since I am not a specialist in
-o-minimal structures and got interested in them because of their recent applications to Hodge theory. 
+O-minimal structures are collections of subsets in $\mathbb{R}^n$
+that have certain finiteness properties that make them similar to [semialgebraic sets](https://en.wikipedia.org/wiki/Semialgebraic_set).
+I will start by recalling the definition of the latter and discussing the [Tarski--Seidenberg theorem](https://en.wikipedia.org/wiki/Tarski–Seidenberg_theorem) claiming that a linear projection of a semialgebraic set is again semialgebraic. Then I will try to give an overview of how one can generalize this and obtain the notion of an o-minimal structure. I expect that the talk will mostly be informal, since I am not a specialist in o-minimal structures and got interested in them because of their recent applications to Hodge theory. 
 
 ## June 23 -- **Sergey Sergeev** -- WKB, Maslov's canonical operator and semi-classical analysis
 
