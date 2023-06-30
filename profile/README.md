@@ -43,11 +43,18 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
 - Altan - TBA ([semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition) or [matrix factorizations of a polynomial](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial) or [quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics)), etc)
-- Iulia Gorginian - TBA
+- Iulia Gorginian: TBA
+- Maxim Smirnov: TBA
 - Arthur Moreira: domino in 3 dimensions
-- Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence) (TBC)
+- [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
+    [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians
+- Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
+- [Misha Skopenkov](https://users.mccme.ru/mskopenkov):
+    Feynman checkers as an intro to 2-dimensional lattice QED
 - Supersymmetry, Nahm's theorem
 - research topics
+- Misha Verbitsky: TBA
+- Ivan Frolov: TBA
 
 ## past talks
 
