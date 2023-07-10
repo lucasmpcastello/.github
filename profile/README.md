@@ -33,12 +33,24 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
 - Filipe - affine differential geometry and projective differential geometry. Schwarzian derivative.
 - Altan - TBA ([semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition) or [matrix factorizations of a polynomial](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial) or [quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics)), etc)
+- Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
+- [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
+    [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians
+- [Misha Skopenkov](https://users.mccme.ru/mskopenkov):
+    Feynman checkers as an intro to 2-dimensional lattice QED
+- Arthur Moreira: domino in 3 dimensions
+- Iulia Gorginian: TBA
+- Maxim Smirnov: TBA
+- Misha Verbitsky: TBA
+- Ivan Frolov: TBA
+
+# non-assigned topics:
+
 - SUSY, Nahm's theorem on classification of supersymmetry
 - Renormalization in QFT (Quantum Field Theory)
 - Combinatorial Physics
 - CFT (Conformal Field Theory). Wess-Zumino-Novikov-Witten model. Verlinde formula. Tsuchiya-Ueno-Yamada construction. Fusion categories.
 - TQFT (Topological QFT) and extended TQFT
-- Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
 - holonomic D-modules, perverse sheaves, and their applications 
 - Hitchin integrable system on moduli of Higgs bundles. Gaudin's model as parabolic genus 0 case. Beilinson-Drinfeld's quantization.
 - Stability, GIT, moduli spaces, Narasimhan-Seshadri theorem
@@ -52,16 +64,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Atiyah-Floer conjecture and Donaldson-Floer theories
 - matrix factorizations, Landau-Ginzburg models, Khovanov-Rozansky link invariants
 - Gauged Linear Sigma Models and phase transition, VGIT and MMP, Goldstone and Higgs mechanisms of mass generation
-- other research-related topics
-- Iulia Gorginian: TBA
-- Maxim Smirnov: TBA
-- [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
-    [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians
-- [Misha Skopenkov](https://users.mccme.ru/mskopenkov):
-    Feynman checkers as an intro to 2-dimensional lattice QED
-- Misha Verbitsky: TBA
-- Ivan Frolov: TBA
-- Arthur Moreira: domino in 3 dimensions
+- other research-related topics (add yours)
 
 ## 2023.1
 
