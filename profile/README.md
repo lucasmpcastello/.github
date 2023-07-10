@@ -50,6 +50,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Misha Verbitsky: TBA
 - Ivan Frolov: TBA
 - (TBC) Fabiola Cordero: [integrable systems on spaces of polygons, matrices and bundles](https://github.com/fabiolacordero/Comparative-study-of-integrable-systems-on-spaces-of-polygons-matrices-and-bundles/blob/main/slide-en.pdf): Hitchin, Gaudin, Garnier, Kapovich-Millson bending flow, Jeffrey-Weitsman, Gelfand-Zetlin, Nishinou-Nohara-Ueda, Manon-Belmans-Galkin-Mukhopadhyay, etc
+- José Carlos Valencia Alvites: [QCD](https://pt.wikipedia.org/wiki/Cromodin%C3%A2mica_qu%C3%A2ntica) (TBC)
 
 # non-assigned topics:
 
