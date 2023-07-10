@@ -17,8 +17,8 @@
   - if room L856 is occupied (e.g. for Masters/PhD defence or Bulgarian olympiads) we will use room **L866** (**L853**)
  
 ## when:
-  - 🕑 Fridays (sexta-feira) from **14:00 to 18:00** (unless stated other time)
-  - 🍛 usually we lunch around 13:00-14:00, just before the talk
+  - 🕑 Fridays (sexta-feira) from **14:00 to 18:00**
+  - 🍛 usually we lunch just before the seminar, and in 2023.2 we plan to supper just after
 
 #  Seminar materials and how to join
 - Make a pull request to join our group
@@ -73,23 +73,23 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - June 23 - Sergey Sergeev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, and all that
 - June 16 - Sergey Burkin -  [Operads](https://en.wikipedia.org/wiki/Operad), and applications - [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality), Grothendieck--Teichmüller theory, deformation quantization, and all that
 - June 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
-- June 2 (14:00) - Rodrigo: introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics
-- June 2 (9:00) - Miguel: [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), and their relation to [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes)
-- May 26 - Antonio - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
-- May 19 (15:30) - Graham - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology), and beyond
-- May 12 - Verônica - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant) (i.e. graphs on surfaces), and their counting
-- May 5 - Victor - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
-- April 28 - Sergey - pencils of quadrics
+- June 2 (14:00) - Rodrigo Matos: introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics
+- June 2 (9:00) - Miguel Batista: [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), and their relation to [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes)
+- May 26 - Antonio Mac Dowell - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
+- May 19 (15:30) - Graham Smith - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology), and beyond
+- May 12 - Verônica Treumova - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant) (graphs on surfaces), and their counting
+- May 5 - Victor el Adji - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
+- April 28 - Sergey Galkin - pencils of quadrics
 - April 21 - holiday - [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
-- April 14 - Filipe - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
+- April 14 - Filipe Nóbrega - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
 - April 7 - holiday - [Sexta-feira da Paixão](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - March 31 - [Jacques Pienaar](https://www.jaypienaar.com) - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism) for mathematicians
-- March 24, Bruno - [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
+- March 24, Bruno Suassuna - [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
 - March 22, 17:00 - André, Bruno, Sérgio, Verônica, Victor -  free discussion
 
 ## 2022.2
 
-- Dec 16 - Marcos - [Improper Affine Spheres](https://en.wikipedia.org/wiki/Affine_sphere) and [Monge-Ampère equations](https://en.wikipedia.org/wiki/Monge–Ampère_equation)
+- Dec 16 - Marcos Craizer - [Improper Affine Spheres](https://en.wikipedia.org/wiki/Affine_sphere) and [Monge-Ampère equations](https://en.wikipedia.org/wiki/Monge–Ampère_equation)
 - Dec 9 - Alexander Guterman - [Permanents](https://en.wikipedia.org/wiki/Permanent_(mathematics))
 
 
