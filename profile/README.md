@@ -33,16 +33,17 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - [Alex Junior Gomez Saltachin](https://sites.google.com/pucp.edu.pe/alequisgomez) -- [Torelli's theorem for curves](https://en.wikipedia.org/wiki/Torelli_theorem), Andreatti's proof via projective duality
 - Altan -- a proof of Torelli theorem for curves via Fourier--Mukai transform
 - Arthur Fidalgo - Species of structures under the view of enumerative combinatorics
-- Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others
+- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) - mirror symmetry for Jacobians (online)
+- Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others (in September)
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
 - Filipe - affine differential geometry and projective differential geometry. Schwarzian derivative.
 - Bruno - renormalization (TBC),
 - Victor - matrix factorizations (TBC),
 - Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
 - [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
-    [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians
+    [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians (in November)
 - [Misha Skopenkov](https://users.mccme.ru/mskopenkov):
-    Feynman checkers as an intro to 2-dimensional lattice QED
+    Feynman checkers as an intro to 2-dimensional lattice QED (online)
 - Arthur Moreira: domino in 3 dimensions
 - Iulia Gorginian: TBA
 - Maxim Smirnov: TBA
