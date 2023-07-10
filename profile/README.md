@@ -27,7 +27,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## what's next: plans for July-August, 2023.2, and beyond
 
-- [Alex Junior Gomez Saltachin](https://sites.google.com/pucp.edu.pe/alequisgomez) -- [Torelli's theorem for curves](https://en.wikipedia.org/wiki/Torelli_theorem)
+- [Alex Junior Gomez Saltachin](https://sites.google.com/pucp.edu.pe/alequisgomez) -- [Torelli's theorem for curves](https://en.wikipedia.org/wiki/Torelli_theorem), Andreatti's proof via projective duality
+- Altan -- a proof of Torelli theorem for curves via Fourier--Mukai transform
 - Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
 - Altan - TBA ([semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition) or [matrix factorizations of a polynomial](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial) or [quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics)), etc)
