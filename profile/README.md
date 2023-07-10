@@ -34,7 +34,6 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
 - Arthur Fidalgo: [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
 - [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514): [mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online)
-- Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others (in September, hybrid)
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
 - Filipe: [affine differential geometry](https://en.wikipedia.org/wiki/Affine_differential_geometry) and [projective differential geometry](https://en.wikipedia.org/wiki/Projective_differential_geometry). [Schwarzian derivative](https://en.wikipedia.org/wiki/Schwarzian_derivative).
 - Bruno: renormalization in QFT and [Batalin-Vilkovisky formalism](https://en.wikipedia.org/wiki/Batalin-Vilkovisky_formalism) (TBC),
@@ -45,6 +44,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - [Misha Skopenkov](https://users.mccme.ru/mskopenkov):
     [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory) (online)
 - Arthur Moreira: domino in 3 dimensions
+- Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others (in September, hybrid)
 - Iulia Gorginian: TBA
 - Maxim Smirnov: TBA (online)
 - Misha Verbitsky: TBA
