@@ -27,6 +27,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## what's next: plans for July-August, 2023.2, and beyond
 
+- Holidays: Oct 13, Dec 8
+
 - [Alex Junior Gomez Saltachin](https://sites.google.com/pucp.edu.pe/alequisgomez) -- [Torelli's theorem for curves](https://en.wikipedia.org/wiki/Torelli_theorem), Andreatti's proof via projective duality
 - Altan -- a proof of Torelli theorem for curves via Fourier--Mukai transform
 - Arthur Fidalgo - Species of structures under the view of enumerative combinatorics
