@@ -11,20 +11,13 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-## Next talk (🔜 **June 30** 🕑, room **L866**) --  **Andrey Soldatenkov** -- An introduction to [**o-minimal structures**](https://en.wikipedia.org/wiki/O-minimal_theory)
-
-O-minimal structures are collections of subsets in $\mathbb{R}^n$ that have certain finiteness properties that make them similar to [semialgebraic sets](https://en.wikipedia.org/wiki/Semialgebraic_set).
-I will start by recalling the definition of the latter and discussing the [Tarski--Seidenberg theorem](https://en.wikipedia.org/wiki/Tarski–Seidenberg_theorem) claiming that a linear projection of a semialgebraic set is again semialgebraic.
-Then I will try to give an overview of how one can generalize this and obtain the notion of an o-minimal structure.
-I expect that the talk will mostly be informal, since I am not a specialist in o-minimal structures and got interested in them because of their recent applications to Hodge theory. 
-
 ## where: 
-  - **DMAT PUC-Rio**, room **L866** in Leme building (left from main entrance)
+  - **DMAT PUC-Rio**, room **L856** in Leme building (left from main entrance)
   - take an elevator to 8th floor near the "Bar Nossa Senhora do Carmo" (one with nuns) in front of "Livraria Carga Nobre" bookshop
-  - if room L856 is occupied (e.g. for Masters/PhD defence or Bulgarian olympiads) we will use room **L866**
+  - if room L856 is occupied (e.g. for Masters/PhD defence or Bulgarian olympiads) we will use room **L866** (**L853**)
  
 ## when:
-  - 🕑 Fridays (sexta-feira) from **14:00 to 16:00** (unless stated other time)
+  - 🕑 Fridays (sexta-feira) from **14:00 to 18:00** (unless stated other time)
   - 🍛 usually we lunch around 13:00-14:00, just before the talk
 
 #  Seminar materials and how to join
@@ -32,32 +25,37 @@ I expect that the talk will mostly be informal, since I am not a specialist in o
 - Please [⭣⭣⭣ add here ⭣⭣⭣](https://github.com/friday-seminar/.github/blob/master/topics.md)
 interesting themes and topics for next seminar talks, references, slides of the talks, etc
 
-## what's next
-
-- June 30 - Andrey Soldatenkov -- [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory), what is it and how to use it
-- July 7: resume of seminar in 2023.1, and free discussion
-
-## and then
+## what's next: plans for July-August, 2023.2, and beyond
 
 - [Alex Junior Gomez Saltachin](https://sites.google.com/pucp.edu.pe/alequisgomez) -- [Torelli's theorem for curves](https://en.wikipedia.org/wiki/Torelli_theorem)
 - Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
 - Altan - TBA ([semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition) or [matrix factorizations of a polynomial](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial) or [quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics)), etc)
+- SUSY, Nahm's theorem on classification of supersymmetry
+- Renormalization in QFT
+- Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
+- Hitchin integrable system on moduli of Higgs bundles
+- Non-abelian Hodge theory
+- Kapustin--Witten perspective on geometric Langlands as a combination of N=4 SYM, S-duality, compactification on Riemann surface and mirror symmetry. Wilson and t'Hooft operators.
+- geometric Langlands: De Rham (Beilinson--Drinfeld, Arinkin--Gaitsgory) X Dolbeault (Donagi--Pantev) X Betti (Ben-Zvi--Nadler)
+- Atiyah-Floer conjecture and Donaldson-Floer theories
+- matrix factorizations, Landau-Ginzburg models, Khovanov-Rozansky link invariants
+- Gauged Linear Sigma Models and phase transition, VGIT and MMP, Goldstone and Higgs mechanisms of mass generation
+- research topics
 - Iulia Gorginian: TBA
 - Maxim Smirnov: TBA
-- Arthur Moreira: domino in 3 dimensions
 - [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
     [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians
-- Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
 - [Misha Skopenkov](https://users.mccme.ru/mskopenkov):
     Feynman checkers as an intro to 2-dimensional lattice QED
-- Supersymmetry, Nahm's theorem
-- research topics
 - Misha Verbitsky: TBA
 - Ivan Frolov: TBA
+- Arthur Moreira: domino in 3 dimensions
 
-## past talks
+## 2023.1
 
+- July 7: summary of seminar in 2023.1, and free discussion
+- June 30 - Andrey Soldatenkov -- [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory), what is it and how to use it
 - June 23 - Sergey Sergeev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, and all that
 - June 16 - Sergey Burkin -  [Operads](https://en.wikipedia.org/wiki/Operad), and applications - [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality), Grothendieck--Teichmüller theory, deformation quantization, and all that
 - June 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
@@ -74,8 +72,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - March 31 - [Jacques Pienaar](https://www.jaypienaar.com) - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism) for mathematicians
 - March 24, Bruno - [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
 - March 22, 17:00 - André, Bruno, Sérgio, Verônica, Victor -  free discussion
-- 2022, Dec 16 - Marcos - [Improper Affine Spheres](https://en.wikipedia.org/wiki/Affine_sphere) and [Monge-Ampère equations](https://en.wikipedia.org/wiki/Monge–Ampère_equation)
-- 2022, Dec 9 - Alexander Guterman - [Permanents](https://en.wikipedia.org/wiki/Permanent_(mathematics))
+
+## 2022.2
+
+- Dec 16 - Marcos - [Improper Affine Spheres](https://en.wikipedia.org/wiki/Affine_sphere) and [Monge-Ampère equations](https://en.wikipedia.org/wiki/Monge–Ampère_equation)
+- Dec 9 - Alexander Guterman - [Permanents](https://en.wikipedia.org/wiki/Permanent_(mathematics))
 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
