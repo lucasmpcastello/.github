@@ -53,7 +53,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 # non-assigned topics:
 
 - SUSY, Nahm's theorem on classification of supersymmetry
-- Renormalization in QFT (Quantum Field Theory)
+- Renormalization in QFT (Quantum Field Theory): Costello's book and Connes-Kreimer's Hopf algebra aproach (Bruno?)
 - Combinatorial Physics
 - CFT (Conformal Field Theory). Wess-Zumino-Novikov-Witten model. Verlinde formula. Tsuchiya-Ueno-Yamada construction. Fusion categories.
 - TQFT (Topological QFT) and extended TQFT
