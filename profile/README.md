@@ -97,7 +97,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - April 14 - Filipe Nóbrega - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
 - April 7 - holiday - [Sexta-feira da Paixão](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - March 31 - [Jacques Pienaar](https://www.jaypienaar.com) - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism) for mathematicians
-- March 24, Bruno Suassuna - [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
+- March 24 - Bruno Suassuna - [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
 - March 22, 17:00 - André, Bruno, Sérgio, Verônica, Victor -  free discussion
 
 ## 2022.2
