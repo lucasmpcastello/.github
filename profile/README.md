@@ -33,7 +33,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - [Alex Junior Gomez Saltachin](https://sites.google.com/pucp.edu.pe/alequisgomez) -- [Torelli's theorem for curves](https://en.wikipedia.org/wiki/Torelli_theorem), Andreatti's proof via projective duality
 - Altan -- a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
 - Arthur Fidalgo - [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
-- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) - mirror symmetry for Jacobians of hyper-elliptic curves (online)
+- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) - [mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online)
 - Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others (in September, hybrid)
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
 - Filipe - [affine differential geometry](https://en.wikipedia.org/wiki/Affine_differential_geometry) and [projective differential geometry](https://en.wikipedia.org/wiki/Projective_differential_geometry). [Schwarzian derivative](https://en.wikipedia.org/wiki/Schwarzian_derivative).
