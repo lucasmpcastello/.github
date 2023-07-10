@@ -33,7 +33,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
 - Altan - TBA ([semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition) or [matrix factorizations of a polynomial](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial) or [quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics)), etc)
 - SUSY, Nahm's theorem on classification of supersymmetry
-- Renormalization in QFT
+- Renormalization in QFT (Quantum Field Theory)
+- Combinatorial Physics
+- CFT (Conformal Field Theory). Wess-Zumino-Novikov-Witten model. Verlinde formula. Tsuchiya-Ueno-Yamada construction. Fusion categories.
+- TQFT (Topological QFT) and extended TQFT
 - Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
 - Hitchin integrable system on moduli of Higgs bundles
 - Non-abelian Hodge theory
