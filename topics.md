@@ -6,6 +6,27 @@ interesting themes for next seminar talks, references, slides of the talks, etc
 
 Some topics below is but an example, add yours!
 
+- SUSY, Nahm's theorem on classification of supersymmetry
+- Renormalization in QFT (Quantum Field Theory)
+- Combinatorial Physics
+- CFT (Conformal Field Theory). Wess-Zumino-Novikov-Witten model. Verlinde formula. Tsuchiya-Ueno-Yamada construction. Fusion categories.
+- TQFT (Topological QFT) and extended TQFT
+- holonomic D-modules, perverse sheaves, and their applications
+- Hitchin integrable system on moduli of Higgs bundles. Gaudin's model as parabolic genus 0 case. Beilinson-Drinfeld's quantization.
+- Stability, GIT, moduli spaces, Narasimhan-Seshadri theorem
+- Parabolic bundles and Mehta-Seshadri theorem. Relation to moduli spaces of spherical polygons.
+- Moduli spaces of Euclidean polygons, Kapovich-Millson's system of bending flows as a limit of Hitchin system
+- Additive Horn problem, cohomology of Grassmannian, Knutsen-Tao honeycombs and their polytopes, planar networks
+- Multiplicative Horn problem, quantum cohomology of Grassmannian, and the respective polytopes
+- Non-abelian Hodge theory of Carlos Simpson: three invarnations of representations of fundamental group
+- Kapustin--Witten perspective on geometric Langlands as a combination of N=4 SYM, S-duality, compactification on Riemann surface and mirror symmetry. Wilson and t'Hooft operators.
+- geometric Langlands: De Rham (Beilinson--Drinfeld, Arinkin--Gaitsgory) X Dolbeault (Donagi--Pantev) X Betti (Ben-Zvi--Nadler)
+- Atiyah-Floer conjecture and Donaldson-Floer theories
+- matrix factorizations, Landau-Ginzburg models, Khovanov-Rozansky link invariants
+- Gauged Linear Sigma Models and phase transition, VGIT and MMP, Goldstone and Higgs mechanisms of mass generation
+- other research-related topics (add yours)
+
+
 
 1. [Kazhdan's Property T](https://en.wikipedia.org/wiki/Kazhdan's_property_(T)) and amenability.
    1. Ozawa's characterization of Property T in terms of [semidefinite programming](https://en.wikipedia.org/wiki/Semidefinite_programming)
