@@ -43,7 +43,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
     [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians (in November)
 - [Misha Skopenkov](https://users.mccme.ru/mskopenkov):
-    Feynman checkers as an intro to 2-dimensional lattice QED (online)
+    Feynman checkers as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory) (online)
 - Arthur Moreira: domino in 3 dimensions
 - Iulia Gorginian: TBA
 - Maxim Smirnov: TBA (online)
