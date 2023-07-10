@@ -31,6 +31,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Altan -- a proof of Torelli theorem for curves via Fourier--Mukai transform
 - Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
+- Filipe - affine differential geometry and projective differential geometry. Schwarzian derivative.
 - Altan - TBA ([semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition) or [matrix factorizations of a polynomial](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial) or [quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics)), etc)
 - SUSY, Nahm's theorem on classification of supersymmetry
 - Renormalization in QFT (Quantum Field Theory)
