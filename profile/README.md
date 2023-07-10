@@ -29,10 +29,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 - [Alex Junior Gomez Saltachin](https://sites.google.com/pucp.edu.pe/alequisgomez) -- [Torelli's theorem for curves](https://en.wikipedia.org/wiki/Torelli_theorem), Andreatti's proof via projective duality
 - Altan -- a proof of Torelli theorem for curves via Fourier--Mukai transform
+- Arthur Fidalgo - Species of structures under the view of enumerative combinatorics
 - Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero) -- [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
 - Filipe - affine differential geometry and projective differential geometry. Schwarzian derivative.
-- Altan - TBA ([semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition) or [matrix factorizations of a polynomial](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial) or [quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics)), etc)
+- Altan - TBA 
 - Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
 - [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
     [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians
@@ -62,8 +63,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Kapustin--Witten perspective on geometric Langlands as a combination of N=4 SYM, S-duality, compactification on Riemann surface and mirror symmetry. Wilson and t'Hooft operators.
 - geometric Langlands: De Rham (Beilinson--Drinfeld, Arinkin--Gaitsgory) X Dolbeault (Donagi--Pantev) X Betti (Ben-Zvi--Nadler)
 - Atiyah-Floer conjecture and Donaldson-Floer theories
-- matrix factorizations, Landau-Ginzburg models, Khovanov-Rozansky link invariants
+- [matrix factorizations of a polynomial](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial), Landau-Ginzburg models, singularity category, Khovanov-Rozansky link invariants
 - Gauged Linear Sigma Models and phase transition, VGIT and MMP, Goldstone and Higgs mechanisms of mass generation
+- [semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition)
+- [quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics))
 - other research-related topics (add yours)
 
 ## 2023.1
