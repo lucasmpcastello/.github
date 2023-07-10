@@ -40,7 +40,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - TQFT (Topological QFT) and extended TQFT
 - Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
 - Hitchin integrable system on moduli of Higgs bundles
-- Non-abelian Hodge theory
+- Non-abelian Hodge theory of Carlos Simpson: three invarnations of representations of fundamental group
 - Kapustin--Witten perspective on geometric Langlands as a combination of N=4 SYM, S-duality, compactification on Riemann surface and mirror symmetry. Wilson and t'Hooft operators.
 - geometric Langlands: De Rham (Beilinson--Drinfeld, Arinkin--Gaitsgory) X Dolbeault (Donagi--Pantev) X Betti (Ben-Zvi--Nadler)
 - Atiyah-Floer conjecture and Donaldson-Floer theories
