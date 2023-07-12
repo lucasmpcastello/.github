@@ -108,6 +108,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
+## **Arthur Fidalgo** -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
+
+In 1981, André Joyal started the development of an interesting theory of species of structures. In his theory, combinatorial species (e.g. graphs, permutations) can be seen as endofunctors of the category of finite sets and bijections. This allows the study of operations, like addition and multiplication, of species, which became a key technique for enumeration. In this talk, we will present a brief introduction to this technique, and some interesting examples of its usage in enumerative combinatorics.
+
+
 ## June 30 -- **Andrey Soldatenkov** -- An introduction to [**o-minimal structures**](https://en.wikipedia.org/wiki/O-minimal_theory)
 
 O-minimal structures are collections of subsets in $\mathbb{R}^n$
