@@ -12,9 +12,9 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 ## where: 
-  - **DMAT PUC-Rio**, room **L856** in Leme building (left from main entrance)
+  - **DMAT PUC-Rio**, rooms **L856** or **L863** in Leme building (left from main entrance)
   - take an elevator to 8th floor near the "Bar Nossa Senhora do Carmo" (one with nuns) in front of "Livraria Carga Nobre" bookshop
-  - if room L856 is occupied (e.g. for Masters/PhD defence or Bulgarian olympiads) we will use room **L866** (**L853**)
+  - if one room is occupied (e.g. for Masters/PhD defence or Bulgarian olympiads) we will use another one
  
 ## when:
   - 🕑 Fridays (sexta-feira) from **14:00 to 18:00**
