@@ -62,8 +62,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Renormalization in QFT (Quantum Field Theory): Costello's book and Connes-Kreimer's Hopf algebra aproach (Bruno?)
 - Combinatorial Physics
 - CFT (Conformal Field Theory). Wess-Zumino-Novikov-Witten model. Verlinde formula. Tsuchiya-Ueno-Yamada construction. Fusion categories.
-- TQFT (Topological QFT) and extended TQFT
-- holonomic D-modules, perverse sheaves, and their applications 
+- TQFT (Topological QFT), extended TQFT, fully extended TQFT and cobordism hypothesis
+- holonomic D-modules (Dmitrii), perverse sheaves, and their applications 
 - Hitchin integrable system on moduli of Higgs bundles. Gaudin's model as parabolic genus 0 case. Beilinson-Drinfeld's quantization.
 - Stability, GIT, moduli spaces, Narasimhan-Seshadri theorem
 - Parabolic bundles and Mehta-Seshadri theorem. Relation to moduli spaces of spherical polygons.
