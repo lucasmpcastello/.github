@@ -33,6 +33,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - pre-2023.2: July 28, August 4, August 11
 - 2023.2: Aug 18, 25; Sep 1, 8, 15, 22, 29; Oct 6, 20, 27; Nov 3, 10, 17, 24; Dec 1, (15), (22).
           15 non-holiday Fridays from Aug 18 to Dec 1, 2023.
+- Dmitrii Korshunov -- [Bernstein-Sato polynomials](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)   and the division of distributions
 - [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for curves](https://en.wikipedia.org/wiki/Torelli_theorem), Andreatti's proof via projective duality
 - Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
 - Arthur Fidalgo: [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
@@ -48,12 +49,12 @@ interesting themes and topics for next seminar talks, references, slides of the 
     [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory) (online)
 - Arthur Moreira: domino in 3 dimensions
 - Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others (in September, hybrid)
+- José Carlos Valencia Alvites: [QCD](https://pt.wikipedia.org/wiki/Cromodin%C3%A2mica_qu%C3%A2ntica)
 - Iulia Gorginian: TBA
 - Maxim Smirnov: TBA (online)
-- Misha Verbitsky: TBA
+- Misha Verbitsky: special affine Hessian manifolds and Monge-Ampere equation (TBC/TBA)
 - Ivan Frolov: TBA
 - (TBC) Fabiola Cordero: [integrable systems on spaces of polygons, matrices and bundles](https://github.com/fabiolacordero/Comparative-study-of-integrable-systems-on-spaces-of-polygons-matrices-and-bundles/blob/main/slide-en.pdf): Hitchin, Gaudin, Garnier, Kapovich-Millson bending flow, Jeffrey-Weitsman, Gelfand-Zetlin, Nishinou-Nohara-Ueda, Manon-Belmans-Galkin-Mukhopadhyay, etc
-- José Carlos Valencia Alvites: [QCD](https://pt.wikipedia.org/wiki/Cromodin%C3%A2mica_qu%C3%A2ntica) (TBC)
 
 # non-assigned topics:
 
@@ -112,6 +113,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 In 1981, André Joyal started the development of an interesting theory of species of structures. In his theory, combinatorial species (e.g. graphs, permutations) can be seen as endofunctors of the category of finite sets and bijections. This allows the study of operations, like addition and multiplication, of species, which became a key technique for enumeration. In this talk, we will present a brief introduction to this technique, and some interesting examples of its usage in enumerative combinatorics.
 
+## **Dmitrii Korshunov** -- [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
+
+We will discuss some basic properties of left modules over the Weyl algebra ('algebraic D-modules on an affine space') up to the J. Bernstein's inequality and the notion of a holonomic module. We'll proceed to prove the existence of Bernstein-Sato polynomials and employ them to analytically continue complex powers of polynomials. As an application, a Hironaka-free solution to the problem of division of distributions by polynomials will follow. I will conclude with a remark about how all this provides a purely algebraic proof of theorems of Malgrange-Ehrenpreis and Lojasiewicz-Hormander about the existence of fundamental solutions of linear PDEs with constant coefficients.
 
 ## June 30 -- **Andrey Soldatenkov** -- An introduction to [**o-minimal structures**](https://en.wikipedia.org/wiki/O-minimal_theory)
 
