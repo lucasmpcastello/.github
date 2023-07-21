@@ -11,6 +11,9 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
+## we are:
+a research and study group of professors and post-graduate students of PUC-Rio, IMPA and UFF, interested in algebraic geometry, Quantum Field Theory, number theory, enumerative combinatorics, categories and operads, quantum mechanics, symplectic geometry, ordinary differential equations, mirror symmetry, Langlands correspondence, information geometry, homological, homotopical and commutative algebra, (quantum) information theory, affine geometry, and other related topics
+
 ## when and where:
   - 🕑 Fridays (sexta-feiras) from **14:00 to 18:00**
   - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance)
