@@ -11,14 +11,13 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-## where: 
-  - **DMAT PUC-Rio**, rooms **L856** or **L863** in Leme building (left from main entrance)
+## when and where:
+  - 🕑 Fridays (sexta-feiras) from **14:00 to 18:00**
+  - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance)
   - take an elevator to 8th floor near the "Bar Nossa Senhora do Carmo" (one with nuns) in front of "Livraria Carga Nobre" bookshop
-  - if one room is occupied (e.g. for Masters/PhD defence or Bulgarian olympiads) we will use another one
- 
-## when:
-  - 🕑 Fridays (sexta-feira) from **14:00 to 18:00**
+  - if room L863 will be occupied by Masters/PhD defence, etc we will use another one
   - 🍛 usually we lunch just before the seminar, and in 2023.2 we plan to supper just after
+ 
 
 #  Seminar materials and how to join
 - Make a pull request to join our group
@@ -33,7 +32,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - pre-2023.2: July 28, August 4, August 11
 - 2023.2: Aug 18, 25; Sep 1, 8, 15, 22, 29; Oct 6, 20, 27; Nov 3, 10, 17, 24; Dec 1, (15), (22).
           15 non-holiday Fridays from Aug 18 to Dec 1, 2023.
-- Dmitrii Korshunov -- [Bernstein-Sato polynomials](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)   and the division of distributions
+- Dmitrii Korshunov -- [Bernstein-Sato polynomials](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial) and the division of distributions
 - [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for curves](https://en.wikipedia.org/wiki/Torelli_theorem), Andreatti's proof via projective duality
 - Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
 - Arthur Fidalgo: [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
