@@ -36,7 +36,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - 2023.2: Aug 18, 25; Sep 1, 8, 15, 22, 29; Oct 6, 20, 27; Nov 3, 10, 17, 24; Dec 1, (15), (22).
           15 non-holiday Fridays from Aug 18 to Dec 1, 2023.
 - Dmitrii Korshunov -- [Bernstein-Sato polynomials](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial) and the division of distributions
-- [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for curves](https://en.wikipedia.org/wiki/Torelli_theorem), Henrik H. Martens' proof
+- [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for compact Riemann surfaces](https://en.wikipedia.org/wiki/Torelli_theorem), Henrik H. Martens' proof
 - Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
 - Arthur Fidalgo: [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
 - [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514): [mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online)
