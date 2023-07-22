@@ -1,5 +1,5 @@
 ## [Alex Junior Gomez Saltachin](https://sites.google.com/pucp.edu.pe/alequisgomez)
-### [Torelli's theorem for curves](https://en.wikipedia.org/wiki/Torelli_theorem)
+### [Torelli's theorem for compact Riemann surfaces](https://en.wikipedia.org/wiki/Torelli_theorem)
 
 Torelli's theorem for compact Riemann surfaces of genus g ≥ 1 states that if J is the Jacobian variety of a compact Riemann surface X equipped with its canonical polarization, then the canonical image of X in J is uniquely determined by J, up to a transformation of the form x → ±x ± a.
 
