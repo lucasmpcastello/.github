@@ -41,7 +41,6 @@ interesting themes and topics for next seminar talks, references, slides of the 
   - Oct 13 - Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
   - Dec 8 - [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
 - 2023.2:  Aug 4, 11, 18, 25;  Sep 1, 8, 15, 22, 29;  Oct 6, 20, 27;  Nov 3, 10, 17, 24;  Dec 1, (15), (22).
-          15 non-holiday Fridays from Aug 18 to Dec 1, 2023.
 - Dmitrii Korshunov -- [Bernstein-Sato polynomials](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial) and the division of distributions
 - [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for compact Riemann surfaces](https://en.wikipedia.org/wiki/Torelli_theorem), Henrik H. Martens' proof
 - Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
