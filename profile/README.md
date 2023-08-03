@@ -91,14 +91,14 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ## 2023.1
 
 - July 7: summary of seminar in 2023.1, and free discussion
-- June 30 - Andrey Soldatenkov - [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory), what is it and how to use it
-- June 23 - Sergey Sergeev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, and all that
-- June 16 - Sergey Burkin -  [Operads](https://en.wikipedia.org/wiki/Operad), and applications - [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality), Grothendieck--Teichmüller theory, deformation quantization, and all that
+- June 30 - Andrey Soldatenkov - [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory)
+- June 23 - Sergey Sergeev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, &c
+- June 16 - Sergey Burkin -  [Operads](https://en.wikipedia.org/wiki/Operad) (and applications - [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality), Grothendieck--Teichmüller theory, deformation quantization, &c)
 - June 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
 - June 2 (14:00) - Rodrigo Matos - introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics
 - June 2 (9:00) - Miguel Batista - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), and their relation to [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes)
 - May 26 - Antonio Mac Dowell - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
-- May 19 (15:30) - Graham Smith - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology), and beyond
+- May 19 (15:30) - Graham Smith - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
 - May 12 - Verônica Treumova - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant) (graphs on surfaces), and their counting
 - May 5 - Victor el Adji - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 - April 28 - Sergey Galkin - pencils of quadrics
