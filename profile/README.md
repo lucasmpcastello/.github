@@ -11,6 +11,14 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
+## August 4 -- **Dmitrii Korshunov** -- [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
+
+We will discuss some basic properties of left modules over the Weyl algebra ('algebraic D-modules on an affine space') up to the J. Bernstein's inequality and the notion of a holonomic module. We'll proceed to prove the existence of Bernstein-Sato polynomials and employ them to analytically continue complex powers of polynomials. As an application, a Hironaka-free solution to the problem of division of distributions by polynomials will follow. I will conclude with a remark about how all this provides a purely algebraic proof of theorems of Malgrange-Ehrenpreis and Lojasiewicz-Hormander about the existence of fundamental solutions of linear PDEs with constant coefficients.
+
+## August 11 -- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybride)
+
+
+
 ## we are:
 a research and study group of professors and post-graduate mathematics students of PUC-Rio, IMPA and UFF, interested in algebraic geometry, quantum field theory, quantum topology, number theory, enumerative combinatorics, spectral theory, categories and operads, quantum mechanics, symplectic geometry, ordinary differential equations, mirror symmetry, Langlands correspondence, conformal field theory, information geometry, homological, homotopical and commutative algebra, (quantum) information theory, gauge theory, affine geometry, their interfaces and other related topics
 
@@ -115,7 +123,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 In 1981, André Joyal started the development of an interesting theory of species of structures. In his theory, combinatorial species (e.g. graphs, permutations) can be seen as endofunctors of the category of finite sets and bijections. This allows the study of operations, like addition and multiplication, of species, which became a key technique for enumeration. In this talk, we will present a brief introduction to this technique, and some interesting examples of its usage in enumerative combinatorics.
 
-## **Dmitrii Korshunov** -- [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
+## August 4 -- **Dmitrii Korshunov** -- [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
 
 We will discuss some basic properties of left modules over the Weyl algebra ('algebraic D-modules on an affine space') up to the J. Bernstein's inequality and the notion of a holonomic module. We'll proceed to prove the existence of Bernstein-Sato polynomials and employ them to analytically continue complex powers of polynomials. As an application, a Hironaka-free solution to the problem of division of distributions by polynomials will follow. I will conclude with a remark about how all this provides a purely algebraic proof of theorems of Malgrange-Ehrenpreis and Lojasiewicz-Hormander about the existence of fundamental solutions of linear PDEs with constant coefficients.
 
