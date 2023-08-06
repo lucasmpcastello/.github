@@ -1,4 +1,5 @@
-# Arthur Fidalgo
+### Arthur Fidalgo
+#### Combinatorial species: species of structures under the view of enumerative combinatorics
 
 In 1981, André Joyal started the development of an interesting theory of species of structures.
 In his theory, combinatorial species (e.g. graphs, permutations) can be seen
