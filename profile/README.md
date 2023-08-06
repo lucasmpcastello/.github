@@ -54,15 +54,13 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Bruno: renormalization in QFT and [Batalin-Vilkovisky formalism](https://en.wikipedia.org/wiki/Batalin-Vilkovisky_formalism) (TBC),
 - Victor: [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial),
 - Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
-    as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory) (online)
 - Arthur Moreira: domino in 3 dimensions
 - Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others (in September, hybrid)
 - Iulia Gorginian: TBA
 - Maxim Smirnov: TBA (online)
 - Misha Verbitsky: special affine Hessian manifolds and Monge-Ampere equation (TBC/TBA)
 - [Israel Vainsencher](https://www.mat.ufmg.br/israel): TBA
-- [Misha Skopenkov](https://users.mccme.ru/mskopenkov):
-    [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard)
+- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory) (online)
 - José Carlos Valencia Alvites: [QCD](https://pt.wikipedia.org/wiki/Cromodin%C3%A2mica_qu%C3%A2ntica)
 - [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
     [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians (in November)
