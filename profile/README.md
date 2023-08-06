@@ -11,10 +11,6 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-## August 4 -- **Dmitrii Korshunov** -- [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
-
-We will discuss some basic properties of left modules over the Weyl algebra ('algebraic D-modules on an affine space') up to the J. Bernstein's inequality and the notion of a holonomic module. We'll proceed to prove the existence of Bernstein-Sato polynomials and employ them to analytically continue complex powers of polynomials. As an application, a Hironaka-free solution to the problem of division of distributions by polynomials will follow. I will conclude with a remark about how all this provides a purely algebraic proof of theorems of Malgrange-Ehrenpreis and Lojasiewicz-Hormander about the existence of fundamental solutions of linear PDEs with constant coefficients.
-
 ## August 11 -- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybride)
 
 In this talk I will present a mirror symmetry constructions for the Jacobians of hyperelliptic curves. In particular, using the abelian/nonabelian correspondence by Ciocan-Fontanine--Kim--Sabbah [arXiv:math/0610265](https://arxiv.org/abs/math/0610265), we will calculate its J-function which usually encodes the Gromov-Witten invariants of a variety, but turns out to be nontrivial in this case, and we will construct a certain family of complex tori that could be considered as the mirror family by some numerical evidences. 
@@ -37,30 +33,29 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## what's next: plans for July-August, 2023.2, and beyond
 
-- Holidays: 
-  - Oct 13 - Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
-  - Dec 8 - [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
 - 2023.2:  Aug 4, 11, 18, 25;  Sep 1, 8, 15, 22, 29;  Oct 6, 20, 27;  Nov 3, 10, 17, 24;  Dec 1, (15), (22).
-- Dmitrii Korshunov -- [Bernstein-Sato polynomials](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial) and the division of distributions
+- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514): [mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online)
+- Nikita Klemyatin: [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) and its proof (TBC)
 - [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for compact Riemann surfaces](https://en.wikipedia.org/wiki/Torelli_theorem), Henrik H. Martens' proof
 - Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
 - Arthur Fidalgo: [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
-- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514): [mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online)
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
 - Filipe: [affine differential geometry](https://en.wikipedia.org/wiki/Affine_differential_geometry) and [projective differential geometry](https://en.wikipedia.org/wiki/Projective_differential_geometry). [Schwarzian derivative](https://en.wikipedia.org/wiki/Schwarzian_derivative).
 - Bruno: renormalization in QFT and [Batalin-Vilkovisky formalism](https://en.wikipedia.org/wiki/Batalin-Vilkovisky_formalism) (TBC),
 - Victor: [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial),
 - Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
-- [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
-    [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians (in November)
-- [Misha Skopenkov](https://users.mccme.ru/mskopenkov):
-    [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory) (online)
+    as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory) (online)
 - Arthur Moreira: domino in 3 dimensions
 - Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others (in September, hybrid)
-- José Carlos Valencia Alvites: [QCD](https://pt.wikipedia.org/wiki/Cromodin%C3%A2mica_qu%C3%A2ntica)
 - Iulia Gorginian: TBA
 - Maxim Smirnov: TBA (online)
 - Misha Verbitsky: special affine Hessian manifolds and Monge-Ampere equation (TBC/TBA)
+- [Israel Vainsencher](https://www.mat.ufmg.br/israel): TBA
+- [Misha Skopenkov](https://users.mccme.ru/mskopenkov):
+    [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard)
+- José Carlos Valencia Alvites: [QCD](https://pt.wikipedia.org/wiki/Cromodin%C3%A2mica_qu%C3%A2ntica)
+- [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
+    [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians (in November)
 - Ivan Frolov: TBA
 - (TBC) Fabiola Cordero: [integrable systems on spaces of polygons, matrices and bundles](https://github.com/fabiolacordero/Comparative-study-of-integrable-systems-on-spaces-of-polygons-matrices-and-bundles/blob/main/slide-en.pdf): Hitchin, Gaudin, Garnier, Kapovich-Millson bending flow, Jeffrey-Weitsman, Gelfand-Zetlin, Nishinou-Nohara-Ueda, Manon-Belmans-Galkin-Mukhopadhyay, etc
 
@@ -87,6 +82,18 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - [semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition)
 - [quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics))
 - other research-related topics (add yours)
+
+# Schedule
+
+## 2023.2
+- Holidays: 
+  - Dec 8 - [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
+  - Oct 13 - Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
+
+- August 11 - [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) - [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybride)
+- August 4 - Dmitrii Korshunov - [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
+
+
 
 ## 2023.1
 
@@ -120,6 +127,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ## **Arthur Fidalgo** -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
 
 In 1981, André Joyal started the development of an interesting theory of species of structures. In his theory, combinatorial species (e.g. graphs, permutations) can be seen as endofunctors of the category of finite sets and bijections. This allows the study of operations, like addition and multiplication, of species, which became a key technique for enumeration. In this talk, we will present a brief introduction to this technique, and some interesting examples of its usage in enumerative combinatorics.
+
+## August 11 -- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybride)
+
+In this talk I will present a mirror symmetry constructions for the Jacobians of hyperelliptic curves. In particular, using the abelian/nonabelian correspondence by Ciocan-Fontanine--Kim--Sabbah [arXiv:math/0610265](https://arxiv.org/abs/math/0610265), we will calculate its J-function which usually encodes the Gromov-Witten invariants of a variety, but turns out to be nontrivial in this case, and we will construct a certain family of complex tori that could be considered as the mirror family by some numerical evidences. 
 
 ## August 4 -- **Dmitrii Korshunov** -- [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
 
