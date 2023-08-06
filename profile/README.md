@@ -110,11 +110,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - June 23 - Sergey Sergeev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation), canonical operator, &c
 - June 16 - Sergey Burkin -  [Operads](https://en.wikipedia.org/wiki/Operad) (and applications - [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality), Grothendieck--Teichmüller theory, deformation quantization, &c)
 - June 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
-- June 2 (14:00) - Rodrigo Matos - introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics
-- June 2 (9:00) - Miguel Batista - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), and their relation to [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes)
-- May 26 - Antonio Mac Dowell - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
-- May 19 (15:30) - Graham Smith - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
-- May 12 - Verônica Treumova - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant) (graphs on surfaces), and their counting
+- June 2 - Rodrigo Matos - [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) 
+- June 2 - Miguel Batista - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), and their relation to [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes)
+- May 26 - Antonio Vasconcellos - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
+- May 19 - Graham Smith - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
+- May 12 - Veronika Treumova - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant) (graphs on surfaces), and their counting
 - May 5 - Victor el Adji - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
 - April 28 - Sergey Galkin - pencils of quadrics
 - April 21 - holiday - [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
@@ -122,7 +122,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - April 7 - holiday - [Sexta-feira da Paixão](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
 - March 31 - [Jacques Pienaar](https://www.jaypienaar.com) - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism) for mathematicians
 - March 24 - Bruno Suassuna - [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
-- March 22, 17:00 - André, Bruno, Sérgio, Verônica, Victor -  free discussion
+- March 22, 17:00 - Bruno, Graham, Sergey, Veronika, Victor - free discussion
 
 ## 2022.2
 
@@ -136,12 +136,12 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 In 1981, André Joyal started the development of an interesting theory of species of structures. In his theory, combinatorial species (e.g. graphs, permutations) can be seen as endofunctors of the category of finite sets and bijections. This allows the study of operations, like addition and multiplication, of species, which became a key technique for enumeration. In this talk, we will present a brief introduction to this technique, and some interesting examples of its usage in enumerative combinatorics.
 
-## August 11 -- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybrid)
+## August 11 -- [**Artem Kalmykov**](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybrid)
 
 In this talk I will present a [mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory))
 constructions for [Jacobians](https://en.wikipedia.org/wiki/Jacobian_variety) of
 [hyperelliptic curves](https://en.wikipedia.org/wiki/Hyperelliptic_curve). In particular,
-using the abelian/nonabelian correspondence by Ciocan-Fontanine--Kim--Sabbah
+using the abelian/non-abelian correspondence by Ciocan-Fontanine--Kim--Sabbah
 [arXiv:math/0610265](https://arxiv.org/abs/math/0610265), we will calculate its J-function which usually encodes
 the [Gromov-Witten invariants](https://en.wikipedia.org/wiki/Gromov–Witten_invariant) of a variety,
 but turns out to be nontrivial in this case. Furthermore we will construct a certain family of complex tori
