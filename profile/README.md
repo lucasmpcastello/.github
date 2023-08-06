@@ -23,7 +23,8 @@ a research and study group of professors and post-graduate mathematics students 
   - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance)
   - take an elevator to 8th floor near the "Bar Nossa Senhora do Carmo" (one with nuns) in front of "Livraria Carga Nobre" bookshop
   - if room L863 will be occupied by Masters/PhD defence, etc we will use another one
-  - 🍛 usually we lunch just before the seminar, and in 2023.2 we plan to supper just after
+  - 🍛 usually we lunched before the seminar, and from 2023.2 we supper after 18:00 in Planetário Gávea
+  - soulmate seminar "Geometric Structures on Manifolds" -- Thursday 17:00, IMPA room 236
  
 
 #  Seminar materials and how to join
