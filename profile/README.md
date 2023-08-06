@@ -28,14 +28,37 @@ Based on work ["Mirror symmetry for Jacobians of hyperelliptic curves](https://g
 a research and study group of professors and post-graduate mathematics students of
 [PUC-Rio](http://www.mat.puc-rio.br), [IMPA](https://impa.br) and [UFF](https://pgmat-uff.com.br),
 interested in 
-[algebraic geometry](https://en.wikipedia.org/wiki/Algebraic_geometry), 
+[algebraic](https://en.wikipedia.org/wiki/Algebraic_geometry), 
+[symplectic](https://en.wikipedia.org/wiki/Symplectic_geometry),
+[affine](https://en.wikipedia.org/wiki/Affine_geometry),
+[tropical](https://en.wikipedia.org/wiki/Tropical_geometry),
+[information](https://en.wikipedia.org/wiki/Information_geometry) **geometry**,
+[homological](https://en.wikipedia.org/wiki/Homological_algebra),
+[homotopical](https://en.wikipedia.org/wiki/Homotopical_algebra),
+[commutative](https://en.wikipedia.org/wiki/Commutative_algebra) **algebra**,
+**physics** (
+[quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics),
 [quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory), 
-[quantum topology](https://en.wikipedia.org/wiki/Quantum_topology), [number theory](https://en.wikipedia.org/wiki/Number_theory), [enumerative combinatorics](https://en.wikipedia.org/wiki/Enumerative_combinatorics), [spectral theory](https://en.wikipedia.org/wiki/Spectral_theory), [category theory](https://en.wikipedia.org/wiki/Category_theory) and [operads](https://en.wikipedia.org/wiki/Operad), [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics), [symplectic geometry](https://en.wikipedia.org/wiki/Symplectic_geometry), [ordinary differential equations](https://en.wikipedia.org/wiki/Ordinary_differential_equation), [mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory)), [Langlands correspondence](https://en.wikipedia.org/wiki/Langlands_program), [conformal field theory](https://en.wikipedia.org/wiki/Conformal_field_theory), [information geometry](https://en.wikipedia.org/wiki/Information_geometry), [homological](https://en.wikipedia.org/wiki/Homological_algebra), [homotopical](https://en.wikipedia.org/wiki/Homotopical_algebra) and [commutative](https://en.wikipedia.org/wiki/Commutative_algebra) algebra, [tropical geometry](https://en.wikipedia.org/wiki/Tropical_geometry), (quantum) [information theory](https://en.wikipedia.org/wiki/Information_theory), [gauge theory](https://en.wikipedia.org/wiki/Gauge_theory), [affine geometry](https://en.wikipedia.org/wiki/Affine_geometry), their interfaces and other related topics
+[conformal field theory](https://en.wikipedia.org/wiki/Conformal_field_theory),
+[gauge theory](https://en.wikipedia.org/wiki/Gauge_theory)
+),
+[category theory](https://en.wikipedia.org/wiki/Category_theory) 
+and [operads](https://en.wikipedia.org/wiki/Operad),
+[number theory](https://en.wikipedia.org/wiki/Number_theory),
+[spectral theory](https://en.wikipedia.org/wiki/Spectral_theory),
+(quantum) [information theory](https://en.wikipedia.org/wiki/Information_theory),
+[ordinary differential equations](https://en.wikipedia.org/wiki/Ordinary_differential_equation),
+[enumerative combinatorics](https://en.wikipedia.org/wiki/Enumerative_combinatorics),
+their interfaces in
+[quantum topology](https://en.wikipedia.org/wiki/Quantum_topology),
+[mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory)),
+[Langlands correspondence](https://en.wikipedia.org/wiki/Langlands_program),
+and related topics.
 
 ## when and where:
   - 🕑 Fridays (sexta-feiras) from **14:00 to 18:00**
   - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance)
-  - take an elevator to 8th floor near the "Bar Nossa Senhora do Carmo" (one with nuns) in front of "Livraria Carga Nobre" bookstore
+  - take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" (one with nuns) in front of "Livraria Carga Nobre" bookstore
   - When room L863 will be occupied or not suitable, we will use room L856
   - 🍛 usually we lunched before the seminar, and from 2023.2 we supper after 18:00 in Planetário Gávea
   - soulmate seminar "Geometric Structures on Manifolds" -- Thursday 17:00, IMPA room 236
