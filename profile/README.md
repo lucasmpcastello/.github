@@ -11,7 +11,7 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-## August 11 -- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybride)
+## August 11 -- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybrid)
 
 In this talk I will present a [mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory)) constructions for
 [Jacobians](https://en.wikipedia.org/wiki/Jacobian_variety) of [hyperelliptic curves](https://en.wikipedia.org/wiki/Hyperelliptic_curve).
@@ -98,7 +98,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
   - Dec 8 - [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
   - Oct 13 - Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
 
-- August 11 - [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) - [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybride)
+- August 11 - [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) - [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybrid)
 - August 4 - Dmitrii Korshunov - [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
 
 
@@ -136,9 +136,18 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 In 1981, André Joyal started the development of an interesting theory of species of structures. In his theory, combinatorial species (e.g. graphs, permutations) can be seen as endofunctors of the category of finite sets and bijections. This allows the study of operations, like addition and multiplication, of species, which became a key technique for enumeration. In this talk, we will present a brief introduction to this technique, and some interesting examples of its usage in enumerative combinatorics.
 
-## August 11 -- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybride)
+## August 11 -- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybrid)
 
-In this talk I will present a mirror symmetry constructions for the Jacobians of hyperelliptic curves. In particular, using the abelian/nonabelian correspondence by Ciocan-Fontanine--Kim--Sabbah [arXiv:math/0610265](https://arxiv.org/abs/math/0610265), we will calculate its J-function which usually encodes the Gromov-Witten invariants of a variety, but turns out to be nontrivial in this case, and we will construct a certain family of complex tori that could be considered as the mirror family by some numerical evidences. 
+In this talk I will present a [mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory))
+constructions for [Jacobians](https://en.wikipedia.org/wiki/Jacobian_variety) of
+[hyperelliptic curves](https://en.wikipedia.org/wiki/Hyperelliptic_curve). In particular,
+using the abelian/nonabelian correspondence by Ciocan-Fontanine--Kim--Sabbah
+[arXiv:math/0610265](https://arxiv.org/abs/math/0610265), we will calculate its J-function which usually encodes
+the [Gromov-Witten invariants](https://en.wikipedia.org/wiki/Gromov–Witten_invariant) of a variety,
+but turns out to be nontrivial in this case. Furthermore we will construct a certain family of complex tori
+that could be considered as the mirror family by some numerical evidences.
+Based on work ["Mirror symmetry for Jacobians of hyperelliptic curves](https://github.com/art-kalm/math/blob/master/ms_jacobians.pdf).
+
 
 ## August 4 -- **Dmitrii Korshunov** -- [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
 
