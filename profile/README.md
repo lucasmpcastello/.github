@@ -11,7 +11,7 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-## August 11 -- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybrid)
+## August 11 -- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://github.com/art-kalm/math/blob/master/ms_jacobians.pdf) (hybrid)
 
 In this talk I will present a [mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory))
 constructions for [Jacobians](https://en.wikipedia.org/wiki/Jacobian_variety) of
