@@ -60,7 +60,7 @@ and related topics.
   - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance)
   - take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" (one with nuns) in front of "Livraria Carga Nobre" bookstore
   - When room L863 will be occupied or not suitable, we will use room L856
-  - 🍛 usually we lunched before the seminar, and from 2023.2 we supper after 18:00 in Planetário Gávea
+  - 🥗 lunch before the seminar; after 18:00 -- supper in Planetário Gávea
   - soulmate seminar "Geometric Structures on Manifolds" -- Thursday 17:00, IMPA room 236
  
 
