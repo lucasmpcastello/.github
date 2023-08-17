@@ -125,7 +125,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Holidays: 
   - Dec 8 - [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
   - Oct 13 - Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
-- August 25 - [Eduardo Alves da Silva](https://sites.google.com/view/eduardo-alvesdasilva-math/home?authuser=0)  - [Log Calabi-Yau geometry and Cremona maps]
+- August 25 - [Eduardo Alves da Silva](https://sites.google.com/view/eduardo-alvesdasilva-math/)  - [Log Calabi-Yau geometry and Cremona maps]
 - August 11 - [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) - [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybrid)
 - August 4 - Dmitrii Korshunov - [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
 
