@@ -13,7 +13,7 @@
 
 ## August 18 -- 14:00 -- Altan Erdnigor -- Homology of the Hilbert scheme of points on a surface
 
-A [Hilbert scheme of points](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_scheme_of_points_on_a_manifold) on a scheme X parametrizes configurations of n points on X.  If X is a non-singular surface, the Hilbert scheme $X^{[n]}$ is smooth and maps to the symmetric power $S^n X$ by Hilbert-Chow morphism.
+A [Hilbert scheme of points](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_scheme_of_points_on_a_manifold) on a scheme X parametrizes configurations of n points on X.  If X is a non-singular surface, the Hilbert scheme $X^{[n]}$ is smooth and maps to the [symmetric power](https://en.wikipedia.org/wiki/Symmetric_power) $S^n X$ by Hilbert-Chow morphism.
 Hilbert schemes are connected to resolutions of singularities, [hyperkähler geometry](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_schemes_and_hyperkähler_geometry), [quiver varieties](https://ncatlab.org/nlab/show/quiver+variety), representation theory, and much more.  
 In this talk, we will prove Göttsche's formula for computing the Betti numbers of the Hilbert scheme $X^{[n]}$ of $n$ points on a surface.
 We show how it is a corollary of the general theory of [intersection cohomology](https://en.wikipedia.org/wiki/Intersection_homology) and the [decomposition theorem](https://en.wikipedia.org/wiki/Decomposition_theorem_of_Beilinson,_Bernstein_and_Deligne) of Beilinson, Bernstein, Deligne, and Gabber.
@@ -172,7 +172,7 @@ In the context of algebraic geometry, decomposition and inertia groups are speci
 
 ## August 18 -- 14:00 -- Altan Erdnigor -- Homology of the Hilbert scheme of points on a surface
 
-A [Hilbert scheme of points](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_scheme_of_points_on_a_manifold) on a scheme X parametrizes configurations of n points on X.  If X is a non-singular surface, the Hilbert scheme $X^{[n]}$ is smooth and maps to the symmetric power $S^n X$ by Hilbert-Chow morphism.
+A [Hilbert scheme of points](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_scheme_of_points_on_a_manifold) on a scheme X parametrizes configurations of n points on X.  If X is a non-singular surface, the Hilbert scheme $X^{[n]}$ is smooth and maps to the [symmetric power](https://en.wikipedia.org/wiki/Symmetric_power) $S^n X$ by Hilbert-Chow morphism.
 Hilbert schemes are connected to resolutions of singularities, [hyperkähler geometry](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_schemes_and_hyperkähler_geometry), [quiver varieties](https://ncatlab.org/nlab/show/quiver+variety), representation theory, and much more.  
 In this talk, we will prove Göttsche's formula for computing the Betti numbers of the Hilbert scheme $X^{[n]}$ of $n$ points on a surface.
 We show how it is a corollary of the general theory of [intersection cohomology](https://en.wikipedia.org/wiki/Intersection_homology) and the [decomposition theorem](https://en.wikipedia.org/wiki/Decomposition_theorem_of_Beilinson,_Bernstein_and_Deligne) of Beilinson, Bernstein, Deligne, and Gabber.
