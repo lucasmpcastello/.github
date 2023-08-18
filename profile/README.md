@@ -26,7 +26,7 @@ In the context of algebraic geometry, decomposition and inertia groups are speci
 
 
 ## we are:
-a research and study group of professors and post-graduate mathematics students of
+a research and study group of students and professors from post-graduate mathematics programs of
 [PUC-Rio](http://www.mat.puc-rio.br), [IMPA](https://impa.br) and [UFF](https://pgmat-uff.com.br),
 interested in 
 [algebraic](https://en.wikipedia.org/wiki/Algebraic_geometry), 
