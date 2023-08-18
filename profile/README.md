@@ -17,7 +17,7 @@ A [Hilbert scheme of points](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilber
 Hilbert schemes are connected to resolutions of singularities, [hyperkähler geometry](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_schemes_and_hyperkähler_geometry), [quiver varieties](https://ncatlab.org/nlab/show/quiver+variety), representation theory, and much more.  
 In this talk, we will prove Göttsche's formula for computing the Betti numbers of the Hilbert scheme $X^{[n]}$ of $n$ points on a surface.
 We show how it is a corollary of the general theory of [intersection cohomology](https://en.wikipedia.org/wiki/Intersection_homology) and the [decomposition theorem](https://en.wikipedia.org/wiki/Decomposition_theorem_of_Beilinson,_Bernstein_and_Deligne) of Beilinson, Bernstein, Deligne, and Gabber.
-The talk is based on Hiraku Nakajima's [1999 book](https://bookstore.ams.org/ulect-18) on Hilbert schemes.
+The talk is based on Nakajima's book on Hilbert schemes.
 
 
 ## August 25 -- 14:00 -- [**Eduardo Alves da Silva**](https://sites.google.com/view/eduardo-alvesdasilva-math/): Log Calabi-Yau geometry and Cremona maps
@@ -176,7 +176,7 @@ A [Hilbert scheme of points](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilber
 Hilbert schemes are connected to resolutions of singularities, [hyperkähler geometry](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_schemes_and_hyperkähler_geometry), [quiver varieties](https://ncatlab.org/nlab/show/quiver+variety), representation theory, and much more.  
 In this talk, we will prove Göttsche's formula for computing the Betti numbers of the Hilbert scheme $X^{[n]}$ of $n$ points on a surface.
 We show how it is a corollary of the general theory of [intersection cohomology](https://en.wikipedia.org/wiki/Intersection_homology) and the [decomposition theorem](https://en.wikipedia.org/wiki/Decomposition_theorem_of_Beilinson,_Bernstein_and_Deligne) of Beilinson, Bernstein, Deligne, and Gabber.
-The talk is based on [Hiraku Nakajima's book (1999)](https://bookstore.ams.org/ulect-18).
+The talk is based on Nakajima's book on Hilbert schemes.
 
 ## August 11 -- [**Artem Kalmykov**](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybrid)
 
