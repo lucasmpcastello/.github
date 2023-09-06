@@ -118,7 +118,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
   - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
   - Oct 13 -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
   
-  - September 15 -- **Arthur Fidalgo** -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
+- September 15 -- **Arthur Fidalgo** -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
 - September 8 -- recesso do [Dia da Independência](https://pt.wikipedia.org/wiki/Dia_da_Independência_(Brasil))
 - September 1 -- Altan Erdnigor -- Perverse sheaves
 - September 1 -- Sergey Galkin -- Logarithmic volume forms and special birational transformations, part I
