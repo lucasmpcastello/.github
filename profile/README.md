@@ -120,7 +120,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
   
 - September 15 -- **Arthur Fidalgo** -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
 - September 8 -- recesso do [Dia da Independência](https://pt.wikipedia.org/wiki/Dia_da_Independência_(Brasil))
-- September 1 -- Altan Erdnigor -- Perverse sheaves
+- September 1 -- Altan Erdnigor -- [Intersection homology](https://en.wikipedia.org/wiki/Intersection_homology)
 - September 1 -- Sergey Galkin -- Logarithmic volume forms and special birational transformations, part I
 - August 25 -- [Eduardo Alves da Silva](https://sites.google.com/view/eduardo-alvesdasilva-math/)  -- Log Calabi-Yau geometry and Cremona maps
 - August 18 -- Altan Erdnigor -- Homology of the Hilbert scheme of points on a surface
@@ -162,7 +162,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 In 1981, André Joyal started the development of an interesting theory of species of structures. In his theory, combinatorial species (e.g. graphs, permutations) can be seen as endofunctors of the category of finite sets and bijections. This allows the study of operations, like addition and multiplication, of species, which became a key technique for enumeration. In this talk, we will present a brief introduction to this technique, and some interesting examples of its usage in enumerative combinatorics.
 
-## September 1, 16:00 -- Altan Erdnigor -- Perverse sheaves
+## September 1, 16:00 -- Altan Erdnigor -- [Intersection homology](https://en.wikipedia.org/wiki/Intersection_homology)
 
 ## September 1, 14:00 -- Sergey Galkin -- Logarithmic volume forms and special birational transformations, part I
 
