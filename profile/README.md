@@ -11,18 +11,10 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-## August 18 -- 14:00 -- Altan Erdnigor -- Homology of the Hilbert scheme of points on a surface
+## September 15 -- **Arthur Fidalgo** -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
 
-A [Hilbert scheme of points](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_scheme_of_points_on_a_manifold) on a scheme X parametrizes configurations of n points on X.  If X is a non-singular surface, the Hilbert scheme $X^{[n]}$ is smooth and maps to the [symmetric power](https://en.wikipedia.org/wiki/Symmetric_power) $S^n X$ by Hilbert-Chow morphism.
-Hilbert schemes are connected to resolutions of singularities, [hyperkähler geometry](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_schemes_and_hyperkähler_geometry), [quiver varieties](https://ncatlab.org/nlab/show/quiver+variety), representation theory, and much more.  
-In this talk, we will prove Göttsche's formula for computing the Betti numbers of the Hilbert scheme $X^{[n]}$ of $n$ points on a surface.
-We show how it is a corollary of the general theory of [intersection cohomology](https://en.wikipedia.org/wiki/Intersection_homology) and the [decomposition theorem](https://en.wikipedia.org/wiki/Decomposition_theorem_of_Beilinson,_Bernstein_and_Deligne) of Beilinson, Bernstein, Deligne, and Gabber.
-The talk is based on Nakajima's book on Hilbert schemes.
+In 1981, André Joyal started the development of an interesting theory of species of structures. In his theory, combinatorial species (e.g. graphs, permutations) can be seen as endofunctors of the category of finite sets and bijections. This allows the study of operations, like addition and multiplication, of species, which became a key technique for enumeration. In this talk, we will present a brief introduction to this technique, and some interesting examples of its usage in enumerative combinatorics.
 
-
-## August 25 -- 14:00 -- [**Eduardo Alves da Silva**](https://sites.google.com/view/eduardo-alvesdasilva-math/): Log Calabi-Yau geometry and Cremona maps
-
-In the context of algebraic geometry, decomposition and inertia groups are special subgroups of the [Cremona group](https://en.wikipedia.org/wiki/Cremona_group) which preserve a certain subvariety of $\mathbf{P}^n$ as a set and pointwise, respectively. These groups were and still are classic objects of study in the area, with explicit descriptions in several instances. In the particular case where this fixed subvariety is a hypersurface of degree n+1, we have the notion of Calabi-Yau pair which allows us to use new tools to deal with the study of these groups and one of them is the so-called volume preserving Sarkisov Program. Using this approach we prove that an appropriate algorithm of the Sarkisov Program in dimension 2 applied to an element of the decomposition group of a nonsingular plane cubic is automatically volume preserving. From this, we deduce some properties of the (volume preserving) Sarkisov factorization of its elements. Regarding now a 3-dimensional context, we give a description of which toric weighted blowups of a point are volume preserving and among them, which ones will initiate a volume preserving Sarkisov link from a Calabi-Yau pair $(\mathbf{P}^3,D)$ of coregularity 2. In this case, D is necessarily an irreducible normal quartic surface having canonical singularities. This last result enhances and extends the recent works of Guerreiro and Araujo, Corti and Massarenti in a log Calabi-Yau geometrical perspective, and it is a possible starting point to study the decomposition group of such quartics.
 
 
 ## we are:
@@ -125,6 +117,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Holidays: 
   - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
   - Oct 13 -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
+  
+  - September 15 -- **Arthur Fidalgo** -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
+- September 8 -- recesso do [Dia da Independência](https://pt.wikipedia.org/wiki/Dia_da_Independência_(Brasil))
+- September 1 -- Altan Erdnigor -- Perverse sheaves
+- September 1 -- Sergey Galkin -- Logarithmic volume forms and special birational transformations, part I
 - August 25 -- [Eduardo Alves da Silva](https://sites.google.com/view/eduardo-alvesdasilva-math/)  -- Log Calabi-Yau geometry and Cremona maps
 - August 18 -- Altan Erdnigor -- Homology of the Hilbert scheme of points on a surface
 - August 11 -- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u)
@@ -161,21 +158,26 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
-## **Arthur Fidalgo** -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
+## September 15 -- **Arthur Fidalgo** -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
 
 In 1981, André Joyal started the development of an interesting theory of species of structures. In his theory, combinatorial species (e.g. graphs, permutations) can be seen as endofunctors of the category of finite sets and bijections. This allows the study of operations, like addition and multiplication, of species, which became a key technique for enumeration. In this talk, we will present a brief introduction to this technique, and some interesting examples of its usage in enumerative combinatorics.
+
+## September 1, 16:00 -- Altan Erdnigor -- Perverse sheaves
+
+## September 1, 14:00 -- Sergey Galkin -- Logarithmic volume forms and special birational transformations, part I
 
 ## August 25 -- [**Eduardo Alves da Silva**](https://sites.google.com/view/eduardo-alvesdasilva-math/): Log Calabi-Yau geometry and Cremona maps
 
 In the context of algebraic geometry, decomposition and inertia groups are special subgroups of the [Cremona group](https://en.wikipedia.org/wiki/Cremona_group) which preserve a certain subvariety of $\mathbf{P}^n$ as a set and pointwise, respectively. These groups were and still are classic objects of study in the area, with explicit descriptions in several instances. In the particular case where this fixed subvariety is a hypersurface of degree n+1, we have the notion of Calabi-Yau pair which allows us to use new tools to deal with the study of these groups and one of them is the so-called volume preserving Sarkisov Program. Using this approach we prove that an appropriate algorithm of the Sarkisov Program in dimension 2 applied to an element of the decomposition group of a nonsingular plane cubic is automatically volume preserving. From this, we deduce some properties of the (volume preserving) Sarkisov factorization of its elements. Regarding now a 3-dimensional context, we give a description of which toric weighted blowups of a point are volume preserving and among them, which ones will initiate a volume preserving Sarkisov link from a Calabi-Yau pair $(\mathbf{P}^3,D)$ of coregularity 2. In this case, D is necessarily an irreducible normal quartic surface having canonical singularities. This last result enhances and extends the recent works of Guerreiro and Araujo, Corti and Massarenti in a log Calabi-Yau geometrical perspective, and it is a possible starting point to study the decomposition group of such quartics.
 
-## August 18 -- 14:00 -- Altan Erdnigor -- Homology of the Hilbert scheme of points on a surface
 
+## August 18 -- **Altan Erdnigor** -- Homology of the Hilbert scheme of points on a surface
 A [Hilbert scheme of points](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_scheme_of_points_on_a_manifold) on a scheme X parametrizes configurations of n points on X.  If X is a non-singular surface, the Hilbert scheme $X^{[n]}$ is smooth and maps to the [symmetric power](https://en.wikipedia.org/wiki/Symmetric_power) $S^n X$ by Hilbert-Chow morphism.
 Hilbert schemes are connected to resolutions of singularities, [hyperkähler geometry](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_schemes_and_hyperkähler_geometry), [quiver varieties](https://ncatlab.org/nlab/show/quiver+variety), representation theory, and much more.  
 In this talk, we will prove Göttsche's formula for computing the Betti numbers of the Hilbert scheme $X^{[n]}$ of $n$ points on a surface.
 We show how it is a corollary of the general theory of [intersection cohomology](https://en.wikipedia.org/wiki/Intersection_homology) and the [decomposition theorem](https://en.wikipedia.org/wiki/Decomposition_theorem_of_Beilinson,_Bernstein_and_Deligne) of Beilinson, Bernstein, Deligne, and Gabber.
 The talk is based on Nakajima's book on Hilbert schemes.
+
 
 ## August 11 -- [**Artem Kalmykov**](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybrid)
 
