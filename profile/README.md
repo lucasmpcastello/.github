@@ -64,11 +64,10 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## what's next: plans for September-December
 
-- 2023.2:  Sep 1, 8, 15, 22, 29;  Oct 6, 20, 27;  Nov 3, 10, 17, 24;  Dec 1, (15), (22).
+- 2023.2:  Sep 22, 29;  Oct 6, 20, 27;  Nov 3, 10, 17, 24;  Dec 1, (15), (22).
 - Nikita Klemyatin: [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) and its proof (TBC)
 - [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for compact Riemann surfaces](https://en.wikipedia.org/wiki/Torelli_theorem), Henrik H. Martens' proof
 - Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
-- Arthur Fidalgo: [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
 - Filipe: [affine differential geometry](https://en.wikipedia.org/wiki/Affine_differential_geometry) and [projective differential geometry](https://en.wikipedia.org/wiki/Projective_differential_geometry). [Schwarzian derivative](https://en.wikipedia.org/wiki/Schwarzian_derivative).
 - Bruno: TBA,
@@ -87,7 +86,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Ivan Frolov: TBA
 - (TBC) Fabiola Cordero: [integrable systems on spaces of polygons, matrices and bundles](https://github.com/fabiolacordero/Comparative-study-of-integrable-systems-on-spaces-of-polygons-matrices-and-bundles/blob/main/slide-en.pdf): Hitchin, Gaudin, Garnier, Kapovich-Millson bending flow, Jeffrey-Weitsman, Gelfand-Zetlin, Nishinou-Nohara-Ueda, Manon-Belmans-Galkin-Mukhopadhyay, etc
 
-# non-assigned topics:
+# related topics of interest:
 
 - SUSY, Nahm's theorem on classification of supersymmetry
 - Renormalization in QFT (Quantum Field Theory): Costello's book and Connes-Kreimer's Hopf algebra aproach (Bruno?)
@@ -114,7 +113,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 # Schedule
 
 ## 2023.2
-- Holidays: 
+- next Holidays: 
   - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
   - Oct 13 -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
   
@@ -165,6 +164,30 @@ In 1981, André Joyal started the development of an interesting theory of specie
 ## September 1, 16:00 -- Altan Erdnigor -- [Intersection homology](https://en.wikipedia.org/wiki/Intersection_homology)
 
 ## September 1, 14:00 -- Sergey Galkin -- Logarithmic volume forms and special birational transformations, part I
+
+Let $f(x,y) = P(x,y)/R(x,y)$ and $g(x,y) = Q(x,y)/R(x,y)$ be a pair of rational functions, i.e. elements of a field $\mathbf{C}(x,y)$ of fractions of a ring of polynomials $\mathbf{C}[x,y] \ni P,Q,R$ (in the first talks of the series the variables x and y will commute, but later they will stop commuting).
+For (x,y) a pair of complex numbers not in zero locus of PQR the map 
+       $(x,y)  \mapsto  (f(x,y),g(x,y))$
+is well-defined and takes non-zero values, so a pair of rational functions f,g detrmine a rational map 
+       $φ : T - - - > T$
+from a two-dimensional (complex) torus (or any other rational surface) to itself.
+We say that rational map φ (almost) preserves logarithmic volume form 
+      $ω := dlog(x) \wedge dlog(y) = \frac{dx \wedge dy}{xy}$
+if there exists some complex number δ such that  φ^* ω = δ ω, that is
+      $\frac{df \wedge dg}{fg}     =    δ \cdot \frac{dx \wedge dy}{xy}$,
+explicitly it means that a pair of rational functions f,g in $\mathbf{C}(x,y)$ satisfy the following homogeneous PDE of degree 2
+      $x y (f_x g_y - f_y g_x) = δ f g$
+This is one of the simplest (maybe, the simplest) examples of volume-preserving maps between log-Calabi-Yau varieties as defined in Eduardo's talk.
+
+In his preprint [Symplectic automorphisms of CP^2 and the Thompson group T](https://arxiv.org/abs/math/0611604) (math/0611604) Alexandr Usnich defined a tropicalization of such maps — a homomorphism from the group of birational (invertible) volume-preserving maps to the group of piecewise-linear automorphism of R^2. 
+
+Usnich also described some their stuctural properties, including a conjecture on generators and relations, that was proved by Jérémy Blanc in [Symplectic birational transformations of the plane](https://arxiv.org/abs/1012.0706) (1012.0706). Blanc in his proof used heavily theory of algebraic surfaces. 
+
+In other vein, Jeffrey Diller and Jan-Li Lin in [Rational surface maps with invariant meromorphic two forms](https://arxiv.org/abs/1308.2567) (1308.2567) motivated by study of birational dynamic also used theory of surfaces to prove Theorem E analogous to Usnich's construction, and then prove Degree Factorization Theorem: "topological degree" (which they denote $λ_2$) of a rational log-volume preserving map (x,y) —> f(x,y),g(x,y), i.e. the number of solutions of a system of equations f(x,y) = a, g(x,y) = b for generic pair (a,b) equals to the product S W, where numbers S=|δ| and W can be read off from tropicalization: W is the winding number of the respective continuous map from the circle to itself, and S is a scaling factor which is shown to be equal to δ. See Theorem 6.18 in loc.cit.
+
+I will prove higher-dimensional generalization of Degree Factorization Theorem: let $φ : (x_1,...,x_n) —> (f_1,...,f_n)$ be a rational map that preserves a logarithmic volume form $ω = dlog(x_1) \wedge ... \wedge dlog(x_n)$ up to rescaling it by a complex constant δ,i.e. $φ^* ω = δ ω$. Then the respective scaling constant $δ \in \mathbf{C}$ is in fact an integer S, and the topological degree of φ factors as S W with W being a winding number, the degree of a map from (n-1)-dimensional sphere to itself obtained from tropicalization. Unlike work of Blanc and Diller-Lin, both relying on geometry of algebraic surfaces, other than standard tropical techniques including amoebas that I will explain in detail, I have to resort to analytic techniques, namely Griffiths's characterization of logarithmic forms in terms of grows asymptotics of respective integrals.
+
+Another related question is a rational logarithmic Jacobian conjecture — is it true that volume-preserving map is birational? In light of decomposition theorem above the counterexample shall involve log-volume-preserving maps with non-trivial winding numbers. I will explain geometric construction of some such maps already in dimension two. To the best of my knowledge no explicit formulas have been written down so far, despite theoretically this is being computable, and participants of the seminar shall be able to do it.
 
 ## August 25 -- [**Eduardo Alves da Silva**](https://sites.google.com/view/eduardo-alvesdasilva-math/): Log Calabi-Yau geometry and Cremona maps
 
