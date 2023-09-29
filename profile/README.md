@@ -118,7 +118,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 - September 29 -- Sergey Galkin -- Tropicalizations of rational maps preserving logarithmic volume forms (tropical talk II)
 - September 22 -- Bruno Suassuna -- Mathematics of $n$ bosonic modes
-- September 15 -- **Arthur Fidalgo** -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
+- September 15 -- Arthur Fidalgo -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
 - September 8 -- recesso do [Dia da Independência](https://pt.wikipedia.org/wiki/Dia_da_Independência_(Brasil))
 - September 1 -- Altan Erdnigor -- [Intersection homology](https://en.wikipedia.org/wiki/Intersection_homology)
 - September 1 -- Sergey Galkin -- Logarithmic volume forms and special birational transformations (pre-tropical talk I)
