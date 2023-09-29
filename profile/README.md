@@ -63,8 +63,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## what's next: plans for September-December
 
-- 2023.2:  Sep 29;  Oct 6, 20, 27;  Nov 3, 10, 17, 24;  Dec 1, (15), (22).
-- Nikita Klemyatin: [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) and its proof (TBC)
+- 2023.2:  Oct 6, 20, 27;  Nov 3, 10, 17, 24;  Dec 1, (15), (22).
 - [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for compact Riemann surfaces](https://en.wikipedia.org/wiki/Torelli_theorem), Henrik H. Martens' proof
 - Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
@@ -84,6 +83,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
     [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians (in November)
 - Ivan Frolov: TBA
 - (TBC) Fabiola Cordero: [integrable systems on spaces of polygons, matrices and bundles](https://github.com/fabiolacordero/Comparative-study-of-integrable-systems-on-spaces-of-polygons-matrices-and-bundles/blob/main/slide-en.pdf): Hitchin, Gaudin, Garnier, Kapovich-Millson bending flow, Jeffrey-Weitsman, Gelfand-Zetlin, Nishinou-Nohara-Ueda, Manon-Belmans-Galkin-Mukhopadhyay, etc
+- Nikita Klemyatin: [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) and its proof (TBC)
+
 
 # related topics of interest:
 
