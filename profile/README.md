@@ -12,7 +12,7 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 ## September 29 -- Sergey Galkin -- Tropicalizations of rational maps preserving logarithmic volume forms (tropical talk II)
-## Oct 6  -- TBC -- Sergey Galkin -- (tropical talk III) -- Scaling-winding factorization
+## Oct 6  -- TBC -- Sergey Galkin -- Scaling-winding factorization (tropical talk III)
 
 
 
