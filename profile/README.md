@@ -162,9 +162,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 In 1981, André Joyal started the development of an interesting theory of species of structures. In his theory, combinatorial species (e.g. graphs, permutations) can be seen as endofunctors of the category of finite sets and bijections. This allows the study of operations, like addition and multiplication, of species, which became a key technique for enumeration. In this talk, we will present a brief introduction to this technique, and some interesting examples of its usage in enumerative combinatorics.
 
-## September 1, 16:00 -- Altan Erdnigor -- [Intersection homology](https://en.wikipedia.org/wiki/Intersection_homology)
+## September 1, 16:00 -- **Altan Erdnigor** -- [Intersection homology](https://en.wikipedia.org/wiki/Intersection_homology)
 
-## September 1, 14:00 -- Sergey Galkin -- Logarithmic volume forms and special birational transformations, part I
+## September 1, 14:00 -- **Sergey Galkin** -- Logarithmic volume forms and special birational transformations, part I
 
 Let $f(x,y) = P(x,y)/R(x,y)$ and $g(x,y) = Q(x,y)/R(x,y)$ be a pair of rational functions, i.e. elements of a field $\mathbf{C}(x,y)$ of fractions of a ring of polynomials $\mathbf{C}[x,y] \ni P,Q,R$ (in the first talks of the series the variables x and y will commute, but later they will stop commuting).
 For (x,y) a pair of complex numbers not in zero locus of PQR the map 
