@@ -11,7 +11,8 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-## September 29 -- Sergey Galkin -- Tropicalization of maps preserving log-volume
+## September 29 -- Sergey Galkin -- Tropicalizations of rational maps preserving logarithmic volume forms (tropical talk II)
+## Oct 6  -- TBC -- Sergey Galkin -- (tropical talk III) -- Scaling-winding factorization
 
 
 
@@ -115,12 +116,12 @@ interesting themes and topics for next seminar talks, references, slides of the 
   - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
   - Oct 13 -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
 
-- September 29 -- Sergey Galkin -- Tropicalization of maps preserving logarithmic volume
+- September 29 -- Sergey Galkin -- Tropicalizations of rational maps preserving logarithmic volume forms (tropical talk II)
 - September 22 -- Bruno Suassuna -- Mathematics of $n$ bosonic modes
 - September 15 -- **Arthur Fidalgo** -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
 - September 8 -- recesso do [Dia da Independência](https://pt.wikipedia.org/wiki/Dia_da_Independência_(Brasil))
 - September 1 -- Altan Erdnigor -- [Intersection homology](https://en.wikipedia.org/wiki/Intersection_homology)
-- September 1 -- Sergey Galkin -- Logarithmic volume forms and special birational transformations, part I
+- September 1 -- Sergey Galkin -- Logarithmic volume forms and special birational transformations (pre-tropical talk I)
 - August 25 -- [Eduardo Alves da Silva](https://sites.google.com/view/eduardo-alvesdasilva-math/)  -- Log Calabi-Yau geometry and Cremona maps
 - August 18 -- Altan Erdnigor -- Homology of the Hilbert scheme of points on a surface
 - August 11 -- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u)
