@@ -11,8 +11,12 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-## September 29 -- Sergey Galkin -- Tropicalizations of rational maps preserving logarithmic volume forms (tropical talk II)
-## Oct 6  -- TBC -- Sergey Galkin -- Scaling-winding factorization (tropical talk III)
+## Oct 6 -- Ilia Gaiur -- Multiplication Kernels &c
+## Oct 13 -- recesso do Dia do Professor
+## Oct 20 -- Dmitri Panov -- spherical surfaces with conical singularities
+## Oct 27 -- Oktobermat XX
+
+## TBC -- Sergey Galkin -- Scaling-winding factorization (tropical talk III)
 
 
 
@@ -63,13 +67,12 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## what's next: plans for September-December
 
-- 2023.2:  Oct 6, 20, 27;  Nov 3, 10, 17, 24;  Dec 1, (15), (22).
+- 2023.2:  Oct 6, 20;  Nov 3, 10, 17, 24;  Dec 1, (15), (22).
+- Victor: [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial),
 - [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for compact Riemann surfaces](https://en.wikipedia.org/wiki/Torelli_theorem), Henrik H. Martens' proof
 - Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
 - Filipe: [affine differential geometry](https://en.wikipedia.org/wiki/Affine_differential_geometry) and [projective differential geometry](https://en.wikipedia.org/wiki/Projective_differential_geometry). [Schwarzian derivative](https://en.wikipedia.org/wiki/Schwarzian_derivative).
-- Bruno: TBA,
-- Victor: [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial),
 - Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
 - Arthur Moreira: domino in 3 dimensions
 - Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others (in September, hybrid)
@@ -115,41 +118,44 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ## 2023.2
 - next Holidays: 
   - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
-  - Oct 13 -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
-
-- September 29 -- Sergey Galkin -- Tropicalizations of rational maps preserving logarithmic volume forms (tropical talk II)
-- September 22 -- Bruno Suassuna -- Mathematics of $n$ bosonic modes
-- September 15 -- Arthur Fidalgo -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
-- September 8 -- recesso do [Dia da Independência](https://pt.wikipedia.org/wiki/Dia_da_Independência_(Brasil))
-- September 1 -- Altan Erdnigor -- [Intersection homology](https://en.wikipedia.org/wiki/Intersection_homology)
-- September 1 -- Sergey Galkin -- Logarithmic volume forms and special birational transformations (pre-tropical talk I)
-- August 25 -- [Eduardo Alves da Silva](https://sites.google.com/view/eduardo-alvesdasilva-math/)  -- Log Calabi-Yau geometry and Cremona maps
-- August 18 -- Altan Erdnigor -- Homology of the Hilbert scheme of points on a surface
-- August 11 -- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u)
-- August 4 -- Dmitrii Korshunov -- [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
-
+  - **October 13** -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
+- Nov 3 -- Victor el Adji -- Matrix Factorizations
+- Oct 27 -- Oktobermat XX
+- Oct 20 -- Dmitri Panov -- Spherical surfaces with conical singularities
+- Oct 13 -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
+- Oct 6 -- **Ilia Gaiur** -- Multiplication Kernels
+- Sep 29 -- Sergey Galkin -- Tropicalizations of rational maps preserving logarithmic volume forms (tropical talk II)
+- Sep 22 -- Bruno Suassuna -- $n$ bosonic modes
+- Sep 15 -- Arthur Fidalgo -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
+- Sep 8 -- recesso do [Dia da Independência](https://pt.wikipedia.org/wiki/Dia_da_Independência_(Brasil))
+- Sep 1 -- Altan Erdnigor -- [Intersection homology](https://en.wikipedia.org/wiki/Intersection_homology)
+- Sep 1 -- Sergey Galkin -- Logarithmic volume forms and special birational transformations (pre-tropical talk I)
+- Aug 25 -- [Eduardo Alves da Silva](https://sites.google.com/view/eduardo-alvesdasilva-math/)  -- Log Calabi-Yau geometry and Cremona maps
+- Aug 18 -- Altan Erdnigor -- Homology of the Hilbert scheme of points on a surface
+- Aug 11 -- [Artem Kalmykov](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u)
+- Aug 4 -- Dmitrii Korshunov -- [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
 
 
 ## 2023.1
 
-- July 7: summary of seminar in 2023.1, and free discussion
-- June 30 - Andrey Soldatenkov - [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory)
-- June 23 - Sergey Sergeev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation)
-- June 16 - Sergey Burkin -  [Operads](https://en.wikipedia.org/wiki/Operad) 
-- June 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
-- June 2 - Rodrigo Matos - [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) 
-- June 2 - Miguel Batista - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares) and [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes)
+- Jul 7: summary of seminar in 2023.1, and free discussion
+- Jun 30 - Andrey Soldatenkov - [o-minimal structure](https://en.wikipedia.org/wiki/O-minimal_theory)
+- Jun 23 - Sergey Sergeev - [WKB method](https://en.wikipedia.org/wiki/WKB_approximation)
+- Jun 16 - Sergey Burkin -  [Operads](https://en.wikipedia.org/wiki/Operad) 
+- Jun 9 - holiday - [Recesso de Corpus Christi](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados) on June 8-10
+- Jun 2 - Rodrigo Matos - [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) 
+- Jun 2 - Miguel Batista - [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares) and [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes)
 - May 26 - Antonio Vasconcellos - [random matrices](https://en.wikipedia.org/wiki/Random_matrix)
 - May 19 - Graham Smith - [Morse homology](https://en.wikipedia.org/wiki/Morse_homology)
 - May 12 - Veronika Treumova - [dessins d'enfant](https://en.wikipedia.org/wiki/Dessin_d'enfant)
 - May 5 - Victor el Adji - [determinantal varieties](https://en.wikipedia.org/wiki/Determinantal_variety)
-- April 28 - Sergey Galkin - pencils of quadrics
-- April 21 - holiday - [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
-- April 14 - Filipe Nóbrega - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
-- April 7 - holiday - [Sexta-feira da Paixão](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
-- March 31 - [Jacques Pienaar](https://www.jaypienaar.com) - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism)
-- March 24 - Bruno Suassuna - [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
-- March 22, 17:00 - Bruno, Graham, Sergey, Veronika, Victor - free discussion
+- Apr 28 - Sergey Galkin - pencils of quadrics
+- Apr 21 - holiday - [Tiradentes](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
+- Apr 14 - Filipe Nóbrega - [pencils of conics](https://en.wikipedia.org/wiki/Pencil_(geometry))
+- Apr 7 - holiday - [Sexta-feira da Paixão](http://www.puc-rio.br/sobrepuc/depto/dar/calendario/#calendario_feriados)
+- Mar 31 - [Jacques Pienaar](https://www.jaypienaar.com) - [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism)
+- Mar 24 - Bruno Suassuna - [formal perturbation theory](https://en.wikipedia.org/wiki/Perturbation_theory) for stochastic paths
+- Mar 22, 17:00 - Bruno, Graham, Sergey, Veronika, Victor - free discussion
 
 ## 2022.2
 
