@@ -14,8 +14,9 @@
 ## Oct 6 -- Ilia Gaiur -- Multiplication Kernels: Introduction and Examples
 ### Oct 13 -- recesso do Dia do Professor
 ### Oct 20 -- Dmitri Panov -- Spherical Surfaces with Conical Singularities
-### Oct 27 -- Oktobermat XX
-### TBC -- Sergey Galkin -- Scaling-winding factorization (tropical talk III)
+### Oct 27 -- [Oktobermat XX](http://www.mat.puc-rio.br/oktobermat)
+### Nov 3 -- Victor el Adji -- matrix factorizations
+### TBC -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
 
 
