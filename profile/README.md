@@ -11,12 +11,11 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-## Oct 6 -- Ilia Gaiur -- Multiplication Kernels &c
-## Oct 13 -- recesso do Dia do Professor
-## Oct 20 -- Dmitri Panov -- spherical surfaces with conical singularities
-## Oct 27 -- Oktobermat XX
-
-## TBC -- Sergey Galkin -- Scaling-winding factorization (tropical talk III)
+## Oct 6 -- Ilia Gaiur -- Multiplication Kernels: Introduction and Examples
+### Oct 13 -- recesso do Dia do Professor
+### Oct 20 -- Dmitri Panov -- Spherical Surfaces with Conical Singularities
+### Oct 27 -- Oktobermat XX
+### TBC -- Sergey Galkin -- Scaling-winding factorization (tropical talk III)
 
 
 
@@ -119,11 +118,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - next Holidays: 
   - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
   - **October 13** -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
-- Nov 3 -- Victor el Adji -- Matrix Factorizations
+- Nov 3 -- Victor el Adji -- Matrix factorizations
 - Oct 27 -- Oktobermat XX
 - Oct 20 -- Dmitri Panov -- Spherical surfaces with conical singularities
 - Oct 13 -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
-- Oct 6 -- **Ilia Gaiur** -- Multiplication Kernels
+- Oct 6 -- **Ilia Gaiur** -- Multiplication kernels: introduction and examples
 - Sep 29 -- Sergey Galkin -- Tropicalizations of rational maps preserving logarithmic volume forms (tropical talk II)
 - Sep 22 -- Bruno Suassuna -- $n$ bosonic modes
 - Sep 15 -- Arthur Fidalgo -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
