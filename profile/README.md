@@ -15,7 +15,8 @@
 ### Oct 13 -- recesso do Dia do Professor
 ### Oct 20 -- Dmitri Panov -- Spherical Surfaces with Conical Singularities
 ### Oct 27 -- [Oktobermat XX](http://www.mat.puc-rio.br/oktobermat)
-### Nov 3 -- Victor el Adji -- matrix factorizations
+### Nov 3 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
+### Nov 10 -- Victor el Adji -- matrix factorizations
 ### TBC -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
 
@@ -80,7 +81,6 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Maxim Smirnov: TBA (online)
 - Misha Verbitsky: special affine Hessian manifolds and Monge-Ampere equation (TBC/TBA)
 - [Israel Vainsencher](https://www.mat.ufmg.br/israel): TBA
-- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory) (online)
 - José Carlos Valencia Alvites: [QCD](https://pt.wikipedia.org/wiki/Cromodin%C3%A2mica_qu%C3%A2ntica)
 - [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
     [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians (in November)
@@ -119,7 +119,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - next Holidays: 
   - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
   - **October 13** -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
-- Nov 3 -- Victor el Adji -- Matrix factorizations
+- Nov 10 -- Victor el Adji -- Matrix factorizations
+- Nov 3 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 - Oct 27 -- Oktobermat XX
 - Oct 20 -- Dmitri Panov -- Spherical surfaces with conical singularities
 - Oct 13 -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
@@ -164,6 +165,18 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
+
+## November 3 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
+
+## September 29 -- **Sergey Galkin** -- Logarithmic volume forms and special birational transformations, part II
+
+In the second talk of the series I explained a procedure of
+tropicalizations of rational maps preserving logarithmic volume form.
+
+
+## September 22 -- **Bruno Suassuna** -- Math of n bosonic modes
+
+I would introduce these things and show some formal computations of exponentials of not so trivial Hamiltonians. Would be based on what I learned working in my first physics paper.
 
 ## September 15 -- **Arthur Fidalgo** -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
 
