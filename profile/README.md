@@ -17,7 +17,7 @@
 ### Oct 27 -- [Oktobermat XX](http://www.mat.puc-rio.br/oktobermat)
 ### Nov 3 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 ### Nov 10 -- Victor el Adji -- matrix factorizations
-### Nov 17 -- Vladimir Roubtsov
+### Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya)
 ### TBC -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
 
@@ -70,7 +70,6 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ## what's next: plans for September-December
 
 - 2023.2:  Oct 20;  Nov 3, 10, 17, 24;  Dec 1, (15), (22).
-- Victor: [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial),
 - [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for compact Riemann surfaces](https://en.wikipedia.org/wiki/Torelli_theorem), Henrik H. Martens' proof
 - Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
@@ -120,12 +119,12 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - next Holidays: 
   - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
   - **October 13** -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
-- Nov 17 -- Vladimir Roubtsov
+- Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya)
 - Nov 10 -- Victor el Adji -- Matrix factorizations
 - Nov 3 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 - Oct 27 -- Oktobermat XX
-- Oct 20 -- Dmitri Panov -- Spherical surfaces with conical singularities
-- Oct 13 -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
+- Oct 20 -- **Dmitri Panov** -- Spherical surfaces with conical singularities
+- Oct 13 -- **Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)**
 - Oct 6 -- **Ilia Gaiur** -- Multiplication kernels: introduction and examples
 - Sep 29 -- Sergey Galkin -- Tropicalizations of rational maps preserving logarithmic volume forms (tropical talk II)
 - Sep 22 -- Bruno Suassuna -- $n$ bosonic modes
@@ -168,13 +167,18 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
-## November 3 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
+## November 17 -- [**Vladimir Roubtsov**](https://math.univ-angers.fr/~volodya)
+
+## November 10 -- [**Victor el Adji**] -- [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial),
+
+## November 3 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov) -- [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
+
+## October 6 -- **Ilia Gaiur** -- Multiplication Kernels: introduction and examples
 
 ## September 29 -- **Sergey Galkin** -- Logarithmic volume forms and special birational transformations, part II
 
 In the second talk of the series I explained a procedure of
 tropicalizations of rational maps preserving logarithmic volume form.
-
 
 ## September 22 -- **Bruno Suassuna** -- Math of n bosonic modes
 
