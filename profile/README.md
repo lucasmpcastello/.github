@@ -12,11 +12,12 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 ## Oct 6 -- Ilia Gaiur -- Multiplication Kernels: Introduction and Examples
-### Oct 13 -- recesso do Dia do Professor
+### Oct 13 -- Holiday -- recesso do Dia do Professor
 ### Oct 20 -- Dmitri Panov -- Spherical Surfaces with Conical Singularities
 ### Oct 27 -- [Oktobermat XX](http://www.mat.puc-rio.br/oktobermat)
 ### Nov 3 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 ### Nov 10 -- Victor el Adji -- matrix factorizations
+### Nov 17 -- Vladimir Roubtsov
 ### TBC -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
 
@@ -68,7 +69,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## what's next: plans for September-December
 
-- 2023.2:  Oct 6, 20;  Nov 3, 10, 17, 24;  Dec 1, (15), (22).
+- 2023.2:  Oct 20;  Nov 3, 10, 17, 24;  Dec 1, (15), (22).
 - Victor: [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial),
 - [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for compact Riemann surfaces](https://en.wikipedia.org/wiki/Torelli_theorem), Henrik H. Martens' proof
 - Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
@@ -119,6 +120,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - next Holidays: 
   - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
   - **October 13** -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
+- Nov 17 -- Vladimir Roubtsov
 - Nov 10 -- Victor el Adji -- Matrix factorizations
 - Nov 3 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 - Oct 27 -- Oktobermat XX
