@@ -11,9 +11,11 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-## Oct 6 -- Ilia Gaiur -- Multiplication Kernels: Introduction and Examples
-### Oct 13 -- Holiday -- recesso do Dia do Professor
-### Oct 20 -- Dmitri Panov -- Spherical Surfaces with Conical Singularities
+
+## October 20 -- [**Dmitri Panov**](https://www.kcl.ac.uk/people/dmitri-panov) -- Spherical Surfaces
+
+A spherical surface is a surface that can be glued from a collection of spherical triangles by isometric identification of their sides. Such a surface has a metric of curvature one outside of a finite number of points, where the metric has a conical singularity. In particular, each spherical surface is naturally a Riemann surface. Contrary to the hyperbolic case, when the theory is identical to the theory of Riemann surfaces, the case of spherical surfaces is almost totally open. I will speak about recent results in the area, such as a full description of the moduli space of spherical metrics with one conical singularity on a torus (joint work with Gabrielle Mondello and Alex Eremenko) and the description of possible conical angles on a spherical metric on a 2-sphere (joint work with Gabirelle Mondello).
+
 ### Oct 27 -- [Oktobermat XX](http://www.mat.puc-rio.br/oktobermat)
 ### Nov 3 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 ### Nov 10 -- Victor el Adji -- matrix factorizations
@@ -172,6 +174,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ## November 10 -- [**Victor el Adji**] -- [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial),
 
 ## November 3 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov) -- [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
+
+## October 20 -- [**Dmitri Panov**](https://www.kcl.ac.uk/people/dmitri-panov) -- Spherical Surfaces
+
+A spherical surface is a surface that can be glued from a collection of spherical triangles by isometric identification of their sides. Such a surface has a metric of curvature one outside of a finite number of points, where the metric has a conical singularity. In particular, each spherical surface is naturally a Riemann surface. Contrary to the hyperbolic case, when the theory is identical to the theory of Riemann surfaces, the case of spherical surfaces is almost totally open. I will speak about recent results in the area, such as a full description of the moduli space of spherical metrics with one conical singularity on a torus (joint work with Gabrielle Mondello and Alex Eremenko) and the description of possible conical angles on a spherical metric on a 2-sphere (joint work with Gabirelle Mondello).
+
 
 ## October 6 -- **Ilia Gaiur** -- Multiplication Kernels: introduction and examples
 
