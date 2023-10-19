@@ -20,7 +20,8 @@ A spherical surface is a surface that can be glued from a collection of spherica
 ### Nov 3 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 ### Nov 10 -- Victor el Adji -- matrix factorizations
 ### Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya)
-### TBC -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
+### Nov 24, 14h-15h -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+### Nov 24, 15h-18h -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
 
 
@@ -168,6 +169,13 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
+
+### Nov 24, 15h-18h -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
+
+In the third talk of the series I will use Griffiths's characterization of log-forms in therms of asymptotics of their volume near the polar boundary at infinity and tropical techniques from second talk to prove factorization of the degree of a ratinal log-volume-preserving map into scaling and winding factors. 
+
+### Nov 24, 14h-15h -- Sérgio Loiola -- introduction to [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+I will talk about the Markov Chains. This term refers to the sequence of random variables where there is a single series dependency between adjacent periods. From this, I will talk about Hidden Markov Model: a process where hidden parameters are determined from observable parameters.
 
 ## November 17 -- [**Vladimir Roubtsov**](https://math.univ-angers.fr/~volodya)
 
