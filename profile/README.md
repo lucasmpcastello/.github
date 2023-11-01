@@ -117,10 +117,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ## 2023.2
 - next Holidays: 
   - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
-  - **October 13** -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
 - Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya)
 - Nov 10 -- Victor el Adji -- Matrix factorizations
-- Nov 3 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
+- Nov 3 & 10 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 - Oct 27 -- Oktobermat XX
 - Oct 20 -- **Dmitri Panov** -- Spherical surfaces with conical singularities
 - Oct 13 -- **Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)**
@@ -177,7 +176,7 @@ I will talk about the Markov Chains. This term refers to the sequence of random 
 
 ## November 10 -- [**Victor el Adji**] -- [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial),
 
-## November 3 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov) -- [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
+## November 3, 10 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov) -- [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 
 ## October 20 -- [**Dmitri Panov**](https://www.kcl.ac.uk/people/dmitri-panov) -- Spherical Surfaces
 
