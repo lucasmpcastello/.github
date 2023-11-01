@@ -12,11 +12,16 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 
+### Nov 3 (14:00-15:00) -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory), part I/II
 
-### Nov 3 (14:00-15:00), Nov 10 (14:00) -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
-### Nov 10 -- Victor el Adji -- matrix factorizations
+### Nov 10 14:00 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory), part II/II
+
+### Nov 10б 16:00 -- Victor el Adji -- matrix factorizations, part I
+
 ### Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya)
+
 ### Nov 24, 14h-15h -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+
 ### Nov 24, 15h-18h -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
 
