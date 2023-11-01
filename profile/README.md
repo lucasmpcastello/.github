@@ -12,12 +12,8 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 
-## October 20 -- [**Dmitri Panov**](https://www.kcl.ac.uk/people/dmitri-panov) -- Spherical Surfaces
 
-A spherical surface is a surface that can be glued from a collection of spherical triangles by isometric identification of their sides. Such a surface has a metric of curvature one outside of a finite number of points, where the metric has a conical singularity. In particular, each spherical surface is naturally a Riemann surface. Contrary to the hyperbolic case, when the theory is identical to the theory of Riemann surfaces, the case of spherical surfaces is almost totally open. I will speak about recent results in the area, such as a full description of the moduli space of spherical metrics with one conical singularity on a torus (joint work with Gabrielle Mondello and Alex Eremenko) and the description of possible conical angles on a spherical metric on a 2-sphere (joint work with Gabirelle Mondello).
-
-### Oct 27 -- [Oktobermat XX](http://www.mat.puc-rio.br/oktobermat)
-### Nov 3 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
+### Nov 3 (14:00-15:00), Nov 10 (14:00) -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 ### Nov 10 -- Victor el Adji -- matrix factorizations
 ### Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya)
 ### Nov 24, 14h-15h -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
