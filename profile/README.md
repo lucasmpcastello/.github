@@ -14,6 +14,11 @@
 
 ### Nov 3, 14:00-15:00 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory), part I/II
 
+We present a new completely elementary model that describes the creation, annihilation, and motion of non-interacting electrons and positrons along a line. It is a modification of the model known under the names Feynman checkers, one-dimensional quantum walk, or the Ising model at imaginary temperature. It can be viewed as a six-vertex model with certain complex weights of the vertices. We show that the discrete model is consistent with the continuum quantum field theory, namely, reproduces the known expected charge density as the lattice step tends to zero. Most of the talk is accessible to undergraduate students; no knowledge of physics is assumed.
+
+joint work with A. Ustinov
+
+
 ### Nov 10, 14:00 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory), part II/II
 
 ### Nov 10, 16:00 -- Victor el Adji -- matrix factorizations, part I
@@ -182,6 +187,10 @@ I will talk about the Markov Chains. This term refers to the sequence of random 
 ## November 10 -- [**Victor el Adji**] -- [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial),
 
 ## November 3, 10 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov) -- [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
+
+We present a new completely elementary model that describes the creation, annihilation, and motion of non-interacting electrons and positrons along a line. It is a modification of the model known under the names Feynman checkers, one-dimensional quantum walk, or the Ising model at imaginary temperature. It can be viewed as a six-vertex model with certain complex weights of the vertices. We show that the discrete model is consistent with the continuum quantum field theory, namely, reproduces the known expected charge density as the lattice step tends to zero. Most of the talk is accessible to undergraduate students; no knowledge of physics is assumed.
+
+joint work with A. Ustinov
 
 ## October 20 -- [**Dmitri Panov**](https://www.kcl.ac.uk/people/dmitri-panov) -- Spherical Surfaces
 
