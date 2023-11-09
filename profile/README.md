@@ -12,23 +12,22 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 
-### Nov 3, 14:00-15:00 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory), part I/II
-
-We present a new completely elementary model that describes the creation, annihilation, and motion of non-interacting electrons and positrons along a line. It is a modification of the model known under the names Feynman checkers, one-dimensional quantum walk, or the Ising model at imaginary temperature. It can be viewed as a six-vertex model with certain complex weights of the vertices. We show that the discrete model is consistent with the continuum quantum field theory, namely, reproduces the known expected charge density as the lattice step tends to zero. Most of the talk is accessible to undergraduate students; no knowledge of physics is assumed.
-
+### Nov 10 -- 14:00-16:00 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard): quantum field theory on a checkered paper
+  
+This is a continuation of the previous talk. Last time we discussed a quantum mechanical model, and now we proceed to quantum field theory. We present a new completely elementary model that describes the creation, annihilation, and motion of non-interacting electrons and positrons along a line. It can be viewed as a six-vertex model with certain complex weights of the vertices. We show that the discrete model is consistent with the continuum quantum field theory, namely, reproduces the known expected charge density as the lattice step tends to zero.  
+ 
 joint work with A. Ustinov
 
+### Nov 10 -- 16:00-17:00 -- Victor el Adji -- matrix factorizations, part I
 
-### Nov 10, 14:00 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory), part II/II
+### Nov 17 -- 14h -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya)
+### Nov 17 -- 16h -- Victor el Adji -- matrix factorizations, part II
 
-### Nov 10, 16:00 -- Victor el Adji -- matrix factorizations, part I
+### Nov 24 -- 14h-15h -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+### Nov 24 -- 15h -- Victor el Adji -- matrix factorizations, part III
+### Nov 24 -- 16h -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
-### Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya)
-
-### Nov 24, 14h-15h -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
-
-### Nov 24, 15h-18h -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
-
+### Dec 1 -- 14h-16h -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem) on toric symplectic manifolds
 
 
 ## we are:
@@ -76,64 +75,21 @@ and related topics.
 - Please [⭣⭣⭣ add here ⭣⭣⭣](https://github.com/friday-seminar/.github/blob/master/topics.md)
 interesting themes and topics for next seminar talks, references, slides of the talks, etc
 
-## what's next: plans for September-December
-
-- 2023.2:  Oct 20;  Nov 3, 10, 17, 24;  Dec 1, (15), (22).
-- [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for compact Riemann surfaces](https://en.wikipedia.org/wiki/Torelli_theorem), Henrik H. Martens' proof
-- Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
-- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
-- Filipe: [affine differential geometry](https://en.wikipedia.org/wiki/Affine_differential_geometry) and [projective differential geometry](https://en.wikipedia.org/wiki/Projective_differential_geometry). [Schwarzian derivative](https://en.wikipedia.org/wiki/Schwarzian_derivative).
-- Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
-- Arthur Moreira: domino in 3 dimensions
-- Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others (in September, hybrid)
-- Iulia Gorginian: TBA
-- Maxim Smirnov: TBA (online)
-- Misha Verbitsky: special affine Hessian manifolds and Monge-Ampere equation (TBC/TBA)
-- [Israel Vainsencher](https://www.mat.ufmg.br/israel): TBA
-- José Carlos Valencia Alvites: [QCD](https://pt.wikipedia.org/wiki/Cromodin%C3%A2mica_qu%C3%A2ntica)
-- [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
-    [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians (in November)
-- Ivan Frolov: TBA
-- (TBC) Fabiola Cordero: [integrable systems on spaces of polygons, matrices and bundles](https://github.com/fabiolacordero/Comparative-study-of-integrable-systems-on-spaces-of-polygons-matrices-and-bundles/blob/main/slide-en.pdf): Hitchin, Gaudin, Garnier, Kapovich-Millson bending flow, Jeffrey-Weitsman, Gelfand-Zetlin, Nishinou-Nohara-Ueda, Manon-Belmans-Galkin-Mukhopadhyay, etc
-- Nikita Klemyatin: [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) and its proof (TBC)
-
-
-# related topics of interest:
-
-- SUSY, Nahm's theorem on classification of supersymmetry
-- Renormalization in QFT (Quantum Field Theory): Costello's book and Connes-Kreimer's Hopf algebra aproach (Bruno?)
-- Combinatorial Physics
-- CFT (Conformal Field Theory). Wess-Zumino-Novikov-Witten model. Verlinde formula. Tsuchiya-Ueno-Yamada construction. Fusion categories.
-- TQFT (Topological QFT), extended TQFT, fully extended TQFT and cobordism hypothesis
-- holonomic D-modules (Dmitrii), perverse sheaves, and their applications 
-- Hitchin integrable system on moduli of Higgs bundles. Gaudin's model as parabolic genus 0 case. Beilinson-Drinfeld's quantization.
-- Stability, GIT, moduli spaces, Narasimhan-Seshadri theorem
-- Parabolic bundles and Mehta-Seshadri theorem. Relation to moduli spaces of spherical polygons.
-- Moduli spaces of Euclidean polygons, Kapovich-Millson's system of bending flows as a limit of Hitchin system
-- Additive Horn problem, cohomology of Grassmannian, Knutsen-Tao honeycombs and their polytopes, planar networks
-- Multiplicative Horn problem, quantum cohomology of Grassmannian, and the respective polytopes
-- Non-abelian Hodge theory of Carlos Simpson: three invarnations of representations of fundamental group
-- Kapustin--Witten perspective on geometric Langlands as a combination of N=4 SYM, S-duality, compactification on Riemann surface and mirror symmetry. Wilson and t'Hooft operators.
-- geometric Langlands: De Rham (Beilinson--Drinfeld, Arinkin--Gaitsgory) X Dolbeault (Donagi--Pantev) X Betti (Ben-Zvi--Nadler)
-- Atiyah-Floer conjecture and Donaldson-Floer theories
-- [matrix factorizations of a polynomial](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial), Landau-Ginzburg models, singularity category, Khovanov-Rozansky link invariants
-- Gauged Linear Sigma Models and phase transition, VGIT and MMP, Goldstone and Higgs mechanisms of mass generation
-- [semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition)
-- [quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics))
-- other research-related topics (add yours)
-
 # Schedule
 
 ## 2023.2
 - next Holidays: 
   - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
+- Dec 1 -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem)
+- Nov 24 -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
+- Nov 24 -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 - Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya)
-- Nov 10 -- Victor el Adji -- Matrix factorizations
-- Nov 3 & 10 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
+- Nov 10 & 17 & 24 -- **Victor el Adji** -- Matrix factorizations
+- Nov 3 & 10 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 - Oct 27 -- Oktobermat XX
-- Oct 20 -- **Dmitri Panov** -- Spherical surfaces with conical singularities
-- Oct 13 -- **Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)**
-- Oct 6 -- **Ilia Gaiur** -- Multiplication kernels: introduction and examples
+- Oct 20 -- Dmitri Panov -- Spherical surfaces with conical singularities
+- Oct 13 -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
+- Oct 6 -- Ilia Gaiur -- Multiplication kernels: introduction and examples
 - Sep 29 -- Sergey Galkin -- Tropicalizations of rational maps preserving logarithmic volume forms (tropical talk II)
 - Sep 22 -- Bruno Suassuna -- $n$ bosonic modes
 - Sep 15 -- Arthur Fidalgo -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
@@ -173,6 +129,55 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Dec 9 - Alexander Guterman - [Permanents](https://en.wikipedia.org/wiki/Permanent_(mathematics))
 
 
+## what's next: plans for November-December and 2024
+
+- 2023.2:  Nov 10, 17, 24;  Dec 1, and maybe (15) and/or (22).
+- [Alex Gomez](https://sites.google.com/pucp.edu.pe/alequisgomez): [Torelli's theorem for compact Riemann surfaces](https://en.wikipedia.org/wiki/Torelli_theorem), Henrik H. Martens' proof
+- Altan Erdnigor: a proof of Torelli theorem for curves via [Fourier--Mukai transform](https://en.wikipedia.org/wiki/Fourier%E2%80%93Mukai_transform)
+- [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
+- Filipe: [affine differential geometry](https://en.wikipedia.org/wiki/Affine_differential_geometry) and [projective differential geometry](https://en.wikipedia.org/wiki/Projective_differential_geometry). [Schwarzian derivative](https://en.wikipedia.org/wiki/Schwarzian_derivative).
+- Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
+- Arthur Moreira: domino in 3 dimensions
+- Mukhopadhyaya's [Four-Vertex Theorem](https://en.wikipedia.org/wiki/Four-vertex_theorem) day: Samuel Pacitti Gentil, Petr Pushkar, Filipe, and others (in September, hybrid)
+- Iulia Gorginian: TBA
+- Maxim Smirnov: TBA (online)
+- Misha Verbitsky: special affine Hessian manifolds and Monge-Ampere equation (TBC/TBA)
+- [Israel Vainsencher](https://www.mat.ufmg.br/israel): TBA
+- José Carlos Valencia Alvites: [QCD](https://pt.wikipedia.org/wiki/Cromodin%C3%A2mica_qu%C3%A2ntica)
+- [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
+    [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians (in November)
+- Ivan Frolov: TBA
+- (TBC) Fabiola Cordero: [integrable systems on spaces of polygons, matrices and bundles](https://github.com/fabiolacordero/Comparative-study-of-integrable-systems-on-spaces-of-polygons-matrices-and-bundles/blob/main/slide-en.pdf): Hitchin, Gaudin, Garnier, Kapovich-Millson bending flow, Jeffrey-Weitsman, Gelfand-Zetlin, Nishinou-Nohara-Ueda, Manon-Belmans-Galkin-Mukhopadhyay, etc
+- Nikita Klemyatin: [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) and its proof (TBC)
+
+
+# some related topics of interest:
+
+- SUSY, Nahm's theorem on classification of supersymmetry
+- Renormalization in QFT (Quantum Field Theory): Costello's book and Connes-Kreimer's Hopf algebra aproach (Bruno?)
+- Combinatorial Physics
+- CFT (Conformal Field Theory). Wess-Zumino-Novikov-Witten model. Verlinde formula. Tsuchiya-Ueno-Yamada construction. Fusion categories.
+- TQFT (Topological QFT), extended TQFT, fully extended TQFT and cobordism hypothesis
+- holonomic D-modules (Dmitrii), perverse sheaves, and their applications 
+- Hitchin integrable system on moduli of Higgs bundles. Gaudin's model as parabolic genus 0 case. Beilinson-Drinfeld's quantization.
+- Stability, GIT, moduli spaces, Narasimhan-Seshadri theorem
+- Parabolic bundles and Mehta-Seshadri theorem. Relation to moduli spaces of spherical polygons.
+- Moduli spaces of Euclidean polygons, Kapovich-Millson's system of bending flows as a limit of Hitchin system
+- Additive Horn problem, cohomology of Grassmannian, Knutsen-Tao honeycombs and their polytopes, planar networks
+- Multiplicative Horn problem, quantum cohomology of Grassmannian, and the respective polytopes
+- Non-abelian Hodge theory of Carlos Simpson: three invarnations of representations of fundamental group
+- Kapustin--Witten perspective on geometric Langlands as a combination of N=4 SYM, S-duality, compactification on Riemann surface and mirror symmetry. Wilson and t'Hooft operators.
+- geometric Langlands: De Rham (Beilinson--Drinfeld, Arinkin--Gaitsgory) X Dolbeault (Donagi--Pantev) X Betti (Ben-Zvi--Nadler)
+- Atiyah-Floer conjecture and Donaldson-Floer theories
+- [matrix factorizations of a polynomial](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial), Landau-Ginzburg models, singularity category, Khovanov-Rozansky link invariants
+- Gauged Linear Sigma Models and phase transition, VGIT and MMP, Goldstone and Higgs mechanisms of mass generation
+- [semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition)
+- [quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics))
+- other research-related topics (add yours)
+
+
+
+
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
 ### Nov 24, 15h-18h -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
@@ -184,11 +189,13 @@ I will talk about the Markov Chains. This term refers to the sequence of random 
 
 ## November 17 -- [**Vladimir Roubtsov**](https://math.univ-angers.fr/~volodya)
 
-## November 10 -- [**Victor el Adji**] -- [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial),
+## November 10, 17, 24 -- [**Victor el Adji**] -- [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial),
 
 ## November 3, 10 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov) -- [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 
-We present a new completely elementary model that describes the creation, annihilation, and motion of non-interacting electrons and positrons along a line. It is a modification of the model known under the names Feynman checkers, one-dimensional quantum walk, or the Ising model at imaginary temperature. It can be viewed as a six-vertex model with certain complex weights of the vertices. We show that the discrete model is consistent with the continuum quantum field theory, namely, reproduces the known expected charge density as the lattice step tends to zero. Most of the talk is accessible to undergraduate students; no knowledge of physics is assumed.
+Nov 3: We present a new completely elementary model that describes the creation, annihilation, and motion of non-interacting electrons and positrons along a line. It is a modification of the model known under the names Feynman checkers, one-dimensional quantum walk, or the Ising model at imaginary temperature. It can be viewed as a six-vertex model with certain complex weights of the vertices. We show that the discrete model is consistent with the continuum quantum field theory, namely, reproduces the known expected charge density as the lattice step tends to zero. Most of the talk is accessible to undergraduate students; no knowledge of physics is assumed.
+
+Nov 10: This is a continuation of the previous talk. Last time we discussed a quantum mechanical model, and now we proceed to quantum field theory. We present a new completely elementary model that describes the creation, annihilation, and motion of non-interacting electrons and positrons along a line. It can be viewed as a six-vertex model with certain complex weights of the vertices. We show that the discrete model is consistent with the continuum quantum field theory, namely, reproduces the known expected charge density as the lattice step tends to zero.  
 
 joint work with A. Ustinov
 
