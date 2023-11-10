@@ -12,22 +12,21 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 
-### Nov 10 -- 14:00-16:00 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard): quantum field theory on a checkered paper
+### Nov 10 -- 14:00-16:00 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard): quantum field theory on a checkered paper, part II/II
   
 This is a continuation of the previous talk. Last time we discussed a quantum mechanical model, and now we proceed to quantum field theory. We present a new completely elementary model that describes the creation, annihilation, and motion of non-interacting electrons and positrons along a line. It can be viewed as a six-vertex model with certain complex weights of the vertices. We show that the discrete model is consistent with the continuum quantum field theory, namely, reproduces the known expected charge density as the lattice step tends to zero.  
  
 joint work with A. Ustinov
 
-### Nov 10 -- 16:00-17:00 -- Victor el Adji -- matrix factorizations, part I
-
 ### Nov 17 -- 14h -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya)
-### Nov 17 -- 16h -- Victor el Adji -- matrix factorizations, part II
+### Nov 17 -- 16h -- Victor el Adji -- matrix factorizations, part I
 
 ### Nov 24 -- 14h-15h -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
-### Nov 24 -- 15h -- Victor el Adji -- matrix factorizations, part III
+### Nov 24 -- 15h -- Victor el Adji -- matrix factorizations, part II
 ### Nov 24 -- 16h -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
 ### Dec 1 -- 14h-16h -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem) on toric symplectic manifolds
+### Dec 1 -- 16h -- Victor el Adji -- matrix factorizations, part III
 
 
 ## we are:
@@ -42,12 +41,11 @@ interested in
 [homological](https://en.wikipedia.org/wiki/Homological_algebra),
 [homotopical](https://en.wikipedia.org/wiki/Homotopical_algebra),
 [commutative](https://en.wikipedia.org/wiki/Commutative_algebra) **algebra**,
-**physics** (
 [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics),
 [quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory), 
 [conformal field theory](https://en.wikipedia.org/wiki/Conformal_field_theory),
-[gauge theory](https://en.wikipedia.org/wiki/Gauge_theory)
-),
+[gauge theory](https://en.wikipedia.org/wiki/Gauge_theory),
+**physical mathematics**,
 [category theory](https://en.wikipedia.org/wiki/Category_theory) 
 and [operads](https://en.wikipedia.org/wiki/Operad),
 [number theory](https://en.wikipedia.org/wiki/Number_theory),
@@ -83,9 +81,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Dec 1 -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem)
 - Nov 24 -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 - Nov 24 -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+- Nov 17, Nov 24, Dec 1 -- Victor el Adji -- [Matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial)
 - Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya)
-- Nov 10 & 17 & 24 -- **Victor el Adji** -- Matrix factorizations
-- Nov 3 & 10 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
+- Nov 3, Nov 10 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 - Oct 27 -- Oktobermat XX
 - Oct 20 -- Dmitri Panov -- Spherical surfaces with conical singularities
 - Oct 13 -- Recesso do [Dia do Professor](https://pt.wikipedia.org/wiki/Dia_do_Professor)
@@ -187,9 +185,9 @@ In the third talk of the series I will use Griffiths's characterization of log-f
 ### Nov 24, 14h-15h -- Sérgio Loiola -- introduction to [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 I will talk about the Markov Chains. This term refers to the sequence of random variables where there is a single series dependency between adjacent periods. From this, I will talk about Hidden Markov Model: a process where hidden parameters are determined from observable parameters.
 
-## November 17 -- [**Vladimir Roubtsov**](https://math.univ-angers.fr/~volodya)
+## November 17, 24 -- [**Victor el Adji**] -- [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial)
 
-## November 10, 17, 24 -- [**Victor el Adji**] -- [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial),
+## November 17 -- [**Vladimir Roubtsov**](https://math.univ-angers.fr/~volodya)
 
 ## November 3, 10 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov) -- [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 
