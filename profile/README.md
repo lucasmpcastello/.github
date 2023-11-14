@@ -186,7 +186,7 @@ In the third talk of the series I will use Griffiths's characterization of log-f
 I will talk about the Markov Chains. This term refers to the sequence of random variables where there is a single series dependency between adjacent periods. From this, I will talk about Hidden Markov Model: a process where hidden parameters are determined from observable parameters.
 
 ## November 17, 24 -- [**Victor el Adji**] -- [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial)
-
+We study the category of matrix factorizations associated to the germ of an isolated hypersurface singularity. This category is shown to admit a compact generator which is given by the stabilization of the residue field. We deduce a quasiequivalence between the category of matrix factorizations and the dg-derived category of an explicitly computable dg algebra. Building on this result, we employ a variant of To¨en’s derived Morita theory to identify continuous functors between matrix factorization categories as integral transforms. This enables us to calculate the Hochschild chain and cochain complexes of these categories. Finally, we give interpretations of the results of this thesis in terms of noncommutative geometry based on dg categories.
 ## November 17 -- [**Vladimir Roubtsov**](https://math.univ-angers.fr/~volodya)
 
 ## November 3, 10 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov) -- [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
