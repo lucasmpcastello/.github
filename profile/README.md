@@ -12,14 +12,14 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 
-### Nov 10 -- 14:00-16:00 -- [Misha Skopenkov](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard): quantum field theory on a checkered paper, part II/II
-  
-This is a continuation of the previous talk. Last time we discussed a quantum mechanical model, and now we proceed to quantum field theory. We present a new completely elementary model that describes the creation, annihilation, and motion of non-interacting electrons and positrons along a line. It can be viewed as a six-vertex model with certain complex weights of the vertices. We show that the discrete model is consistent with the continuum quantum field theory, namely, reproduces the known expected charge density as the lattice step tends to zero.  
- 
-joint work with A. Ustinov
+### Nov 17 -- 14h -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya) -- Kontsevich and Buchstaber polynomials, multiplication kernels and Calabi-Yau diferential operators
 
-### Nov 17 -- 14h -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya)
+We discuss several recent results of ongoing work (in collaboration with I. Gaiur and D. Van Straten and with W. Buchstaber and I. Gaiur) on interesting properties of multiplicative generalized Bessel kernels, which include the famous Clausen and Sonin-Gegenbauer formulas, examples of polynomials of Kontsevich discriminant locus, given as addition laws for special two-valued formal groups (Buchstaber-Novikov-Veselov), as well as connections with “period functions”, solving some Picard-Fuchs type equations for Calabi-Yau cases and associated with analogues of Landau-Ginzburg superpotentials.
+
 ### Nov 17 -- 16h -- Victor el Adji -- matrix factorizations, part I
+
+(based Tobias Dyckerhoff's thesis)
+We study the category of matrix factorizations associated to the germ of an isolated hypersurface singularity. This category is shown to admit a compact generator which is given by the stabilization of the residue field. We deduce a quasiequivalence between the category of matrix factorizations and the dg-derived category of an explicitly computable dg algebra. Building on this result, we employ a variant of Töen’s derived Morita theory to identify continuous functors between matrix factorization categories as integral transforms. This enables us to calculate the Hochschild chain and cochain complexes of these categories. Finally, we give interpretations of the results of this thesis in terms of noncommutative geometry based on dg categories.
 
 ### Nov 24 -- 14h-15h -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 ### Nov 24 -- 15h -- Victor el Adji -- matrix factorizations, part II
@@ -82,7 +82,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Nov 24 -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 - Nov 24 -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 - Nov 17, Nov 24, Dec 1 -- Victor el Adji -- [Matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial)
-- Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya)
+- Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya) -- Kontsevich and Buchstaber polynomials, multiplication kernels and Calabi-Yau diferential operators
 - Nov 3, Nov 10 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 - Oct 27 -- Oktobermat XX
 - Oct 20 -- Dmitri Panov -- Spherical surfaces with conical singularities
@@ -185,9 +185,13 @@ In the third talk of the series I will use Griffiths's characterization of log-f
 ### Nov 24, 14h-15h -- Sérgio Loiola -- introduction to [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 I will talk about the Markov Chains. This term refers to the sequence of random variables where there is a single series dependency between adjacent periods. From this, I will talk about Hidden Markov Model: a process where hidden parameters are determined from observable parameters.
 
-## November 17, 24 -- [**Victor el Adji**] -- [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial)
-We study the category of matrix factorizations associated to the germ of an isolated hypersurface singularity. This category is shown to admit a compact generator which is given by the stabilization of the residue field. We deduce a quasiequivalence between the category of matrix factorizations and the dg-derived category of an explicitly computable dg algebra. Building on this result, we employ a variant of To¨en’s derived Morita theory to identify continuous functors between matrix factorization categories as integral transforms. This enables us to calculate the Hochschild chain and cochain complexes of these categories. Finally, we give interpretations of the results of this thesis in terms of noncommutative geometry based on dg categories.
-## November 17 -- [**Vladimir Roubtsov**](https://math.univ-angers.fr/~volodya)
+## November 17, 24 -- [**Victor el Adji**] -- [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial), after Tobias Dyckerhoff
+
+We study the category of matrix factorizations associated to the germ of an isolated hypersurface singularity. This category is shown to admit a compact generator which is given by the stabilization of the residue field. We deduce a quasiequivalence between the category of matrix factorizations and the dg-derived category of an explicitly computable dg algebra. Building on this result, we employ a variant of Töen’s derived Morita theory to identify continuous functors between matrix factorization categories as integral transforms. This enables us to calculate the Hochschild chain and cochain complexes of these categories. Finally, we give interpretations of the results of this thesis in terms of noncommutative geometry based on dg categories.
+
+## November 17 -- [**Vladimir Roubtsov**](https://math.univ-angers.fr/~volodya) -- Kontsevich and Buchstaber polynomials, multiplication kernels and Calabi-Yau diferential operators
+
+We discuss several recent results of ongoing work (in collaboration with I. Gaiur and D. Van Straten and with W. Buchstaber and I. Gaiur) on interesting properties of multiplicative generalized Bessel kernels, which include the famous Clausen and Sonin-Gegenbauer formulas, examples of polynomials of Kontsevich discriminant locus, given as addition laws for special two-valued formal groups (Buchstaber-Novikov-Veselov), as well as connections with “period functions”, solving some Picard-Fuchs type equations for Calabi-Yau cases and associated with analogues of Landau-Ginzburg superpotentials.
 
 ## November 3, 10 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov) -- [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 
