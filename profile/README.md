@@ -16,17 +16,20 @@
 
 We discuss several recent results of ongoing work (in collaboration with I. Gaiur and D. Van Straten and with W. Buchstaber and I. Gaiur) on interesting properties of multiplicative generalized Bessel kernels, which include the famous Clausen and Sonin-Gegenbauer formulas, examples of polynomials of Kontsevich discriminant locus, given as addition laws for special two-valued formal groups (Buchstaber-Novikov-Veselov), as well as connections with “period functions”, solving some Picard-Fuchs type equations for Calabi-Yau cases and associated with analogues of Landau-Ginzburg superpotentials.
 
-### Nov 17 -- 16h -- Victor el Adji -- matrix factorizations, part I
+### Nov 24 -- 14h-15h -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+
+### Nov 24 -- 15:30h-16:30h -- Lucas Castello Branco -- Higgs Bundles and Mirror Symmetry
+
+### Nov 24 -- 17h -- Victor el Adji -- matrix factorizations, part I
 
 (based Tobias Dyckerhoff's thesis)
 We study the category of matrix factorizations associated to the germ of an isolated hypersurface singularity. This category is shown to admit a compact generator which is given by the stabilization of the residue field. We deduce a quasiequivalence between the category of matrix factorizations and the dg-derived category of an explicitly computable dg algebra. Building on this result, we employ a variant of Töen’s derived Morita theory to identify continuous functors between matrix factorization categories as integral transforms. This enables us to calculate the Hochschild chain and cochain complexes of these categories. Finally, we give interpretations of the results of this thesis in terms of noncommutative geometry based on dg categories.
 
-### Nov 24 -- 14h-15h -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
-### Nov 24 -- 15h -- Victor el Adji -- matrix factorizations, part II
+### Nov 1 -- 15h -- Victor el Adji -- matrix factorizations, part II
 ### Nov 24 -- 16h -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
 ### Dec 1 -- 14h-16h -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem) on toric symplectic manifolds
-### Dec 1 -- 16h -- Victor el Adji -- matrix factorizations, part III
+### Dec 8 -- 16h -- Victor el Adji -- matrix factorizations, part III
 
 
 ## we are:
