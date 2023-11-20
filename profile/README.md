@@ -20,6 +20,8 @@ We discuss several recent results of ongoing work (in collaboration with I. Gaiu
 
 ### Nov 24 -- 15:30h-16:30h -- Lucas Castello Branco -- Higgs Bundles and Mirror Symmetry
 
+The moduli space M(G) of Higgs bundles for a complex reductive group G on a compact Riemann surface carries a natural hyperkahler structure and it comes equipped with an algebraically completely integrable system through a flat projective morphism called the Hitchin map. Motivated by mirror symmetry, I will discuss certain complex Lagrangians (BAA-branes) in M(G) coming from real forms of G and give a proposal for the mirror (BBB-brane) in the moduli space of Higgs bundles for the Langlands dual group of G.  In this talk, I will focus on the real groups SU^*(2m), SO^*(4m) and Sp(m,m). Higgs bundles for these groups have non-reduced spectral curves and we are led to describe certain subvarieties of the moduli space of rank 1 torsion-free sheaves on ribbons. If time permits we will also discuss another class of complex Lagrangians in M(G) which can be constructed from symplectic representations of G.
+
 ### Nov 24 -- 17h -- Victor el Adji -- matrix factorizations, part I
 
 (based Tobias Dyckerhoff's thesis)
@@ -29,6 +31,9 @@ We study the category of matrix factorizations associated to the germ of an isol
 ### Nov 24 -- 16h -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
 ### Dec 1 -- 14h-16h -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem) on toric symplectic manifolds
+
+(Based on a Final Project at IMPA) Discovering symplectic shapes becomes clear through Delzant's work in symplectic geometry. His theorem helps sort and classify symplectic toric manifolds by using a special map that shows how these shapes fit together. It's like finding unique patterns called "Delzant" polytopes that match each manifold. This talk offers a simple crash course in symplectic geometry, focusing on explaining Delzant's Correspondence Theorem.
+
 ### Dec 8 -- 16h -- Victor el Adji -- matrix factorizations, part III
 
 
