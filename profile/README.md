@@ -25,14 +25,15 @@ The moduli space M(G) of Higgs bundles for a complex reductive group G on a comp
 (based Tobias Dyckerhoff's thesis)
 We study the category of matrix factorizations associated to the germ of an isolated hypersurface singularity. This category is shown to admit a compact generator which is given by the stabilization of the residue field. We deduce a quasiequivalence between the category of matrix factorizations and the dg-derived category of an explicitly computable dg algebra. Building on this result, we employ a variant of Töen’s derived Morita theory to identify continuous functors between matrix factorization categories as integral transforms. This enables us to calculate the Hochschild chain and cochain complexes of these categories. Finally, we give interpretations of the results of this thesis in terms of noncommutative geometry based on dg categories.
 
-### Nov 1 -- 15h -- Victor el Adji -- matrix factorizations, part II
-### Nov 24 -- 16h -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
+
 
 ### Dec 1 -- 14h-16h -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem) on toric symplectic manifolds
 
 (Based on a Final Project at IMPA) Discovering symplectic shapes becomes clear through Delzant's work in symplectic geometry. His theorem helps sort and classify symplectic toric manifolds by using a special map that shows how these shapes fit together. It's like finding unique patterns called "Delzant" polytopes that match each manifold. This talk offers a simple crash course in symplectic geometry, focusing on explaining Delzant's Correspondence Theorem.
 
-### Dec 8 -- 16h -- Victor el Adji -- matrix factorizations, part III
+### Dec 1 -- 16h -- Victor el Adji -- matrix factorizations, part II
+
+### TBA -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
 
 ## we are:
