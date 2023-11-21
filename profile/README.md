@@ -12,17 +12,15 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 
-### Nov 17 -- 14h -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya) -- Kontsevich and Buchstaber polynomials, multiplication kernels and Calabi-Yau diferential operators
 
-We discuss several recent results of ongoing work (in collaboration with I. Gaiur and D. Van Straten and with W. Buchstaber and I. Gaiur) on interesting properties of multiplicative generalized Bessel kernels, which include the famous Clausen and Sonin-Gegenbauer formulas, examples of polynomials of Kontsevich discriminant locus, given as addition laws for special two-valued formal groups (Buchstaber-Novikov-Veselov), as well as connections with “period functions”, solving some Picard-Fuchs type equations for Calabi-Yau cases and associated with analogues of Landau-Ginzburg superpotentials.
 
-### Nov 24 -- 14h-15h -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+### Nov 24 -- 13h-14h -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 
-### Nov 24 -- 15:30h-16:30h -- Lucas Castello Branco -- Higgs Bundles and Mirror Symmetry
+### Nov 24 -- 14h-16h -- Lucas Castello Branco -- Higgs Bundles and Mirror Symmetry
 
 The moduli space M(G) of Higgs bundles for a complex reductive group G on a compact Riemann surface carries a natural hyperkahler structure and it comes equipped with an algebraically completely integrable system through a flat projective morphism called the Hitchin map. Motivated by mirror symmetry, I will discuss certain complex Lagrangians (BAA-branes) in M(G) coming from real forms of G and give a proposal for the mirror (BBB-brane) in the moduli space of Higgs bundles for the Langlands dual group of G.  In this talk, I will focus on the real groups SU^*(2m), SO^*(4m) and Sp(m,m). Higgs bundles for these groups have non-reduced spectral curves and we are led to describe certain subvarieties of the moduli space of rank 1 torsion-free sheaves on ribbons. If time permits we will also discuss another class of complex Lagrangians in M(G) which can be constructed from symplectic representations of G.
 
-### Nov 24 -- 17h -- Victor el Adji -- matrix factorizations, part I
+### Nov 24 -- 16h -- Victor el Adji -- matrix factorizations, part I
 
 (based Tobias Dyckerhoff's thesis)
 We study the category of matrix factorizations associated to the germ of an isolated hypersurface singularity. This category is shown to admit a compact generator which is given by the stabilization of the residue field. We deduce a quasiequivalence between the category of matrix factorizations and the dg-derived category of an explicitly computable dg algebra. Building on this result, we employ a variant of Töen’s derived Morita theory to identify continuous functors between matrix factorization categories as integral transforms. This enables us to calculate the Hochschild chain and cochain complexes of these categories. Finally, we give interpretations of the results of this thesis in terms of noncommutative geometry based on dg categories.
@@ -187,16 +185,23 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
-### Nov 24, 15h-18h -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
+### TBA -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
-In the third talk of the series I will use Griffiths's characterization of log-forms in therms of asymptotics of their volume near the polar boundary at infinity and tropical techniques from second talk to prove factorization of the degree of a ratinal log-volume-preserving map into scaling and winding factors. 
+In the third talk of the series I will use Griffiths's characterization of log-forms in therms of asymptotics of their volume near the polar boundary at infinity and tropical techniques from second talk to prove factorization of the degree of a ratinal log-volume-preserving map into scaling and winding 
+factors. 
 
-### Nov 24, 14h-15h -- Sérgio Loiola -- introduction to [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
-I will talk about the Markov Chains. This term refers to the sequence of random variables where there is a single series dependency between adjacent periods. From this, I will talk about Hidden Markov Model: a process where hidden parameters are determined from observable parameters.
-
-## November 17, 24 -- [**Victor el Adji**] -- [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial), after Tobias Dyckerhoff
+## Nov -- 16h -- [**Victor el Adji**] -- [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial), after Tobias Dyckerhoff
 
 We study the category of matrix factorizations associated to the germ of an isolated hypersurface singularity. This category is shown to admit a compact generator which is given by the stabilization of the residue field. We deduce a quasiequivalence between the category of matrix factorizations and the dg-derived category of an explicitly computable dg algebra. Building on this result, we employ a variant of Töen’s derived Morita theory to identify continuous functors between matrix factorization categories as integral transforms. This enables us to calculate the Hochschild chain and cochain complexes of these categories. Finally, we give interpretations of the results of this thesis in terms of noncommutative geometry based on dg categories.
+
+### Nov 24 -- 14h-16h -- Lucas Castello Branco -- Higgs Bundles and Mirror Symmetry
+
+The moduli space M(G) of Higgs bundles for a complex reductive group G on a compact Riemann surface carries a natural hyperkahler structure and it comes equipped with an algebraically completely integrable system through a flat projective morphism called the Hitchin map. Motivated by mirror symmetry, I will discuss certain complex Lagrangians (BAA-branes) in M(G) coming from real forms of G and give a proposal for the mirror (BBB-brane) in the moduli space of Higgs bundles for the Langlands dual group of G.  In this talk, I will focus on the real groups SU^*(2m), SO^*(4m) and Sp(m,m). Higgs bundles for these groups have non-reduced spectral curves and we are led to describe certain subvarieties of the moduli space of rank 1 torsion-free sheaves on ribbons. If time permits we will also discuss another class of complex Lagrangians in M(G) which can be constructed from symplectic representations of G.
+
+
+### Nov 24, 13h-14h -- Sérgio Loiola -- introduction to [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+I will talk about the Markov Chains. This term refers to the sequence of random variables where there is a single series dependency between adjacent periods. From this, I will talk about Hidden Markov Model: a process where hidden parameters are determined from observable parameters.
+
 
 ## November 17 -- [**Vladimir Roubtsov**](https://math.univ-angers.fr/~volodya) -- Kontsevich and Buchstaber polynomials, multiplication kernels and Calabi-Yau diferential operators
 
