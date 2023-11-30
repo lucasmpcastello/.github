@@ -13,25 +13,20 @@
 
 
 
-
-### Nov 24 -- 13h-14h -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
-
-### Nov 24 -- 14h-16h -- Lucas Castello Branco -- Higgs Bundles and Mirror Symmetry
-
-The moduli space M(G) of Higgs bundles for a complex reductive group G on a compact Riemann surface carries a natural hyperkahler structure and it comes equipped with an algebraically completely integrable system through a flat projective morphism called the Hitchin map. Motivated by mirror symmetry, I will discuss certain complex Lagrangians (BAA-branes) in M(G) coming from real forms of G and give a proposal for the mirror (BBB-brane) in the moduli space of Higgs bundles for the Langlands dual group of G.  In this talk, I will focus on the real groups SU^*(2m), SO^*(4m) and Sp(m,m). Higgs bundles for these groups have non-reduced spectral curves and we are led to describe certain subvarieties of the moduli space of rank 1 torsion-free sheaves on ribbons. If time permits we will also discuss another class of complex Lagrangians in M(G) which can be constructed from symplectic representations of G.
-
-### Nov 24 -- 16h -- Victor el Adji -- matrix factorizations, part I
-
-(based Tobias Dyckerhoff's thesis)
-We study the category of matrix factorizations associated to the germ of an isolated hypersurface singularity. This category is shown to admit a compact generator which is given by the stabilization of the residue field. We deduce a quasiequivalence between the category of matrix factorizations and the dg-derived category of an explicitly computable dg algebra. Building on this result, we employ a variant of Töen’s derived Morita theory to identify continuous functors between matrix factorization categories as integral transforms. This enables us to calculate the Hochschild chain and cochain complexes of these categories. Finally, we give interpretations of the results of this thesis in terms of noncommutative geometry based on dg categories.
-
-
-
 ### Dec 1 -- 14h-16h -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem) on toric symplectic manifolds
 
 (Based on a Final Project at IMPA) Discovering symplectic shapes becomes clear through Delzant's work in symplectic geometry. His theorem helps sort and classify symplectic toric manifolds by using a special map that shows how these shapes fit together. It's like finding unique patterns called "Delzant" polytopes that match each manifold. This talk offers a simple crash course in symplectic geometry, focusing on explaining Delzant's Correspondence Theorem.
 
-### Dec 1 -- 16h -- Victor el Adji -- matrix factorizations, part II
+### Dec 1 -- 16h -- Bruno Suassuna
+
+### Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
+
+## Dec 15 -- no seminar (participants travel)
+
+### Dec 22 -- 16h -- Victor el Adji -- matrix factorizations, part II
+
+(based Tobias Dyckerhoff's thesis)
+We study the category of matrix factorizations associated to the germ of an isolated hypersurface singularity. This category is shown to admit a compact generator which is given by the stabilization of the residue field. We deduce a quasiequivalence between the category of matrix factorizations and the dg-derived category of an explicitly computable dg algebra. Building on this result, we employ a variant of Töen’s derived Morita theory to identify continuous functors between matrix factorization categories as integral transforms. This enables us to calculate the Hochschild chain and cochain complexes of these categories. Finally, we give interpretations of the results of this thesis in terms of noncommutative geometry based on dg categories.
 
 ### TBA -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
@@ -86,10 +81,9 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - next Holidays: 
   - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
 - Dec 1 -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem)
-- Nov 1 -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
+- Nov 24, Dec 22 -- Victor el Adji -- [Matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial)
 - Nov 24 -- Lucas Castello Branco -- higgs Bundles and Mirror Symmetry
 - Nov 24 -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
-- Nov 24, Nov 24, Dec 1 -- Victor el Adji -- [Matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial)
 - Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya) -- Kontsevich and Buchstaber polynomials, multiplication kernels and Calabi-Yau diferential operators
 - Nov 3, Nov 10 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 - Oct 27 -- Oktobermat XX
