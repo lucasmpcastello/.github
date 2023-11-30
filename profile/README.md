@@ -20,7 +20,7 @@
 
 ### Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
 
-## Dec 15 -- no seminar (participants travel)
+### Dec 15 -- no seminar (participants travel)
 
 ### TBA -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
