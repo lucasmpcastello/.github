@@ -12,6 +12,9 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 
+### Jan 26 -- 15h -- Orchidea Maria Lecian -- University La Sapienza, Rome, Italy -- Some new theorems on scarred waveforms in desymmetrised PSL(2, Z) billiards and in those of its congruence subgroups
+
+
 ### Dec 1 -- 14h -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem) on toric symplectic manifolds
 
 (Based on a Final Project at IMPA) Discovering symplectic shapes becomes clear through Delzant's work in symplectic geometry. His theorem helps sort and classify symplectic toric manifolds by using a special 'momentum' map that shows how these shapes fit together. It's like finding unique patterns called "Delzant polytopes" that match each manifold. This talk offers a simple crash course in symplectic geometry, focusing on explaining Delzant's Correspondence Theorem.
@@ -172,6 +175,18 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
+
+### Jan 26 -- 15h -- Orchidea Maria Lecian -- University La Sapienza, Rome, Italy -- Some new theorems on scarred waveforms in desymmetrised PSL(2, Z) billiards and in those of its congruence subgroups
+
+The scarred wavefunctions of the desymmetrised $PSL(2, Z)$ group  and those of its  congruence subgroups are newly studied. 
+The construction of irrationlas after the (Farey)-Pell method is compared with the qualities of the quadratic fields. 
+The action of automorphisms on trees is recalled to explain the action of the Hecke operaors on the Maass waveforms. 
+The Margulis measure (which acquires a multiplicative constant under the action of certain $U$ flows) is used. 
+The opportune Kirkhoff reduced surfaces of section are chosen. 
+Closed geodesics are newly proven to scar the waveforms according to the quadratic field they are constructed after: 
+
+a) In the desymmetrised $PSL(2, \mathbb{Z})$ group, the scarred waveforms are newly proven to be obtained under the action of the $U$ flow on the  Margulis measure which acts on the  quadratics fields which define the  (also, classes) of closed geodesics.
+b) In the congruence subgroups of the desymmetrised  $PSL(2, \mathbb{Z})$ domain, the scarred wavefunctions are newly proven to occur under the effect of the action of the Bogomolny  transfer operators on the Margulis measure.
 
 ### TBA -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
