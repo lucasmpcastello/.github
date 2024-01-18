@@ -12,7 +12,7 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 ### Jan 12 -- Bruno Suassuna -- Weight systems of Chern-Simons-Witten and Rozansky-Witten, and Rozansky-Witten invariants
-### Jan 19 -- Altan Erdnigor -- Gabriel's theorem about representations of quivers after Bernstein-Gelfand-Ponomarev
+### Jan 19 -- Altan Erdnigor -- [Gabriel's theorem](https://en.wikipedia.org/wiki/Gabriel's_theorem) -- representations of quivers, Coxeter functors, etc (after Bernstein--Gelfand--Ponomarev)
 ### Jan 26 -- 14h -- Orchidea Maria Lecian -- Some new theorems on scarred waveforms in desymmetrised PSL(2, Z) billiards and in those of its congruence subgroups
 ### Jan 26 -- 16h -- Dmitrii Korshunov -- 
 
