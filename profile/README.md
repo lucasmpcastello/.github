@@ -11,20 +11,14 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
+### Jan 12 -- Bruno Suassuna -- Weight systems of Chern-Simons-Witten and Rozansky-Witten, and Rozansky-Witten invariants
+### Jan 19 -- Altan Erdnigor -- Gabriel's theorem about representations of quivers after Bernstein-Gelfand-Ponomarev
+### Jan 26 -- 14h -- Orchidea Maria Lecian -- Some new theorems on scarred waveforms in desymmetrised PSL(2, Z) billiards and in those of its congruence subgroups
+### Jan 26 -- 16h -- Dmitrii Korshunov -- 
 
-### Jan 26 -- 15h -- Orchidea Maria Lecian -- University La Sapienza, Rome, Italy -- Some new theorems on scarred waveforms in desymmetrised PSL(2, Z) billiards and in those of its congruence subgroups
+### Feb 2 -- Bruno Suassuna -- Wigner-Weyl transform
 
-
-### Dec 1 -- 14h -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem) on toric symplectic manifolds
-
-(Based on a Final Project at IMPA) Discovering symplectic shapes becomes clear through Delzant's work in symplectic geometry. His theorem helps sort and classify symplectic toric manifolds by using a special 'momentum' map that shows how these shapes fit together. It's like finding unique patterns called "Delzant polytopes" that match each manifold. This talk offers a simple crash course in symplectic geometry, focusing on explaining Delzant's Correspondence Theorem.
-
-### Dec 1 -- 16h -- Bruno Suassuna
-
-### Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
-
-### Dec 15 -- no seminar (participants travel)
-
+### TBA -- Alex Gomez -- Fedosov quantization
 ### TBA -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
 
@@ -75,8 +69,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 # Schedule
 
 ## 2023.2
-- next Holidays: 
-  - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
+- Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
 - Dec 1 -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem)
 - Nov 24 -- Victor el Adji -- [Matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial)
 - Nov 24 -- Lucas Castello Branco -- higgs Bundles and Mirror Symmetry
@@ -128,6 +121,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## what's next: plans for 2024
 
+- José Carlos Valencia Alvites: [lattice QCD](https://pt.wikipedia.org/wiki/Cromodin%C3%A2mica_qu%C3%A2ntica)
+- [Henrique Bursztyn](https://w3.impa.br/~henrique): deformation quantization
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
 - Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
 - Filipe: [affine differential geometry](https://en.wikipedia.org/wiki/Affine_differential_geometry) and [projective differential geometry](https://en.wikipedia.org/wiki/Projective_differential_geometry). [Schwarzian derivative](https://en.wikipedia.org/wiki/Schwarzian_derivative).
@@ -139,10 +134,8 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Maxim Smirnov: TBA (online)
 - Misha Verbitsky: special affine Hessian manifolds and Monge-Ampere equation (TBC/TBA)
 - [Israel Vainsencher](https://www.mat.ufmg.br/israel): TBA
-- José Carlos Valencia Alvites: [QCD](https://pt.wikipedia.org/wiki/Cromodin%C3%A2mica_qu%C3%A2ntica)
 - [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
     [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians
-- Ivan Frolov: TBA
 - (TBC) Fabiola Cordero: [integrable systems on spaces of polygons, matrices and bundles](https://github.com/fabiolacordero/Comparative-study-of-integrable-systems-on-spaces-of-polygons-matrices-and-bundles/blob/main/slide-en.pdf): Hitchin, Gaudin, Garnier, Kapovich-Millson bending flow, Jeffrey-Weitsman, Gelfand-Zetlin, Nishinou-Nohara-Ueda, Manon-Belmans-Galkin-Mukhopadhyay, etc
 - Nikita Klemyatin: [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) and its proof (TBC)
 
@@ -150,11 +143,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 # some related topics of interest:
 
 - SUSY, Nahm's theorem on classification of supersymmetry
-- Renormalization in QFT (Quantum Field Theory): Costello's book and Connes-Kreimer's Hopf algebra aproach (Bruno?)
+- Renormalization in QFT (Quantum Field Theory): Costello's book and Connes-Kreimer's Hopf algebra aproach
 - Combinatorial Physics
 - CFT (Conformal Field Theory). Wess-Zumino-Novikov-Witten model. Verlinde formula. Tsuchiya-Ueno-Yamada construction. Fusion categories.
 - TQFT (Topological QFT), extended TQFT, fully extended TQFT and cobordism hypothesis
-- holonomic D-modules (Dmitrii), perverse sheaves, and their applications 
+- more applications of holonomic D-modules, perverse sheaves, and Riemann--Hilbert correspondence
 - Hitchin integrable system on moduli of Higgs bundles. Gaudin's model as parabolic genus 0 case. Beilinson-Drinfeld's quantization.
 - Stability, GIT, moduli spaces, Narasimhan-Seshadri theorem
 - Parabolic bundles and Mehta-Seshadri theorem. Relation to moduli spaces of spherical polygons.
@@ -179,20 +172,15 @@ interesting themes and topics for next seminar talks, references, slides of the 
 ### Jan 26 -- 15h -- Orchidea Maria Lecian -- University La Sapienza, Rome, Italy -- Some new theorems on scarred waveforms in desymmetrised PSL(2, Z) billiards and in those of its congruence subgroups
 
 The scarred wavefunctions of the desymmetrised $PSL(2, Z)$ group  and those of its  congruence subgroups are newly studied. 
-
-The construction of irrationlas after the (Farey)-Pell method is compared with the qualities of the quadratic fields. 
-
+The construction of irrationals after the (Farey)-Pell method is compared with the qualities of the quadratic fields. 
 The action of automorphisms on trees is recalled to explain the action of the Hecke operaors on the Maass waveforms. 
-
 The Margulis measure (which acquires a multiplicative constant under the action of certain $U$ flows) is used. 
-
 The opportune Kirkhoff reduced surfaces of section are chosen. 
-
 Closed geodesics are newly proven to scar the waveforms according to the quadratic field they are constructed after: 
-
 a) In the desymmetrised $PSL(2, \mathbb{Z})$ group, the scarred waveforms are newly proven to be obtained under the action of the $U$ flow on the  Margulis measure which acts on the  quadratics fields which define the  (also, classes) of closed geodesics.
-
 b) In the congruence subgroups of the desymmetrised  $PSL(2, \mathbb{Z})$ domain, the scarred wavefunctions are newly proven to occur under the effect of the action of the Bogomolny  transfer operators on the Margulis measure.
+
+### Jan 12 -- Bruno Suassuna -- Weight systems of Chern-Simons-Witten and Rozansky-Witten, and Rozansky-Witten invariants
 
 ### TBA -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
