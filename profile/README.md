@@ -12,13 +12,34 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 ### Jan 12 -- Bruno Suassuna -- Weight systems of Chern-Simons-Witten and Rozansky-Witten, and Rozansky-Witten invariants
+
 ### Jan 19 -- Altan Erdnigor -- [Gabriel's theorem](https://en.wikipedia.org/wiki/Gabriel's_theorem) -- representations of quivers, Coxeter functors, etc (after Bernstein--Gelfand--Ponomarev)
+
+By definition, a quiver is a directed graph.  
+In this talk, we will recall the notion of a quiver representation.
+The category of quiver representations can be highly non-trivial, e.g. the category of modules over any finitely-dimensional algebra over a closed field is equivalent to the category of quiver representations for some quiver.  
+However, for some quivers, their representations have only finitely many indecomposables (meaning they are much easier to study).  
+Famously, due to Gabriel, those are precisely the simply-laced Dynkin quivers: $A_n$, $D_n$, $E_6$, $E_7$, $E_8$.
+I will explain how the corresponding combinatorics of root systems arise from representation theory via Bernstein--Gelfand--Ponomarev reflection functors and prove Gabriel's theorem.
+
 ### Jan 26 -- 14h -- Orchidea Maria Lecian -- Some new theorems on scarred waveforms in desymmetrised PSL(2, Z) billiards and in those of its congruence subgroups
-### Jan 26 -- 16h -- Dmitrii Korshunov -- 
+The scarred wavefunctions of the desymmetrised $PSL(2,\mathbb{Z})$ group  and those of its  congruence subgroups are newly studied. 
+The construction of irrationals after the (Farey)-Pell method is compared with the qualities of the quadratic fields. 
+The action of automorphisms on trees is recalled to explain the action of the Hecke operaors on the Maass waveforms. 
+The Margulis measure (which acquires a multiplicative constant under the action of certain $U$ flows) is used. 
+The opportune Kirkhoff reduced surfaces of section are chosen. 
+Closed geodesics are newly proven to scar the waveforms according to the quadratic field they are constructed after: 
+a) In the desymmetrised $PSL(2,\mathbb{Z})$ group, the scarred waveforms are newly proven to be obtained under the action of the $U$ flow on the  Margulis measure which acts on the  quadratics fields which define the  (also, classes) of closed geodesics.
+b) In the congruence subgroups of the desymmetrised  $PSL(2,\mathbb{Z})$ domain, the scarred wavefunctions are newly proven to occur under the effect of the action of the Bogomolny  transfer operators on the Margulis measure.
+
+
+### Jan 26 -- 16h -- Dmitrii Korshunov -- Moduli spaces of polygons and deformations of polyhedra with boundary
+In a joint work with Sasha Anan'in we prove a conjecture of Ian Agol: all isometric realizations of a polyhedral surface with boundary sweep out an isotropic subset in the Kapovich-Millson moduli space of polygons isomorphic to the boundary. For a generic polyhedral disk we show that boundaries of its isometric realizations make up a Lagrangian subset. As an application of this result, weconclude that a generic equilateral polygon cannot be domed (in the sense of a problem ofKenyon, Glazyrin and Pak). 
 
 ### Feb 2 -- Bruno Suassuna -- Wigner-Weyl transform
 
 ### TBA -- Alex Gomez -- Fedosov quantization
+### TBA -- Lucas Branco
 ### TBA -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
 
 
@@ -67,6 +88,11 @@ and related topics.
 interesting themes and topics for next seminar talks, references, slides of the talks, etc
 
 # Schedule
+
+## 2024, verão
+
+### Jan 26 -- 16h -- Dmitrii Korshunov -- Moduli spaces of polygons and deformations of polyhedra with boundary
+In a joint work with Sasha Anan'in we prove a conjecture of Ian Agol: all isometric realizations of a polyhedral surface with boundary sweep out an isotropic subset in the Kapovich-Millson moduli space of polygons isomorphic to the boundary. For a generic polyhedral disk we show that boundaries of its isometric realizations make up a Lagrangian subset. As an application of this result, weconclude that a generic equilateral polygon cannot be domed (in the sense of a problem ofKenyon, Glazyrin and Pak). 
 
 ## 2023.2
 - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
@@ -169,22 +195,22 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
-### Jan 26 -- 15h -- Orchidea Maria Lecian -- University La Sapienza, Rome, Italy -- Some new theorems on scarred waveforms in desymmetrised PSL(2, Z) billiards and in those of its congruence subgroups
+### Jan 26 -- 16h -- **Dmitrii Korshunov** -- Moduli spaces of polygons and deformations of polyhedra with boundary
 
-The scarred wavefunctions of the desymmetrised $PSL(2, Z)$ group  and those of its  congruence subgroups are newly studied. 
+In a joint work with Sasha Anan'in we prove a conjecture of Ian Agol: all isometric realizations of a polyhedral surface with boundary sweep out an isotropic subset in the Kapovich-Millson moduli space of polygons isomorphic to the boundary. For a generic polyhedral disk we show that boundaries of its isometric realizations make up a Lagrangian subset. As an application of this result, weconclude that a generic equilateral polygon cannot be domed (in the sense of a problem of Kenyon, Glazyrin and Pak). 
+
+### Jan 26 -- 14h -- **Orchidea Maria Lecian** -- Some new theorems on scarred waveforms in desymmetrised PSL(2, Z) billiards and in those of its congruence subgroups
+
+The scarred wavefunctions of the desymmetrised $PSL(2,\mathbb{Z})$ group  and those of its  congruence subgroups are newly studied. 
 The construction of irrationals after the (Farey)-Pell method is compared with the qualities of the quadratic fields. 
 The action of automorphisms on trees is recalled to explain the action of the Hecke operaors on the Maass waveforms. 
 The Margulis measure (which acquires a multiplicative constant under the action of certain $U$ flows) is used. 
 The opportune Kirkhoff reduced surfaces of section are chosen. 
 Closed geodesics are newly proven to scar the waveforms according to the quadratic field they are constructed after: 
-a) In the desymmetrised $PSL(2, \mathbb{Z})$ group, the scarred waveforms are newly proven to be obtained under the action of the $U$ flow on the  Margulis measure which acts on the  quadratics fields which define the  (also, classes) of closed geodesics.
-b) In the congruence subgroups of the desymmetrised  $PSL(2, \mathbb{Z})$ domain, the scarred wavefunctions are newly proven to occur under the effect of the action of the Bogomolny  transfer operators on the Margulis measure.
+a) In the desymmetrised $PSL(2,\mathbb{Z})$ group, the scarred waveforms are newly proven to be obtained under the action of the $U$ flow on the  Margulis measure which acts on the  quadratics fields which define the  (also, classes) of closed geodesics.
+b) In the congruence subgroups of the desymmetrised  $PSL(2,\mathbb{Z})$ domain, the scarred wavefunctions are newly proven to occur under the effect of the action of the Bogomolny  transfer operators on the Margulis measure.
 
-### Jan 12 -- Bruno Suassuna -- Weight systems of Chern-Simons-Witten and Rozansky-Witten, and Rozansky-Witten invariants
-
-### TBA -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
-
-In the third talk of the series I will use Griffiths's characterization of log-forms in terms of asymptotics of their volume near the polar boundary at infinity and tropical techniques from second talk to prove factorization of the degree of a ratinal log-volume-preserving map into scaling and winding factors. 
+### Jan 12 -- **Bruno Suassuna** -- Weight systems of Chern-Simons-Witten and Rozansky-Witten, and Rozansky-Witten invariants
 
 ### Dec 1 -- 14h -- **Alex Gomez** -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem) on toric symplectic manifolds
 
