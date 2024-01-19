@@ -13,7 +13,7 @@
 
 ### Jan 12 -- Bruno Suassuna -- Weight systems of Chern-Simons-Witten and Rozansky-Witten, and Rozansky-Witten invariants
 
-### Jan 19 -- Altan Erdnigor -- [Gabriel's theorem](https://en.wikipedia.org/wiki/Gabriel's_theorem) -- representations of quivers, Coxeter functors, etc (after Bernstein--Gelfand--Ponomarev)
+### Jan 19 -- Altan Erdnigor -- [Quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics)) and [Gabriel's theorem](https://en.wikipedia.org/wiki/Gabriel's_theorem)
 
 By definition, a quiver is a directed graph.  
 In this talk, we will recall the notion of a quiver representation.
@@ -23,6 +23,7 @@ Famously, due to Gabriel, those are precisely the simply-laced Dynkin quivers: $
 I will explain how the corresponding combinatorics of root systems arise from representation theory via Bernstein--Gelfand--Ponomarev reflection functors and prove Gabriel's theorem.
 
 ### Jan 26 -- 14h -- Orchidea Maria Lecian -- Some new theorems on scarred waveforms in desymmetrised PSL(2, Z) billiards and in those of its congruence subgroups
+
 The scarred wavefunctions of the desymmetrised $PSL(2,\mathbb{Z})$ group  and those of its  congruence subgroups are newly studied. 
 The construction of irrationals after the (Farey)-Pell method is compared with the qualities of the quadratic fields. 
 The action of automorphisms on trees is recalled to explain the action of the Hecke operaors on the Maass waveforms. 
@@ -33,8 +34,9 @@ a) In the desymmetrised $PSL(2,\mathbb{Z})$ group, the scarred waveforms are new
 b) In the congruence subgroups of the desymmetrised  $PSL(2,\mathbb{Z})$ domain, the scarred wavefunctions are newly proven to occur under the effect of the action of the Bogomolny  transfer operators on the Margulis measure.
 
 
-### Jan 26 -- 16h -- Dmitrii Korshunov -- Moduli spaces of polygons and deformations of polyhedra with boundary
-In a joint work with Sasha Anan'in we prove a conjecture of Ian Agol: all isometric realizations of a polyhedral surface with boundary sweep out an isotropic subset in the Kapovich-Millson moduli space of polygons isomorphic to the boundary. For a generic polyhedral disk we show that boundaries of its isometric realizations make up a Lagrangian subset. As an application of this result, weconclude that a generic equilateral polygon cannot be domed (in the sense of a problem ofKenyon, Glazyrin and Pak). 
+### Jan 26 -- 16h -- Dmitrii Korshunov -- Flexible polyhedra and symplectic geometry
+
+We will discuss the relationship between the symplectic geometry of Kapovich-Millson space of polygons and the space of isometric realizations of a polyhedral surface in the three dimensional euclidean space. It turns out that the boundaries of all realizations of a generic polyhedral disk sweep out a Lagrangian subset in the space of polygons.
 
 ### Feb 2 -- Bruno Suassuna -- Wigner-Weyl transform
 
@@ -91,14 +93,18 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## 2024, verão
 
-### Jan 26 -- 16h -- Dmitrii Korshunov -- Moduli spaces of polygons and deformations of polyhedra with boundary
-In a joint work with Sasha Anan'in we prove a conjecture of Ian Agol: all isometric realizations of a polyhedral surface with boundary sweep out an isotropic subset in the Kapovich-Millson moduli space of polygons isomorphic to the boundary. For a generic polyhedral disk we show that boundaries of its isometric realizations make up a Lagrangian subset. As an application of this result, weconclude that a generic equilateral polygon cannot be domed (in the sense of a problem ofKenyon, Glazyrin and Pak). 
+- Feb 2, 16h -- Bruno Suassuna -- Wigner--Weyl transform
+- Jan 26, 16h --  Dmitrii Korshunov -- Flexible polyhedra and symplectic geometry
+- Jan 26, 14h -- Orchidea Maria Lecian -- Some new theorems on scarred waveforms in desymmetrised PSL(2,Z) billiards and in those of its congruence subgroups
+- Jan 19 -- Altan Erdnigor -- [Quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics)) and [Gabriel's theorem](https://en.wikipedia.org/wiki/Gabriel's_theorem)
+- Jan 12 -- Bruno Suassuna -- Weight systems of Chern-Simons-Witten and Rozansky-Witten, and Rozansky-Witten invariants
+
 
 ## 2023.2
 - Dec 8 -- [Nossa Senhora da Conceição](https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o)
 - Dec 1 -- Alex Gomez -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem)
 - Nov 24 -- Victor el Adji -- [Matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial)
-- Nov 24 -- Lucas Castello Branco -- higgs Bundles and Mirror Symmetry
+- Nov 24 -- Lucas Castello Branco -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) and [Mirror Symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory))
 - Nov 24 -- Sérgio Loiola -- [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 - Nov 17 -- [Vladimir Roubtsov](https://math.univ-angers.fr/~volodya) -- Kontsevich and Buchstaber polynomials, multiplication kernels and Calabi-Yau diferential operators
 - Nov 3, Nov 10 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov): [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
@@ -187,7 +193,6 @@ In a joint work with Sasha Anan'in we prove a conjecture of Ian Agol: all isomet
 - [matrix factorizations of a polynomial](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial), Landau-Ginzburg models, singularity category, Khovanov-Rozansky link invariants
 - Gauged Linear Sigma Models and phase transition, VGIT and MMP, Goldstone and Higgs mechanisms of mass generation
 - [semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition)
-- [quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics))
 - other research-related topics (add yours)
 
 
@@ -195,11 +200,11 @@ In a joint work with Sasha Anan'in we prove a conjecture of Ian Agol: all isomet
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
-### Jan 26 -- 16h -- **Dmitrii Korshunov** -- Moduli spaces of polygons and deformations of polyhedra with boundary
+### Jan 26, 16h -- **Dmitrii Korshunov** -- Flexible polyhedra and symplectic geometry
 
-In a joint work with Sasha Anan'in we prove a conjecture of Ian Agol: all isometric realizations of a polyhedral surface with boundary sweep out an isotropic subset in the Kapovich-Millson moduli space of polygons isomorphic to the boundary. For a generic polyhedral disk we show that boundaries of its isometric realizations make up a Lagrangian subset. As an application of this result, weconclude that a generic equilateral polygon cannot be domed (in the sense of a problem of Kenyon, Glazyrin and Pak). 
+We will discuss the relationship between the symplectic geometry of Kapovich-Millson space of polygons and the space of isometric realizations of a polyhedral surface in the three dimensional euclidean space. It turns out that the boundaries of all realizations of a generic polyhedral disk sweep out a Lagrangian subset in the space of polygons.
 
-### Jan 26 -- 14h -- **Orchidea Maria Lecian** -- Some new theorems on scarred waveforms in desymmetrised PSL(2, Z) billiards and in those of its congruence subgroups
+### Jan 26, 14h -- **Orchidea Maria Lecian** -- Some new theorems on scarred waveforms in desymmetrised PSL(2, Z) billiards and in those of its congruence subgroups
 
 The scarred wavefunctions of the desymmetrised $PSL(2,\mathbb{Z})$ group  and those of its  congruence subgroups are newly studied. 
 The construction of irrationals after the (Farey)-Pell method is compared with the qualities of the quadratic fields. 
@@ -210,30 +215,39 @@ Closed geodesics are newly proven to scar the waveforms according to the quadrat
 a) In the desymmetrised $PSL(2,\mathbb{Z})$ group, the scarred waveforms are newly proven to be obtained under the action of the $U$ flow on the  Margulis measure which acts on the  quadratics fields which define the  (also, classes) of closed geodesics.
 b) In the congruence subgroups of the desymmetrised  $PSL(2,\mathbb{Z})$ domain, the scarred wavefunctions are newly proven to occur under the effect of the action of the Bogomolny  transfer operators on the Margulis measure.
 
+### Jan 19 -- **Altan Erdnigor** -- [Quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics)) and [Gabriel's theorem](https://en.wikipedia.org/wiki/Gabriel's_theorem)
+
+By definition, a quiver is a directed graph.  
+In this talk, we will recall the notion of a quiver representation.
+The category of quiver representations can be highly non-trivial, e.g. the category of modules over any finitely-dimensional algebra over a closed field is equivalent to the category of quiver representations for some quiver.  
+However, for some quivers, their representations have only finitely many indecomposables (meaning they are much easier to study).  
+Famously, due to Gabriel, those are precisely the simply-laced Dynkin quivers: $A_n$, $D_n$, $E_6$, $E_7$, $E_8$.
+I will explain how the corresponding combinatorics of root systems arise from representation theory via Bernstein--Gelfand--Ponomarev reflection functors and prove Gabriel's theorem.
+
 ### Jan 12 -- **Bruno Suassuna** -- Weight systems of Chern-Simons-Witten and Rozansky-Witten, and Rozansky-Witten invariants
 
-### Dec 1 -- 14h -- **Alex Gomez** -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem) on toric symplectic manifolds
+### Dec 1, 14h -- **Alex Gomez** -- [Delzant's theorem](https://en.wikipedia.org/wiki/Delzant's_theorem) on toric symplectic manifolds
 
 (Based on a Final Project at IMPA) Discovering symplectic shapes becomes clear through Delzant's work in symplectic geometry. His theorem helps sort and classify symplectic toric manifolds by using a special map that shows how these shapes fit together. It's like finding unique patterns called "Delzant" polytopes that match each manifold. This talk offers a simple crash course in symplectic geometry, focusing on explaining Delzant's Correspondence Theorem.
 
-### Nov 24 -- 16h -- **Victor el Adji** -- [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial), after Tobias Dyckerhoff
+### Nov 24, 16h -- **Victor el Adji** -- [matrix factorizations of polynomials](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial), after Tobias Dyckerhoff
 
 We study the category of matrix factorizations associated to the germ of an isolated hypersurface singularity. This category is shown to admit a compact generator which is given by the stabilization of the residue field. We deduce a quasiequivalence between the category of matrix factorizations and the dg-derived category of an explicitly computable dg algebra. Building on this result, we employ a variant of Töen’s derived Morita theory to identify continuous functors between matrix factorization categories as integral transforms. This enables us to calculate the Hochschild chain and cochain complexes of these categories. Finally, we give interpretations of the results of this thesis in terms of noncommutative geometry based on dg categories.
 
-### Nov 24 -- 14h -- **Lucas Branco** -- Higgs Bundles and Mirror Symmetry
+### Nov 24 -- 14h -- **Lucas Branco** -- [Higgs Bundles](https://en.wikipedia.org/wiki/Higgs_bundle) and [Mirror Symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory))
 
-The moduli space M(G) of Higgs bundles for a complex reductive group G on a compact Riemann surface carries a natural hyperkahler structure and it comes equipped with an algebraically completely integrable system through a flat projective morphism called the Hitchin map. Motivated by mirror symmetry, I will discuss certain complex Lagrangians (BAA-branes) in M(G) coming from real forms of G and give a proposal for the mirror (BBB-brane) in the moduli space of Higgs bundles for the Langlands dual group of G.  In this talk, I will focus on the real groups SU^*(2m), SO^*(4m) and Sp(m,m). Higgs bundles for these groups have non-reduced spectral curves and we are led to describe certain subvarieties of the moduli space of rank 1 torsion-free sheaves on ribbons. If time permits we will also discuss another class of complex Lagrangians in M(G) which can be constructed from symplectic representations of G.
+The moduli space $M(G)$ of Higgs bundles for a complex reductive group $G$ on a compact Riemann surface carries a natural hyperkahler structure and it comes equipped with an algebraically completely integrable system through a flat projective morphism called [the Hitchin map](https://en.wikipedia.org/wiki/Hitchin_system). Motivated by mirror symmetry, I will discuss certain complex Lagrangians (BAA-branes) in $M(G)$ coming from real forms of $G$ and give a proposal for the mirror ($BBB$-brane) in the moduli space of Higgs bundles for the [Langlands dual group](https://en.wikipedia.org/wiki/Langlands_dual_group) of $G$.  In this talk, I will focus on the real groups $SU^*(2m)$, $SO^*(4m)$ and $Sp(m,m)$. Higgs bundles for these groups have non-reduced spectral curves and we are led to describe certain subvarieties of the moduli space of rank 1 torsion-free sheaves on ribbons. If time permits we will also discuss another class of complex Lagrangians in M$(G)$ which can be constructed from symplectic representations of $G$.
 
 
 ### Nov 24, 13h -- **Sérgio Loiola** -- introduction to [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 I will talk about the Markov Chains. This term refers to the sequence of random variables where there is a single series dependency between adjacent periods. From this, I will talk about Hidden Markov Model: a process where hidden parameters are determined from observable parameters.
 
 
-## November 17 -- [**Vladimir Roubtsov**](https://math.univ-angers.fr/~volodya) -- Kontsevich and Buchstaber polynomials, multiplication kernels and Calabi-Yau diferential operators
+## Nov 17 -- [**Vladimir Roubtsov**](https://math.univ-angers.fr/~volodya) -- Kontsevich and Buchstaber polynomials, multiplication kernels and Calabi-Yau diferential operators
 
 We discuss several recent results of ongoing work (in collaboration with I. Gaiur and D. Van Straten and with W. Buchstaber and I. Gaiur) on interesting properties of multiplicative generalized Bessel kernels, which include the famous Clausen and Sonin-Gegenbauer formulas, examples of polynomials of Kontsevich discriminant locus, given as addition laws for special two-valued formal groups (Buchstaber-Novikov-Veselov), as well as connections with “period functions”, solving some Picard-Fuchs type equations for Calabi-Yau cases and associated with analogues of Landau-Ginzburg superpotentials.
 
-## November 3, 10 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov) -- [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
+## Nov 3, Nov 10 -- [**Misha Skopenkov**](https://users.mccme.ru/mskopenkov) -- [Feynman checkers](https://en.wikipedia.org/wiki/Feynman_checkerboard) as an intro to 2-dimensional [lattice QED](https://en.wikipedia.org/wiki/Lattice_field_theory)
 
 Nov 3: We present a new completely elementary model that describes the creation, annihilation, and motion of non-interacting electrons and positrons along a line. It is a modification of the model known under the names Feynman checkers, one-dimensional quantum walk, or the Ising model at imaginary temperature. It can be viewed as a six-vertex model with certain complex weights of the vertices. We show that the discrete model is consistent with the continuum quantum field theory, namely, reproduces the known expected charge density as the lattice step tends to zero. Most of the talk is accessible to undergraduate students; no knowledge of physics is assumed.
 
@@ -241,29 +255,29 @@ Nov 10: This is a continuation of the previous talk. Last time we discussed a qu
 
 joint work with A. Ustinov
 
-## October 20 -- [**Dmitri Panov**](https://www.kcl.ac.uk/people/dmitri-panov) -- Spherical Surfaces
+## Oct 20 -- [**Dmitri Panov**](https://www.kcl.ac.uk/people/dmitri-panov) -- Spherical Surfaces
 
 A spherical surface is a surface that can be glued from a collection of spherical triangles by isometric identification of their sides. Such a surface has a metric of curvature one outside of a finite number of points, where the metric has a conical singularity. In particular, each spherical surface is naturally a Riemann surface. Contrary to the hyperbolic case, when the theory is identical to the theory of Riemann surfaces, the case of spherical surfaces is almost totally open. I will speak about recent results in the area, such as a full description of the moduli space of spherical metrics with one conical singularity on a torus (joint work with Gabrielle Mondello and Alex Eremenko) and the description of possible conical angles on a spherical metric on a 2-sphere (joint work with Gabirelle Mondello).
 
 
-## October 6 -- **Ilia Gaiur** -- Multiplication Kernels: introduction and examples
+## Oct 6 -- **Ilia Gaiur** -- Multiplication Kernels: introduction and examples
 
-## September 29 -- **Sergey Galkin** -- Logarithmic volume forms and special birational transformations, part II
+## Sep 29 -- **Sergey Galkin** -- Logarithmic volume forms and special birational transformations, part II
 
 In the second talk of the series I explained a procedure of
 tropicalizations of rational maps preserving logarithmic volume form.
 
-## September 22 -- **Bruno Suassuna** -- Math of n bosonic modes
+## Sep 22 -- **Bruno Suassuna** -- Math of n bosonic modes
 
 I would introduce these things and show some formal computations of exponentials of not so trivial Hamiltonians. Would be based on what I learned working in my first physics paper.
 
-## September 15 -- **Arthur Fidalgo** -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
+## Sep 15 -- **Arthur Fidalgo** -- [Combinatorial species](https://en.wikipedia.org/wiki/Combinatorial_species): species of structures under the view of enumerative combinatorics 
 
 In 1981, André Joyal started the development of an interesting theory of species of structures. In his theory, combinatorial species (e.g. graphs, permutations) can be seen as endofunctors of the category of finite sets and bijections. This allows the study of operations, like addition and multiplication, of species, which became a key technique for enumeration. In this talk, we will present a brief introduction to this technique, and some interesting examples of its usage in enumerative combinatorics.
 
-## September 1, 16:00 -- **Altan Erdnigor** -- [Intersection homology](https://en.wikipedia.org/wiki/Intersection_homology)
+## Sep 1, 16h -- **Altan Erdnigor** -- [Intersection homology](https://en.wikipedia.org/wiki/Intersection_homology)
 
-## September 1, 14:00 -- **Sergey Galkin** -- Logarithmic volume forms and special birational transformations, part I
+## Sep 1, 14h -- **Sergey Galkin** -- Logarithmic volume forms and special birational transformations, part I
 
 Let $f(x,y) = P(x,y)/R(x,y)$ and $g(x,y) = Q(x,y)/R(x,y)$ be a pair of rational functions, i.e. elements of a field $\mathbf{C}(x,y)$ of fractions of a ring of polynomials $\mathbf{C}[x,y] \ni P,Q,R$ (in the first talks of the series the variables x and y will commute, but later they will stop commuting).
 For (x,y) a pair of complex numbers not in zero locus of PQR the map 
@@ -289,12 +303,12 @@ I will prove higher-dimensional generalization of Degree Factorization Theorem: 
 
 Another related question is a rational logarithmic Jacobian conjecture — is it true that volume-preserving map is birational? In light of decomposition theorem above the counterexample shall involve log-volume-preserving maps with non-trivial winding numbers. I will explain geometric construction of some such maps already in dimension two. To the best of my knowledge no explicit formulas have been written down so far, despite theoretically this is being computable, and participants of the seminar shall be able to do it.
 
-## August 25 -- [**Eduardo Alves da Silva**](https://sites.google.com/view/eduardo-alvesdasilva-math/): Log Calabi-Yau geometry and Cremona maps
+## Aug 25 -- [**Eduardo Alves da Silva**](https://sites.google.com/view/eduardo-alvesdasilva-math/): Log Calabi-Yau geometry and Cremona maps
 
 In the context of algebraic geometry, decomposition and inertia groups are special subgroups of the [Cremona group](https://en.wikipedia.org/wiki/Cremona_group) which preserve a certain subvariety of $\mathbf{P}^n$ as a set and pointwise, respectively. These groups were and still are classic objects of study in the area, with explicit descriptions in several instances. In the particular case where this fixed subvariety is a hypersurface of degree n+1, we have the notion of Calabi-Yau pair which allows us to use new tools to deal with the study of these groups and one of them is the so-called volume preserving Sarkisov Program. Using this approach we prove that an appropriate algorithm of the Sarkisov Program in dimension 2 applied to an element of the decomposition group of a nonsingular plane cubic is automatically volume preserving. From this, we deduce some properties of the (volume preserving) Sarkisov factorization of its elements. Regarding now a 3-dimensional context, we give a description of which toric weighted blowups of a point are volume preserving and among them, which ones will initiate a volume preserving Sarkisov link from a Calabi-Yau pair $(\mathbf{P}^3,D)$ of coregularity 2. In this case, D is necessarily an irreducible normal quartic surface having canonical singularities. This last result enhances and extends the recent works of Guerreiro and Araujo, Corti and Massarenti in a log Calabi-Yau geometrical perspective, and it is a possible starting point to study the decomposition group of such quartics.
 
 
-## August 18 -- **Altan Erdnigor** -- Homology of the Hilbert scheme of points on a surface
+## Aug 18 -- **Altan Erdnigor** -- Homology of the Hilbert scheme of points on a surface
 A [Hilbert scheme of points](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_scheme_of_points_on_a_manifold) on a scheme X parametrizes configurations of n points on X.  If X is a non-singular surface, the Hilbert scheme $X^{[n]}$ is smooth and maps to the [symmetric power](https://en.wikipedia.org/wiki/Symmetric_power) $S^n X$ by Hilbert-Chow morphism.
 Hilbert schemes are connected to resolutions of singularities, [hyperkähler geometry](https://en.wikipedia.org/wiki/Hilbert_scheme#Hilbert_schemes_and_hyperkähler_geometry), [quiver varieties](https://ncatlab.org/nlab/show/quiver+variety), representation theory, and much more.  
 In this talk, we will prove Göttsche's formula for computing the Betti numbers of the Hilbert scheme $X^{[n]}$ of $n$ points on a surface.
@@ -302,7 +316,7 @@ We show how it is a corollary of the general theory of [intersection cohomology]
 The talk is based on Nakajima's book on Hilbert schemes.
 
 
-## August 11 -- [**Artem Kalmykov**](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybrid)
+## Aug 11 -- [**Artem Kalmykov**](https://math.mit.edu/directory/profile.html?pid=2514) -- [Mirror symmetry for Jacobians of hyper-elliptic curves](https://sites.google.com/view/art-kalm/research#h.qnpzcvbpci3u) (online/hybrid)
 
 In this talk I will present a [mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory))
 constructions for [Jacobians](https://en.wikipedia.org/wiki/Jacobian_variety) of
@@ -315,7 +329,7 @@ that could be considered as the mirror family by some numerical evidences.
 Based on work ["Mirror symmetry for Jacobians of hyperelliptic curves](https://github.com/art-kalm/math/blob/master/ms_jacobians.pdf).
 
 
-## August 4 -- **Dmitrii Korshunov** -- [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
+## Aug 4 -- **Dmitrii Korshunov** -- [Bernstein-Sato polynomials and the division of distributions](https://en.wikipedia.org/wiki/Bernstein%E2%80%93Sato_polynomial)
 
 We will discuss some basic properties of left modules over the Weyl algebra ('algebraic D-modules on an affine space') up to the J. Bernstein's inequality and the notion of a holonomic module. We'll proceed to prove the existence of Bernstein-Sato polynomials and employ them to analytically continue complex powers of polynomials. As an application, a Hironaka-free solution to the problem of division of distributions by polynomials will follow. I will conclude with a remark about how all this provides a purely algebraic proof of theorems of Malgrange-Ehrenpreis and Lojasiewicz-Hormander about the existence of fundamental solutions of linear PDEs with constant coefficients.
 
@@ -335,7 +349,7 @@ In many physical problems the small parameter $h$ appears in the PDE and sometim
 
 We will describe some of the main applications and ideas in operad theory, including recognition principle, [Koszul duality](https://en.wikipedia.org/wiki/Koszul_duality), formality of little disks and [deformation quantization](https://en.wikipedia.org/wiki/Wigner–Weyl_transform#Deformation_quantization), [Grothendieck—Teichmuller theory](https://ncatlab.org/nlab/show/Grothendieck-Teichmüller+tower), and theory of [homotopy coherent structures](https://en.wikipedia.org/wiki/Coherency_(homotopy_theory)).
 
-## June 2 (14:00-16:00, L866) -- **Rodrigo Matos** -- Irreducibility of the Bloch and Fermi varieties on periodic media and connections to spectral theory. (an introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics)
+## June 2, 14h -- **Rodrigo Matos** -- Irreducibility of the Bloch and Fermi varieties on periodic media and connections to spectral theory. (an introduction to [Fermi surface](https://en.wikipedia.org/wiki/Fermi_surface) (Fermi Varieties), Bloch Varieties, and an interface of algebraic geometry, spectral theory and mathematical physics)
 
 The structure of the dispersion relation is one of the central aspects to the study of periodic Schrödinger operators. 
 
@@ -352,7 +366,7 @@ These recent papers cover a wide class of lattice geometries in arbitrary dimens
 A comment from Sergey: Rodrigo will introduce us to an area at the intersection of algebraic geometry, spectral theory, and mathematical physics. The very same Laurent polynomials appear in the study of [Fermi varieties](https://en.wikipedia.org/wiki/Fermi_surface) of periodic Schrödinger operators, in [mirror symmetry](https://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory)) for [Fano varieties](https://en.wikipedia.org/wiki/Fano_variety) and [K3 surfaces](https://en.wikipedia.org/wiki/K3_surface), in Apery's approximation for [zeta(3)](https://en.wikipedia.org/wiki/Ap%C3%A9ry's_constant), in two-loops diagrams for [Bhabha scattering](https://mathscinet.ams.org/mathscinet-getitem?mr=3951114), and many other places.
 
 
-## June 2 (9:00-11:00, L856): **Miguel dos Anjos Batista**: [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares), their relation to [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes), and all that
+## June 2, 9h: **Miguel dos Anjos Batista**: [mutually orthogonal latin squares](https://en.wikipedia.org/wiki/Mutually_orthogonal_Latin_squares) and [finite projective planes](https://en.wikipedia.org/wiki/Projective_plane#Finite_projective_planes)
 
 I will introduce the concept of a finite projective plane (FPP), their basic structure, and show the existence of some of them. Beside that, I will talk about Mutually Orthogonal Latin Squares (MOLS), a "categorical" way to visualize it and how they interact with FPP. If possible I will talk about more complex FPP existence theorems.
 
@@ -386,7 +400,7 @@ I will describe their fundamental properties (such as normality, irreducibility,
 To do so, I will establish the first and the second fundamental theorems of invariant theory as one of the main tools.
 
 
-## April 28: [**Sergey Galkin**](http://mat.puc-rio.br/~sergey): Pencils of Quadrics, Hyper-Elliptic Curves, their Jacobians, and Moduli Spaces of Stable Vector Bundles of Rank Two
+## Apr 28: [**Sergey Galkin**](http://mat.puc-rio.br/~sergey): Pencils of Quadrics, Hyper-Elliptic Curves, their Jacobians, and Moduli Spaces of Stable Vector Bundles of Rank Two
 I will introduce higher-dimensional analogues of pencils of conics (introduced by Filipe on April 14) - namely pencils of quadrics, for example I will explain a classical construction that relates pencils of quadrics with hyper-elliptic curves (double covers of a projective line), and discuss how their linear algebra and geometry is related to various questions about moduli spaces of bundles on these curves, in particular how to construct some forms of Jacobians and moduli spaces of stable rank 2 bundles on a hyper-elliptic curve in terms of a pencil of quadrics and the respective matrix of linear forms (Miles Reid's thesis and Desale-Ramanan's theorem).
 
 Just one dimension higher - if we consider pencils of two-dimensional quadrics in a three-dimensional projective space (i.e. 4-times-4 symmetric matrices with entries in homogeneous linear polynomials of two variables) we obtain models of elliptic (genus one) curves, and can also relate it to a version of Poncelet theorem in three-dimensional space. When we consider pencils of 4-dimensional quadrics in 5-dimensional projective space their base locus is an interesting Fano threefold, and the respective spectral curve is a curve of genus two (all of them are hyper-elliptic), with the base locus (Fano threefold) being one of the simplest moduli spaces of vector bundles, and the respective Jacobian of a genus two curve being isomorphic to the variety of lines isotopic with respect to all quadratic forms in the pencil.
@@ -394,16 +408,16 @@ Just one dimension higher - if we consider pencils of two-dimensional quadrics i
 This is a somewhat classical geometric topic that easily related to both well-known constructions as well as interesting open problems related to some of my research. So it could be useful to students interested in algebraic geometry or conformal field theory, as well as to those whose research is related to elliptic and genus two curves and their Jacobians, among many others.
 
 
-## April 14: **Filipe Bellio da Nóbrega**: Pencils of Conics
+## Apr 14: **Filipe Bellio da Nóbrega**: Pencils of Conics
 A __conic__ is an algebraic curve given by the zero set of a homogeneous polynomial of degree two in three variables, as $ax^2+2hxy+by^2+2fxz+2gyz+cz^2$. Such an expression is given by six coefficients, but multiples of a given equation correspond to the same curve. Therefore, the moduli space of __real conics__ and of __complex conics__ are $\mathbf{RP}^5$ and $\mathbf{CP}^5$ respectively.
 
 A __real (complex) pencil of conics__ is a one-parameter family of conics given by a __real (complex) line__ in the suitable moduli space. Let $u$ and $v$ be two distinct conics, the pencil that contains them can be algebraically given by $\alpha u + \beta v$, where $[\alpha \colon \beta] \in \mathbf{RP}^1$ (or $\mathbf{CP}^1$). In this talk we will describe and classify all orbits of pencils of conics under the action of the projective group $\mathrm{PGL}(3,\mathbf{R})$ ( and $\mathrm{PGL}(3,\mathbf{C})$ ).
 
 
-## March 31: [**Jacques Pienaar**](https://www.jaypienaar.com): [QBism](http://www.physics.umb.edu/Research/QBism/), an introduction for mathematicians
+## Mar 31: [**Jacques Pienaar**](https://www.jaypienaar.com): [QBism](http://www.physics.umb.edu/Research/QBism/), an introduction for mathematicians
 
 
-## March 24: **Bruno Suassuna**: Formal Perturbation Theory for Stochastic Paths
+## Mar 24: **Bruno Suassuna**: Formal Perturbation Theory for Stochastic Paths
 - Short abstract for mathematicians:
 
 We discuss methods of perturbative QFT applied to certain stochastic differential equations (SDE), perturbations of the Ornstein-Uhlenbeck process. No knowledge of SDE or QFT is assumed.
