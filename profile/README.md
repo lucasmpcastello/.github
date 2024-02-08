@@ -42,7 +42,7 @@ We will discuss the relationship between the symplectic geometry of Kapovich-Mil
 
 ### Feb 9 -- Alex Gomez -- Fedosov quantization
 
-In the realm of topological quantum field theories (TQFTs), Moore and Tachikawa's conjecture posits the existence of a two-dimensional TQFT, $\eta_{G_{\mathbb{C}}:Cob2\to MT$, associated with each complex semisimple group $G_{\mathbb{C}$. This TQFT is characterized by a target category, MT, with complex Lie groups as objects and holomorphic symplectic varieties featuring Hamiltonian actions of the groups as morphisms.
+In the realm of topological quantum field theories (TQFTs), Moore and Tachikawa's conjecture posits the existence of a two-dimensional TQFT, $\eta_{G_{\mathbb{C}}}:Cob2 \to MT$, associated with each complex semisimple group $G_{\mathbb{C}}$. This TQFT is characterized by a target category, MT, with complex Lie groups as objects and holomorphic symplectic varieties featuring Hamiltonian actions of the groups as morphisms. On this talk, we  will discuss a real analogue  $MT_{\mathbb{R}}$ of the target category  MT proposed by Olivier Chiriac.
 
 ### TBA -- Lucas Branco
 ### TBA -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
