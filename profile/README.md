@@ -11,41 +11,13 @@
 
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
-### Jan 12 -- Bruno Suassuna -- Weight systems of Chern-Simons-Witten and Rozansky-Witten, and Rozansky-Witten invariants
+### Feb 23 -- Misha Verbitsky -- Deformation theory of holomorphically symplectic manifolds
 
-### Jan 19 -- Altan Erdnigor -- [Quivers](https://en.wikipedia.org/wiki/Quiver_(mathematics)) and [Gabriel's theorem](https://en.wikipedia.org/wiki/Gabriel's_theorem)
-
-By definition, a quiver is a directed graph.  
-In this talk, we will recall the notion of a quiver representation.
-The category of quiver representations can be highly non-trivial, e.g. the category of modules over any finitely-dimensional algebra over a closed field is equivalent to the category of quiver representations for some quiver.  
-However, for some quivers, their representations have only finitely many indecomposables (meaning they are much easier to study).  
-Famously, due to Gabriel, those are precisely the simply-laced Dynkin quivers: $A_n$, $D_n$, $E_6$, $E_7$, $E_8$.
-I will explain how the corresponding combinatorics of root systems arise from representation theory via Bernstein--Gelfand--Ponomarev reflection functors and prove Gabriel's theorem.
-
-### Jan 26 -- 14h -- Orchidea Maria Lecian -- Some new theorems on scarred waveforms in desymmetrised PSL(2, Z) billiards and in those of its congruence subgroups
-
-The scarred wavefunctions of the desymmetrised $PSL(2,\mathbb{Z})$ group  and those of its  congruence subgroups are newly studied. 
-The construction of irrationals after the (Farey)-Pell method is compared with the qualities of the quadratic fields. 
-The action of automorphisms on trees is recalled to explain the action of the Hecke operaors on the Maass waveforms. 
-The Margulis measure (which acquires a multiplicative constant under the action of certain $U$ flows) is used. 
-The opportune Kirkhoff reduced surfaces of section are chosen. 
-Closed geodesics are newly proven to scar the waveforms according to the quadratic field they are constructed after: 
-a) In the desymmetrised $PSL(2,\mathbb{Z})$ group, the scarred waveforms are newly proven to be obtained under the action of the $U$ flow on the  Margulis measure which acts on the  quadratics fields which define the  (also, classes) of closed geodesics.
-b) In the congruence subgroups of the desymmetrised  $PSL(2,\mathbb{Z})$ domain, the scarred wavefunctions are newly proven to occur under the effect of the action of the Bogomolny  transfer operators on the Margulis measure.
-
-
-### Jan 26 -- 16h -- Dmitrii Korshunov -- Flexible polyhedra and symplectic geometry
-
-We will discuss the relationship between the symplectic geometry of Kapovich-Millson space of polygons and the space of isometric realizations of a polyhedral surface in the three dimensional euclidean space. It turns out that the boundaries of all realizations of a generic polyhedral disk sweep out a Lagrangian subset in the space of polygons.
-
-### Feb 2 -- Bruno Suassuna -- Wigner-Weyl transform
-
-### Feb 9 -- Alex Gomez -- A real analogue of the Moore--Tachikawa category
-
-In the realm of topological quantum field theories (TQFTs), Moore and Tachikawa's conjecture posits the existence of a two-dimensional TQFT, $\eta_{G_{\mathbb{C}}}:Cob2 \to MT$, associated with each complex semisimple group $G_{\mathbb{C}}$. This TQFT is characterized by a target category, $\mathrm{MT}$, with complex Lie groups as objects and holomorphic symplectic varieties featuring Hamiltonian actions of the groups as morphisms. On this talk, we  will discuss a real analogue  $MT_{\mathbb{R}}$ of the target category $\mathrm{MT}$ proposed by Olivier Chiriac.
+### Mar 1 -- José Carlos Valencia Alvites -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
 
 ### TBA -- Lucas Branco
-### TBA -- Sergey Galkin -- scaling-winding factorization (tropical talk III)
+
+### TBA -- Bruno Suassuna -- scaling-winding factorization (tropical talk III)
 
 
 ## we are:
@@ -94,8 +66,12 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Schedule
 
+
 ## 2024, verão
 
+- Mar 1 -- José Carlos Valencia Alvites -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
+- Feb 23 -- Misha Verbitsky -- Deformation theory of holomorphically symplectic manifolds
+- Feb 9 -- Alex Gomez -- A real analogue of the Moore--Tachikawa category
 - Feb 2, 16h -- Bruno Suassuna -- Wigner--Weyl transform
 - Jan 26, 16h --  Dmitrii Korshunov -- Flexible polyhedra and symplectic geometry
 - Jan 26, 14h -- Orchidea Maria Lecian -- Some new theorems on scarred waveforms in desymmetrised PSL(2,Z) billiards and in those of its congruence subgroups
@@ -156,7 +132,6 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 ## what's next: plans for 2024
 
-- José Carlos Valencia Alvites: [lattice QCD](https://pt.wikipedia.org/wiki/Cromodin%C3%A2mica_qu%C3%A2ntica)
 - [Henrique Bursztyn](https://w3.impa.br/~henrique): deformation quantization
 - [Rafael Ruggiero](http://www.mat.puc-rio.br/en/professor/rafael-o.-ruggiero): [Information Geometry](https://en.wikipedia.org/wiki/Information_geometry) and thermodynamics
 - Lada: [Riemann-Hilbert correspondence](https://en.wikipedia.org/wiki/Riemann–Hilbert_correspondence)
@@ -171,12 +146,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - [Israel Vainsencher](https://www.mat.ufmg.br/israel): TBA
 - [Thiago Guerreiro](https://www.researchgate.net/profile/Thiago-Guerreiro):
     [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect) for mathematicians
-- (TBC) Fabiola Cordero: [integrable systems on spaces of polygons, matrices and bundles](https://github.com/fabiolacordero/Comparative-study-of-integrable-systems-on-spaces-of-polygons-matrices-and-bundles/blob/main/slide-en.pdf): Hitchin, Gaudin, Garnier, Kapovich-Millson bending flow, Jeffrey-Weitsman, Gelfand-Zetlin, Nishinou-Nohara-Ueda, Manon-Belmans-Galkin-Mukhopadhyay, etc
-- Nikita Klemyatin: [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) and its proof (TBC)
 
 
 # some related topics of interest:
 
+- Holomorphic Floer Theory: Kapustin-Rozansky, Kontsevich-Soibelman, [Doan-Rezchikov](https://arxiv.org/abs/2210.12047) (Fueter equations).
 - SUSY, Nahm's theorem on classification of supersymmetry
 - Renormalization in QFT (Quantum Field Theory): Costello's book and Connes-Kreimer's Hopf algebra aproach
 - Combinatorial Physics
@@ -186,7 +160,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - Hitchin integrable system on moduli of Higgs bundles. Gaudin's model as parabolic genus 0 case. Beilinson-Drinfeld's quantization.
 - Stability, GIT, moduli spaces, Narasimhan-Seshadri theorem
 - Parabolic bundles and Mehta-Seshadri theorem. Relation to moduli spaces of spherical polygons.
-- Moduli spaces of Euclidean polygons, Kapovich-Millson's system of bending flows as a limit of Hitchin system
+- Moduli spaces of Euclidean polygons, Kapovich-Millson's system of bending flows as a limit of Hitchin system, e.g. after thesis of Fabiola Cordero: [integrable systems on spaces of polygons, matrices and bundles](https://github.com/fabiolacordero/Comparative-study-of-integrable-systems-on-spaces-of-polygons-matrices-and-bundles/blob/main/slide-en.pdf): Hitchin, Gaudin, Garnier, Kapovich-Millson bending flow, Jeffrey-Weitsman, Gelfand-Zetlin, Nishinou-Nohara-Ueda, Manon-Belmans-Galkin-Mukhopadhyay, etc
 - Additive Horn problem, cohomology of Grassmannian, Knutsen-Tao honeycombs and their polytopes, planar networks
 - Multiplicative Horn problem, quantum cohomology of Grassmannian, and the respective polytopes
 - Non-abelian Hodge theory of Carlos Simpson: three invarnations of representations of fundamental group
@@ -196,12 +170,31 @@ interesting themes and topics for next seminar talks, references, slides of the 
 - [matrix factorizations of a polynomial](https://en.wikipedia.org/wiki/Matrix_factorization_of_a_polynomial), Landau-Ginzburg models, singularity category, Khovanov-Rozansky link invariants
 - Gauged Linear Sigma Models and phase transition, VGIT and MMP, Goldstone and Higgs mechanisms of mass generation
 - [semiorthogonal decompositios](https://en.wikipedia.org/wiki/Semiorthogonal_decomposition)
+- [Calabi--Yau theorem](https://en.wikipedia.org/wiki/Calabi_conjecture) and its proof (Nikita Klemyatin, TBC)
 - other research-related topics (add yours)
 
 
 
 
+
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
+
+### Mar 1 -- **José Carlos Valencia Alvites** -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
+
+Protons and neutrons are nucleons, and each nucleon is made of elementary particles; quarks and gluons. These elementary particles interact among themselves through strong nuclear force (strong force). Quantum Chromodynamics (QCD) is the branch of theoretical physics that describes the strong force. In this talk we will explain the mathematical construction of the lattice QCD model in the strong coupling regime. Since our goal is to understand the mathematical structure of the model, we will basically focus on the consequences of the thermodynamic limit of correlation functions and the Osterwalder-Schrader positivity.
+
+### Feb 23 -- **Misha Verbitsky** -- Deformation theory of holomorphically symplectic manifolds
+
+It is not hard to see that a holomorphically symplectic form defines a complex structure uniquely. The notion of а C-symplectic structure is used to define the holomorphically symplectic manifolds with no reliance on complex structures. Deformations of complex structures are usually obtained using the solutions of the appropriate Maurer-Cartan equation. I would explain what equation plays its role in the C-symplectic geometry, and construct a recursive solution for the C-symplectic Maurer-Cartan, which is in fact much easier than the classical deformation theory. This gives a new and very simple proof of Bogomolov's local Torelli theorem for hyperkahler manifolds. I would explain how this construction is used to give a generalization of Voisin's famous theorem about deformations of holomorphic Lagrangian subvarieties. 
+This is a joint work with Nikon Kurnosov.
+
+### Feb 9 -- **Alex Gomez** -- A real analogue of the Moore--Tachikawa category
+
+In the realm of topological quantum field theories (TQFTs), Moore and Tachikawa's conjecture [1106.5689](https://arxiv.org/abs/1106.5698) posits the existence of a two-dimensional TQFT, $\eta_{G_{\mathbb{C}}}:Cob2 \to MT$, associated with each complex semisimple group $G_{\mathbb{C}}$. This TQFT is characterized by a target category, $\mathrm{MT}$, with complex Lie groups as objects and holomorphic symplectic varieties featuring Hamiltonian actions of the groups as morphisms. On this talk, we  will discuss a real analogue  $MT_{\mathbb{R}}$ of the target category $\mathrm{MT}$ proposed by Olivier Chiriac in [2111.13268](https://arxiv.org/abs/2111.13268v1).
+
+### Feb 2 -- **Bruno Suassuna** -- [Wigner-Weyl transform](https://en.wikipedia.org/wiki/Wigner-Weyl_transform)
+
+The talk is about the Wigner-Weyl transform (Eugene Wigner and Hermann Weyl). This is an example of "quantization", in the physicist's sense: a way to define quantum observables (self-adjoint operators on a Hilbert space) from functions in the symplectic vector space R^{2n}. The goal is to introduce the idea of quantization through this very particular example, since later we will have lots of talks with "quantization" in the title!
 
 ### Jan 26, 16h -- **Dmitrii Korshunov** -- Flexible polyhedra and symplectic geometry
 
