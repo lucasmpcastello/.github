@@ -17,6 +17,8 @@
 
 ### TBA -- Lucas Branco
 
+### Mar 22 -- Boris Khesin
+
 ### TBA -- Bruno Suassuna -- scaling-winding factorization (tropical talk III)
 
 
@@ -66,6 +68,11 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Schedule
 
+## 2024.1
+
+- Mar 22 -- Boris Khesin
+- Mar 15 -- TBA
+- Mar 8 -- TBA
 
 ## 2024, verão
 
