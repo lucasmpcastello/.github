@@ -15,9 +15,13 @@
 
 ### Mar 1 -- José Carlos Valencia Alvites -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
 
-### TBA -- Lucas Branco
+### Mar 8 -- Lucas Branco
 
-### Mar 22 -- Boris Khesin
+### Mar 15 -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction)
+
+### Mar 22 -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin)
+
+### Mar 29 -- no seminar (Good Friday)
 
 ### TBA -- Bruno Suassuna -- scaling-winding factorization (tropical talk III)
 
@@ -53,9 +57,9 @@ their interfaces in
 and related topics.
 
 ## when and where:
-  - 🕑 Fridays (sexta-feiras) from **14:00 to 18:00**
+  - 🕑 Fridays (sexta-feiras) between **14:00 and 18:00**, either one long or two shorter talks
   - **DMAT PUC-Rio**, room **L863** in Leme building (left from main entrance)
-  - take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" (one with nuns) in front of "Livraria Carga Nobre" bookstore
+  - take an elevator to 8th floor near "Bar Nossa Senhora do Carmo" (the one served by nuns)
   - When room L863 will be occupied or not suitable, we will use room L856
   - 🥗 lunch before the seminar; after 18:00 -- supper in Planetário Gávea
   - soulmate seminar "Geometric Structures on Manifolds" -- Thursday 17:00, IMPA room 236
@@ -68,16 +72,19 @@ interesting themes and topics for next seminar talks, references, slides of the 
 
 # Schedule
 
-## 2024.1
+## 2024.1 (March 4 -- July 5)
 
-- Mar 22 -- Boris Khesin
-- Mar 15 -- TBA
-- Mar 8 -- TBA
+Holidays: March 29, May 31
 
-## 2024, verão
+- Mar 29 -- [Sexta-Feira da Paixão](https://pt.wikipedia.org/wiki/Sexta-feira_Santa)
+- Mar 22 -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin)
+- Mar 15 -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction)
+- Mar 8 -- Lucas Branco
+
+## 2024 Summer (Jan 8 -- Mar 1)
 
 - Mar 1 -- José Carlos Valencia Alvites -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
-- Feb 23 -- Misha Verbitsky -- Deformation theory of holomorphically symplectic manifolds
+- Feb 23 -- [Misha Verbitsky](http://verbit.ru) -- Deformation theory of holomorphically symplectic manifolds
 - Feb 9 -- Alex Gomez -- A real analogue of the Moore--Tachikawa category
 - Feb 2, 16h -- Bruno Suassuna -- Wigner--Weyl transform
 - Jan 26, 16h --  Dmitrii Korshunov -- Flexible polyhedra and symplectic geometry
