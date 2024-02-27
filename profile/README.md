@@ -12,7 +12,7 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 
-### Mar 1 -- José Carlos Valencia Alvites -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
+### Mar 1, 15:00 -- José Carlos Valencia Alvites -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
 
 Protons and neutrons are nucleons, and each nucleon is made of elementary particles; quarks and gluons.
 These elementary particles interact among themselves through strong nuclear force (strong force).
@@ -89,7 +89,7 @@ Holidays: March 29, May 31
 
 ## 2024 Summer (Jan 8 -- Mar 1)
 
-- Mar 1 -- José Carlos Valencia Alvites -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
+- Mar 1, 15h -- José Carlos Valencia Alvites -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
 - Feb 23 -- [Misha Verbitsky](http://verbit.ru) -- Deformation theory of holomorphically symplectic manifolds
 - Feb 9 -- Alex Gomez -- A real analogue of the Moore--Tachikawa category
 - Feb 2, 16h -- Bruno Suassuna -- Wigner--Weyl transform
@@ -198,6 +198,13 @@ Holidays: March 29, May 31
 
 
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
+
+
+### Mar 22 -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin)
+
+### Mar 15 -- **Altan Erdnigor** -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction)
+
+### Mar 8 -- **Lucas Branco**
 
 ### Mar 1 -- **José Carlos Valencia Alvites** -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
 
