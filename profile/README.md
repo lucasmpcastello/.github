@@ -12,20 +12,13 @@
 # 🌊 Friday seminar 🌴🏖 Seminário das Sextas 🌊
 
 
-### Mar 1, 15:00 -- [José Carlos Valencia Alvites](http://www.uel.br/pos/pgmac/professores/prof_JoseCarlos.html) -- On [lattice Quantum Chromodynamics](https://en.wikipedia.org/wiki/Lattice_QCD) models in the strong coupling regime
-
-Protons and neutrons are nucleons, and each nucleon is made of elementary particles; quarks and gluons.
-These elementary particles interact among themselves through strong nuclear force (strong force).
-Quantum Chromodynamics (QCD) is the branch of theoretical physics that describes the strong force.
-In this talk we will explain the mathematical construction of the lattice QCD model in the strong coupling regime.
-Since our goal is to understand the mathematical structure of the model, we will basically focus on the consequences
-of the thermodynamic limit of correlation functions and the Osterwalder-Schrader positivity.
-
 ### Mar 8 -- Lucas Branco
 
 ### Mar 15 -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction)
 
-### Mar 22 -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin)
+### Mar 22 -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of pentagram maps
+
+The pentagram map on polygons in the projective plane was introduced by R.Schwartz in 1992 and is by now one of the most popular and classical discrete integrable systems. We survey definitions and integrability properties of the pentagram maps on generic plane polygons and their generalizations to higher dimensions. In particular, we define long-diagonal pentagram maps on polygons in $\mathbf{RP}^d$, encompassing all known integrable cases. We also describe the corresponding continuous limit of such pentagram maps: in dimension d it turns out to be the $(2, d + 1)$-equation of the KdV hierarchy, generalizing the Boussinesq equation in 2D. This is a joint work with F.Soloviev and A.Izosimov.
 
 ### Mar 29 -- no seminar (Good Friday)
 
@@ -83,7 +76,7 @@ interesting themes and topics for next seminar talks, references, slides of the 
 Holidays: March 29, May 31
 
 - Mar 29 -- [Sexta-Feira da Paixão](https://pt.wikipedia.org/wiki/Sexta-feira_Santa)
-- Mar 22 -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin)
+- Mar 22 -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of pentagram maps
 - Mar 15 -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction)
 - Mar 8 -- Lucas Branco
 
@@ -200,7 +193,9 @@ Holidays: March 29, May 31
 # Abstracts of all talks      ⭣⭣⭣ add yours below ⭣⭣⭣
 
 
-### Mar 22 -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin)
+### Mar 22 -- [Boris Khesin](https://en.wikipedia.org/wiki/Boris_Khesin) -- Dynamics of pentagram maps
+
+The pentagram map on polygons in the projective plane was introduced by R.Schwartz in 1992 and is by now one of the most popular and classical discrete integrable systems. We survey definitions and integrability properties of the pentagram maps on generic plane polygons and their generalizations to higher dimensions. In particular, we define long-diagonal pentagram maps on polygons in $\mathbf{RP}^d$, encompassing all known integrable cases. We also describe the corresponding continuous limit of such pentagram maps: in dimension d it turns out to be the $(2, d + 1)$-equation of the KdV hierarchy, generalizing the Boussinesq equation in 2D. This is a joint work with F.Soloviev and A.Izosimov.
 
 ### Mar 15 -- **Altan Erdnigor** -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction)
 
