@@ -1,4 +1,4 @@
-<!--
+<!-- 
 
 **Here are some ideas to get you started:**
 
@@ -13,6 +13,8 @@
 
 
 ### Mar 8 -- Lucas Branco -- What is... a [Higgs bundle](https://en.wikipedia.org/wiki/Higgs_bundle)?
+
+This is the first of two talks about Higgs bundles over a Riemann surface. Designed with students in mind, our aim is to provide an overview of some aspects of the Higgs bundle moduli space. By recalling these concepts, we lay the groundwork for the subsequent talk.
 
 ### Mar 8 -- Altan Erdnigor -- [Quantization commutes with Reduction](https://en.wikipedia.org/wiki/Quantization_commutes_with_reduction), part I/II
 
